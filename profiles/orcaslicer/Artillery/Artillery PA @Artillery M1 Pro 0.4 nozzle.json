@@ -10,7 +10,7 @@
         "0"
     ],
     "hot_plate_temp": [
-        "50"
+        "100"
     ],
     "cool_plate_temp_initial_layer": [
         "100"
@@ -19,7 +19,7 @@
         "0"
     ],
     "hot_plate_temp_initial_layer": [
-        "50"
+        "100"
     ],
     "overhang_fan_threshold": [
         "0%"
@@ -139,10 +139,10 @@
         "280"
     ],
     "additional_cooling_fan_speed": [
-        "70"
+        "0"
     ],
-    "setting_id": "GFSA04",
     "filament_id": "GFL99",
+    "setting_id": "GFSA04",
     "compatible_printers": [
         "Artillery M1 Pro 0.4 nozzle"
     ],
@@ -152,7 +152,6 @@
     "during_print_exhaust_fan_speed": [
         "0"
     ],
-    "version": "2.1.2.2",
     "enable_pressure_advance": [
         "1"
     ],

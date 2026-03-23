@@ -251,8 +251,6 @@
     "idle_temperature": [
         "180"
     ],
-    "is_custom_defined": "0",
-    "version": "2.3.1.10",
     "adaptive_pressure_advance": [
         "0"
     ],

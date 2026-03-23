@@ -256,7 +256,5 @@
     ],
     "idle_temperature": [
         "205"
-    ],
-    "is_custom_defined": "0",
-    "version": "2.3.1.10"
+    ]
 }
