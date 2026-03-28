@@ -361,6 +361,7 @@
         "14"
     ],
     "slow_down_min_speed": [
+        "25",
         "25"
     ],
     "temperature_vitrification": [
