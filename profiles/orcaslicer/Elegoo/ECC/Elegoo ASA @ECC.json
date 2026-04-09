@@ -3,41 +3,53 @@
     "name": "Elegoo ASA @ECC",
     "from": "system",
     "instantiation": "true",
-    "activate_air_filtration": [
-        "0"
-    ],
-    "chamber_temperatures": [
-        "0"
-    ],
-    "close_fan_the_first_x_layers": [
-        "3"
-    ],
-    "complete_print_exhaust_fan_speed": [
-        "70"
-    ],
     "cool_plate_temp": [
         "0"
-    ],
-    "cool_plate_temp_initial_layer": [
-        "0"
-    ],
-    "during_print_exhaust_fan_speed": [
-        "70"
     ],
     "eng_plate_temp": [
         "90"
     ],
+    "hot_plate_temp": [
+        "90"
+    ],
+    "textured_plate_temp": [
+        "90"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "0"
+    ],
     "eng_plate_temp_initial_layer": [
         "90"
     ],
-    "fan_cooling_layer_time": [
-        "35"
+    "hot_plate_temp_initial_layer": [
+        "90"
     ],
-    "fan_max_speed": [
+    "textured_plate_temp_initial_layer": [
+        "90"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "overhang_fan_speed": [
         "80"
     ],
-    "fan_min_speed": [
-        "10"
+    "slow_down_for_layer_cooling": [
+        "1"
+    ],
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \n"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "35"
     ],
     "filament_cost": [
         "0"
@@ -51,22 +63,16 @@
     "filament_diameter": [
         "1.75"
     ],
-    "filament_flow_ratio": [
-        "0.98"
-    ],
-    "filament_is_support": [
-        "0"
-    ],
     "filament_max_volumetric_speed": [
         "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
-    "filament_retract_before_wipe": [
+    "filament_retraction_minimum_travel": [
         "nil"
     ],
-    "filament_retract_restart_extra": [
+    "filament_retract_before_wipe": [
         "nil"
     ],
     "filament_retract_when_changing_layer": [
@@ -75,7 +81,13 @@
     "filament_retraction_length": [
         "nil"
     ],
-    "filament_retraction_minimum_travel": [
+    "filament_z_hop": [
+        "nil"
+    ],
+    "filament_z_hop_types": [
+        "nil"
+    ],
+    "filament_retract_restart_extra": [
         "nil"
     ],
     "filament_retraction_speed": [
@@ -99,67 +111,38 @@
     "filament_wipe_distance": [
         "nil"
     ],
-    "filament_z_hop": [
-        "nil"
-    ],
-    "filament_z_hop_types": [
-        "nil"
-    ],
-    "full_fan_speed_layer": [
-        "0"
-    ],
-    "hot_plate_temp": [
-        "90"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "90"
-    ],
-    "nozzle_temperature": [
-        "270"
+    "bed_type": [
+        "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
         "270"
     ],
-    "overhang_fan_speed": [
+    "full_fan_speed_layer": [
+        "0"
+    ],
+    "fan_max_speed": [
         "80"
     ],
-    "overhang_fan_threshold": [
-        "25%"
-    ],
-    "reduce_fan_stop_start_freq": [
-        "1"
-    ],
-    "required_nozzle_HRC": [
-        "3"
-    ],
-    "slow_down_for_layer_cooling": [
-        "1"
-    ],
-    "slow_down_layer_time": [
-        "3"
+    "fan_min_speed": [
+        "10"
     ],
     "slow_down_min_speed": [
         "20"
     ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n"
+    ],
+    "nozzle_temperature": [
+        "270"
+    ],
     "temperature_vitrification": [
         "100"
     ],
-    "textured_plate_temp": [
-        "90"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "90"
-    ],
-    "compatible_printers": [
-        "Elegoo Centauri Carbon 0.4 nozzle",
-        "Elegoo Centauri Carbon 0.6 nozzle",
-        "Elegoo Centauri Carbon 0.8 nozzle"
-    ],
-    "filament_start_gcode": [
-        "; Filament start gcode\n"
-    ],
-    "filament_end_gcode": [
-        "; filament end gcode \n"
+    "activate_air_filtration": [
+        "1"
     ],
     "nozzle_temperature_range_high": [
         "280"
@@ -167,9 +150,14 @@
     "nozzle_temperature_range_low": [
         "240"
     ],
-    "filament_id": "EASAB00",
+    "filament_id": "OGFE06",
     "setting_id": "EASAECC",
     "pressure_advance": [
         "0.024"
+    ],
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle",
+        "Elegoo Centauri Carbon 0.6 nozzle",
+        "Elegoo Centauri Carbon 0.8 nozzle"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Elegoo PETG Pro @System",
+    "name": "Elegoo Rapid PETG @ECC",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
@@ -13,7 +13,7 @@
         "65"
     ],
     "textured_plate_temp": [
-        "75"
+        "70"
     ],
     "cool_plate_temp_initial_layer": [
         "60"
@@ -25,7 +25,7 @@
         "65"
     ],
     "textured_plate_temp_initial_layer": [
-        "75"
+        "70"
     ],
     "overhang_fan_threshold": [
         "95%"
@@ -52,10 +52,10 @@
         "20"
     ],
     "filament_cost": [
-        "12.49"
+        "13.99"
     ],
     "filament_density": [
-        "1.27"
+        "1.28"
     ],
     "filament_deretraction_speed": [
         "45"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "20"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -115,7 +115,7 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "240"
+        "250"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -136,18 +136,26 @@
         "; Filament start gcode\n"
     ],
     "nozzle_temperature": [
-        "245"
+        "255"
     ],
     "temperature_vitrification": [
         "70"
     ],
     "nozzle_temperature_range_high": [
-        "260"
+        "270"
     ],
     "nozzle_temperature_range_low": [
-        "230"
+        "240"
     ],
-    "filament_id": "OGFE02",
-    "setting_id": "OGFSE02_00",
-    "compatible_printers": []
+    "filament_id": "OGFE01",
+    "renamed_from": "Elegoo RAPID PETG @ECC",
+    "setting_id": "ERPETGECC",
+    "pressure_advance": [
+        "0.024"
+    ],
+    "compatible_printers": [
+        "Elegoo Centauri Carbon 0.4 nozzle",
+        "Elegoo Centauri Carbon 0.6 nozzle",
+        "Elegoo Centauri Carbon 0.8 nozzle"
+    ]
 }

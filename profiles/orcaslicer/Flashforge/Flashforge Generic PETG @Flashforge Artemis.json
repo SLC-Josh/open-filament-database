@@ -1,37 +1,37 @@
 {
     "type": "filament",
-    "name": "Elegoo TPU 95A @ECC",
+    "name": "Generic PETG @Flashforge Artemis",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "30"
+        "85"
     ],
     "eng_plate_temp": [
-        "30"
+        "85"
     ],
     "hot_plate_temp": [
-        "35"
+        "80"
     ],
     "textured_plate_temp": [
-        "35"
+        "85"
     ],
     "cool_plate_temp_initial_layer": [
-        "30"
+        "85"
     ],
     "eng_plate_temp_initial_layer": [
-        "30"
+        "85"
     ],
     "hot_plate_temp_initial_layer": [
-        "35"
+        "80"
     ],
     "textured_plate_temp_initial_layer": [
-        "35"
+        "85"
     ],
     "overhang_fan_threshold": [
-        "95%"
+        "25%"
     ],
     "overhang_fan_speed": [
-        "100"
+        "80"
     ],
     "slow_down_for_layer_cooling": [
         "1"
@@ -40,7 +40,7 @@
         "1"
     ],
     "filament_end_gcode": [
-        "; filament end gcode \n"
+        "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
         "1"
@@ -49,13 +49,13 @@
         "1"
     ],
     "fan_cooling_layer_time": [
-        "100"
+        "30"
     ],
     "filament_cost": [
-        "20"
+        "30"
     ],
     "filament_density": [
-        "1.21"
+        "1.27"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "3.2"
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -79,7 +79,7 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.4"
+        "nil"
     ],
     "filament_z_hop": [
         "nil"
@@ -100,10 +100,10 @@
         "0"
     ],
     "filament_type": [
-        "TPU"
+        "PETG"
     ],
     "filament_vendor": [
-        "Elegoo"
+        "Generic"
     ],
     "filament_wipe": [
         "nil"
@@ -112,58 +112,56 @@
         "nil"
     ],
     "bed_type": [
-        "Cool Plate"
+        "Textured PEI Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "235"
     ],
     "full_fan_speed_layer": [
         "0"
     ],
     "fan_max_speed": [
-        "100"
+        "90"
     ],
     "fan_min_speed": [
-        "100"
+        "40"
     ],
     "slow_down_min_speed": [
-        "10"
+        "30"
     ],
     "slow_down_layer_time": [
         "8"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n"
+        "; filament start gcode \n; right_extruder_material:PETG"
     ],
     "nozzle_temperature": [
-        "225"
+        "235"
     ],
     "temperature_vitrification": [
-        "30"
-    ],
-    "additional_cooling_fan_speed": [
         "70"
     ],
-    "supertack_plate_temp": [
-        "0"
-    ],
-    "supertack_plate_temp_initial_layer": [
-        "0"
+    "nozzle_temperature_range_low": [
+        "220"
     ],
     "nozzle_temperature_range_high": [
         "250"
     ],
-    "nozzle_temperature_range_low": [
-        "200"
+    "setting_id": "FFFP02",
+    "filament_id": "FFF03",
+    "support_material_interface_fan_speed": [
+        "90"
     ],
-    "filament_id": "OGFE07",
-    "setting_id": "ETPU95AECC",
+    "additional_cooling_fan_speed": [
+        "50"
+    ],
+    "enable_pressure_advance": [
+        "0"
+    ],
     "pressure_advance": [
-        "0.024"
+        "0.0"
     ],
     "compatible_printers": [
-        "Elegoo Centauri Carbon 0.4 nozzle",
-        "Elegoo Centauri Carbon 0.6 nozzle",
-        "Elegoo Centauri Carbon 0.8 nozzle"
+        "Flashforge Artemis 0.4 Nozzle"
     ]
 }
