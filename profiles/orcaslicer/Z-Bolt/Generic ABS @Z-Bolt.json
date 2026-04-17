@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Z-Bolt PETG @0.6 nozzle",
+    "name": "Generic ABS @Z-Bolt",
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
@@ -16,34 +16,34 @@
         "70"
     ],
     "cool_plate_temp": [
-        "60"
+        "0"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "0"
     ],
     "during_print_exhaust_fan_speed": [
         "70"
     ],
     "eng_plate_temp": [
-        "0"
+        "100"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "105"
     ],
     "fan_cooling_layer_time": [
         "30"
     ],
     "fan_max_speed": [
-        "90"
+        "80"
     ],
     "fan_min_speed": [
-        "45"
+        "25"
     ],
     "filament_cost": [
-        "30"
+        "20"
     ],
     "filament_density": [
-        "1.27"
+        "1.04"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -52,7 +52,7 @@
         "1.75"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.926"
     ],
     "filament_is_support": [
         "0"
@@ -61,7 +61,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "10"
+        "20"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -94,7 +94,7 @@
         "0"
     ],
     "filament_type": [
-        "PETG"
+        "ABS"
     ],
     "filament_vendor": [
         "Generic"
@@ -112,7 +112,7 @@
         "nil"
     ],
     "full_fan_speed_layer": [
-        "3"
+        "0"
     ],
     "filament_scarf_seam_type": [
         "none"
@@ -130,22 +130,22 @@
         "100%"
     ],
     "hot_plate_temp": [
-        "75"
+        "110"
     ],
     "hot_plate_temp_initial_layer": [
-        "75"
+        "110"
     ],
     "nozzle_temperature": [
-        "235"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "235"
+        "260"
     ],
     "overhang_fan_speed": [
-        "90"
+        "80"
     ],
     "overhang_fan_threshold": [
-        "10%"
+        "25%"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -154,28 +154,28 @@
         "3"
     ],
     "supertack_plate_temp": [
-        "70"
+        "0"
     ],
     "supertack_plate_temp_initial_layer": [
-        "70"
+        "0"
     ],
     "slow_down_for_layer_cooling": [
         "1"
     ],
     "slow_down_layer_time": [
-        "12"
+        "3"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "temperature_vitrification": [
-        "70"
+        "110"
     ],
     "textured_plate_temp": [
-        "75"
+        "110"
     ],
     "textured_plate_temp_initial_layer": [
-        "75"
+        "110"
     ],
     "filament_start_gcode": [
         "; Filament gcode\n"
@@ -184,6 +184,15 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [
+        "Z-Bolt S300 0.4 nozzle",
+        "Z-Bolt S300 Dual 0.4 nozzle",
+        "Z-Bolt S400 0.4 nozzle",
+        "Z-Bolt S400 Dual 0.4 nozzle",
+        "Z-Bolt S600 0.4 nozzle",
+        "Z-Bolt S600 Dual 0.4 nozzle",
+        "Z-Bolt S800 Dual 0.4 nozzle",
+        "Z-Bolt S1000 0.4 nozzle",
+        "Z-Bolt S1000 Dual 0.4 nozzle",
         "Z-Bolt S300 0.6 nozzle",
         "Z-Bolt S300 Dual 0.6 nozzle",
         "Z-Bolt S400 0.6 nozzle",
@@ -192,14 +201,24 @@
         "Z-Bolt S600 Dual 0.6 nozzle",
         "Z-Bolt S800 Dual 0.6 nozzle",
         "Z-Bolt S1000 0.6 nozzle",
-        "Z-Bolt S1000 Dual 0.6 nozzle"
+        "Z-Bolt S1000 Dual 0.6 nozzle",
+        "Z-Bolt S300 0.8 nozzle",
+        "Z-Bolt S300 Dual 0.8 nozzle",
+        "Z-Bolt S400 0.8 nozzle",
+        "Z-Bolt S400 Dual 0.8 nozzle",
+        "Z-Bolt S600 0.8 nozzle",
+        "Z-Bolt S600 Dual 0.8 nozzle",
+        "Z-Bolt S800 Dual 0.8 nozzle",
+        "Z-Bolt S1000 0.8 nozzle",
+        "Z-Bolt S1000 Dual 0.8 nozzle"
     ],
-    "filament_id": "GFL306",
     "nozzle_temperature_range_high": [
-        "260"
+        "280"
     ],
     "nozzle_temperature_range_low": [
-        "220"
+        "240"
     ],
-    "setting_id": "GFSL306"
+    "renamed_from": "Z-Bolt ABS",
+    "setting_id": "GFSL200",
+    "filament_id": "GFL200"
 }

@@ -1,13 +1,13 @@
 {
     "type": "filament",
-    "name": "Z-Bolt ABS @0.8 nozzle",
+    "name": "Generic ABS HT @Z-Bolt 0.4 nozzle",
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
         "0"
     ],
     "chamber_temperatures": [
-        "0"
+        "60"
     ],
     "close_fan_the_first_x_layers": [
         "3"
@@ -61,7 +61,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "21"
+        "15"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -136,10 +136,10 @@
         "110"
     ],
     "nozzle_temperature": [
-        "250"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "260"
     ],
     "overhang_fan_speed": [
         "80"
@@ -184,15 +184,15 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [
-        "Z-Bolt S300 0.8 nozzle",
-        "Z-Bolt S300 Dual 0.8 nozzle",
-        "Z-Bolt S400 0.8 nozzle",
-        "Z-Bolt S400 Dual 0.8 nozzle",
-        "Z-Bolt S600 0.8 nozzle",
-        "Z-Bolt S600 Dual 0.8 nozzle",
-        "Z-Bolt S800 Dual 0.8 nozzle",
-        "Z-Bolt S1000 0.8 nozzle",
-        "Z-Bolt S1000 Dual 0.8 nozzle"
+        "Z-Bolt S300 0.4 nozzle",
+        "Z-Bolt S300 Dual 0.4 nozzle",
+        "Z-Bolt S400 0.4 nozzle",
+        "Z-Bolt S400 Dual 0.4 nozzle",
+        "Z-Bolt S600 0.4 nozzle",
+        "Z-Bolt S600 Dual 0.4 nozzle",
+        "Z-Bolt S800 Dual 0.4 nozzle",
+        "Z-Bolt S1000 0.4 nozzle",
+        "Z-Bolt S1000 Dual 0.4 nozzle"
     ],
     "nozzle_temperature_range_high": [
         "280"
@@ -200,6 +200,8 @@
     "nozzle_temperature_range_low": [
         "240"
     ],
-    "setting_id": "GFSL208",
-    "filament_id": "GFL208"
+    "renamed_from": "Z-Bolt ABS HT @0.4 nozzle",
+    "setting_id": "GFSL504",
+    "filament_id": "GFL504",
+    "description": "Use this filament profile to print big ABS models with chamber heating"
 }

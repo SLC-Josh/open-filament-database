@@ -1,13 +1,13 @@
 {
     "type": "filament",
-    "name": "Z-Bolt ABS HT @0.6 nozzle",
+    "name": "Generic PA @Z-Bolt 0.6 nozzle",
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
         "0"
     ],
     "chamber_temperatures": [
-        "60"
+        "80"
     ],
     "close_fan_the_first_x_layers": [
         "3"
@@ -28,16 +28,16 @@
         "100"
     ],
     "eng_plate_temp_initial_layer": [
-        "105"
+        "100"
     ],
     "fan_cooling_layer_time": [
-        "30"
+        "5"
     ],
     "fan_max_speed": [
-        "80"
+        "30"
     ],
     "fan_min_speed": [
-        "25"
+        "10"
     ],
     "filament_cost": [
         "20"
@@ -52,7 +52,7 @@
         "1.75"
     ],
     "filament_flow_ratio": [
-        "0.926"
+        "0.96"
     ],
     "filament_is_support": [
         "0"
@@ -61,7 +61,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "18"
+        "10"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -94,7 +94,7 @@
         "0"
     ],
     "filament_type": [
-        "ABS"
+        "PA"
     ],
     "filament_vendor": [
         "Generic"
@@ -130,28 +130,28 @@
         "100%"
     ],
     "hot_plate_temp": [
-        "110"
+        "140"
     ],
     "hot_plate_temp_initial_layer": [
-        "110"
+        "140"
     ],
     "nozzle_temperature": [
-        "250"
+        "270"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "270"
     ],
     "overhang_fan_speed": [
-        "80"
+        "30"
     ],
     "overhang_fan_threshold": [
-        "25%"
+        "0%"
     ],
     "reduce_fan_stop_start_freq": [
-        "1"
+        "0"
     ],
     "required_nozzle_HRC": [
-        "3"
+        "40"
     ],
     "supertack_plate_temp": [
         "0"
@@ -163,19 +163,19 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "3"
+        "2"
     ],
     "slow_down_min_speed": [
         "10"
     ],
     "temperature_vitrification": [
-        "110"
+        "108"
     ],
     "textured_plate_temp": [
-        "110"
+        "130"
     ],
     "textured_plate_temp_initial_layer": [
-        "110"
+        "140"
     ],
     "filament_start_gcode": [
         "; Filament gcode\n"
@@ -194,13 +194,13 @@
         "Z-Bolt S1000 0.6 nozzle",
         "Z-Bolt S1000 Dual 0.6 nozzle"
     ],
+    "filament_id": "GFL406",
     "nozzle_temperature_range_high": [
-        "280"
+        "300"
     ],
     "nozzle_temperature_range_low": [
-        "240"
+        "260"
     ],
-    "setting_id": "GFSL506",
-    "filament_id": "GFL506",
-    "description": "Use this filament profile to print big ABS models with chamber heating"
+    "renamed_from": "Z-Bolt PA @0.6 nozzle",
+    "setting_id": "GFSL406"
 }
