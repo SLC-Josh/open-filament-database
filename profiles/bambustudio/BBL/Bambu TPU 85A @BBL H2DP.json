@@ -74,13 +74,15 @@
     "filament_extruder_compatibility": [
         "0"
     ],
-    "filament_change_length": [
+    "filament_cooling_before_tower": [
+        "10",
+        "10",
         "10"
     ],
-    "filament_cooling_before_tower": [
-        "0",
-        "0",
-        "0"
+    "filament_preheat_temperature_delta": [
+        "10",
+        "10",
+        "10"
     ],
     "filament_tower_interface_pre_extrusion_dist": [
         "10"
@@ -202,11 +204,6 @@
     "filament_printable": [
         "2"
     ],
-    "filament_ramming_travel_time": [
-        "20",
-        "20",
-        "20"
-    ],
     "filament_ramming_travel_time_nc": [
         "0",
         "0",
@@ -226,11 +223,6 @@
         "nil",
         "nil",
         "nil"
-    ],
-    "filament_retract_length_nc": [
-        "14",
-        "14",
-        "14"
     ],
     "filament_retract_restart_extra": [
         "nil",
@@ -265,15 +257,6 @@
         "10",
         "40"
     ],
-    "filament_scarf_gap": [
-        "0%"
-    ],
-    "filament_scarf_height": [
-        "10%"
-    ],
-    "filament_scarf_length": [
-        "10"
-    ],
     "filament_scarf_seam_type": [
         "none"
     ],
@@ -288,9 +271,6 @@
     ],
     "filament_type": [
         "TPU"
-    ],
-    "filament_velocity_adaptation_factor": [
-        "1"
     ],
     "filament_vendor": [
         "Bambu Lab"
@@ -320,6 +300,25 @@
     ],
     "additional_fan_full_speed_layer": [
         "0"
+    ],
+    "filament_scarf_height": [
+        "10%"
+    ],
+    "filament_scarf_gap": [
+        "0%"
+    ],
+    "filament_scarf_length": [
+        "10"
+    ],
+    "filament_ramming_travel_time": [
+        "20",
+        "20",
+        "20"
+    ],
+    "filament_retract_length_nc": [
+        "14",
+        "14",
+        "14"
     ],
     "filament_enable_overhang_speed": [
         "1",
@@ -355,6 +354,12 @@
         "25",
         "25",
         "25"
+    ],
+    "filament_change_length": [
+        "10"
+    ],
+    "filament_velocity_adaptation_factor": [
+        "1"
     ],
     "hot_plate_temp": [
         "35"
