@@ -105,7 +105,9 @@
     "filament_soluble": [
         "0"
     ],
-    "filament_type": "PP",
+    "filament_type": [
+        "PP"
+    ],
     "filament_vendor": [
         "Generic"
     ],
