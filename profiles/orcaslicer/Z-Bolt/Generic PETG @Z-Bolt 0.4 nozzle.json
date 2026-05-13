@@ -201,6 +201,6 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
-    "renamed_from": "Z-Bolt PETG @0.4 nozzle",
+    "renamed_from": "Z-Bolt PETG;Generic PETG @Z-Bolt;Z-Bolt PETG @0.4 nozzle",
     "setting_id": "GFSL304"
 }

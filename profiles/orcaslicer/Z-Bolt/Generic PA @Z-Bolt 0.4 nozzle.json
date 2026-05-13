@@ -201,6 +201,6 @@
     "nozzle_temperature_range_low": [
         "260"
     ],
-    "renamed_from": "Z-Bolt PA @0.4 nozzle",
+    "renamed_from": "Z-Bolt PA;Generic PA @Z-Bolt;Z-Bolt PA @0.4 nozzle",
     "setting_id": "GFSL404"
 }

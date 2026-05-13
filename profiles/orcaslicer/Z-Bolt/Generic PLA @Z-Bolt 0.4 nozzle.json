@@ -204,6 +204,6 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
-    "renamed_from": "Z-Bolt PLA @0.4 nozzle",
+    "renamed_from": "Z-Bolt PLA;Generic PLA @Z-Bolt;Z-Bolt PLA @0.4 nozzle",
     "setting_id": "GFSL100"
 }
