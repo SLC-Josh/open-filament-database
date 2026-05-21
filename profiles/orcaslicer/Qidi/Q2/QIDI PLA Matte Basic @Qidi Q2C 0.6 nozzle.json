@@ -259,5 +259,17 @@
     ],
     "compatible_printers": [
         "Qidi Q2C 0.6 nozzle"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_cool_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "45"
     ]
 }

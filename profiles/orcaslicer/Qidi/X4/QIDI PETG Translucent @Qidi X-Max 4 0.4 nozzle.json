@@ -49,10 +49,10 @@
         "1"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "70"
     ],
     "eng_plate_temp": [
-        "60"
+        "70"
     ],
     "fan_cooling_layer_time": [
         "30"
@@ -190,10 +190,10 @@
         "20"
     ],
     "supertack_plate_temp_initial_layer": [
-        "70"
+        "60"
     ],
     "supertack_plate_temp": [
-        "70"
+        "60"
     ],
     "temperature_vitrification": [
         "70"
@@ -223,5 +223,17 @@
     ],
     "compatible_printers": [
         "Qidi X-Max 4 0.4 nozzle"
+    ],
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_cool_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "60"
     ]
 }

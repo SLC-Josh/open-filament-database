@@ -12,8 +12,14 @@
     "hot_plate_temp": [
         "80"
     ],
+    "supertack_plate_temp": [
+        "45"
+    ],
     "textured_plate_temp": [
         "100"
+    ],
+    "textured_cool_plate_temp": [
+        "45"
     ],
     "cool_plate_temp_initial_layer": [
         "0"
@@ -24,8 +30,14 @@
     "hot_plate_temp_initial_layer": [
         "80"
     ],
+    "supertack_plate_temp_initial_layer": [
+        "45"
+    ],
     "textured_plate_temp_initial_layer": [
         "100"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "45"
     ],
     "overhang_fan_threshold": [
         "95%"

@@ -49,10 +49,10 @@
         "1"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "55"
     ],
     "eng_plate_temp": [
-        "60"
+        "55"
     ],
     "fan_cooling_layer_time": [
         "100"
@@ -220,5 +220,17 @@
     ],
     "compatible_printers": [
         "Qidi X-Max 4 0.4 nozzle"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_cool_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "45"
     ]
 }

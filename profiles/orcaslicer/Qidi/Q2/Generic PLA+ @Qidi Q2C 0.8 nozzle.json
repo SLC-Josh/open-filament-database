@@ -34,10 +34,10 @@
         "0"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "45"
     ],
     "cool_plate_temp": [
-        "60"
+        "45"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -256,5 +256,17 @@
     ],
     "compatible_printers": [
         "Qidi Q2C 0.8 nozzle"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_cool_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "45"
     ]
 }

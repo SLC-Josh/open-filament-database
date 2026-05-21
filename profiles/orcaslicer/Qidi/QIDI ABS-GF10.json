@@ -4,28 +4,40 @@
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "90"
+        "80"
     ],
     "eng_plate_temp": [
         "90"
     ],
     "hot_plate_temp": [
-        "100"
+        "90"
+    ],
+    "supertack_plate_temp": [
+        "80"
     ],
     "textured_plate_temp": [
         "90"
     ],
+    "textured_cool_plate_temp": [
+        "80"
+    ],
     "cool_plate_temp_initial_layer": [
-        "90"
+        "80"
     ],
     "eng_plate_temp_initial_layer": [
         "90"
     ],
     "hot_plate_temp_initial_layer": [
-        "100"
+        "90"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "80"
     ],
     "textured_plate_temp_initial_layer": [
         "90"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "80"
     ],
     "overhang_fan_threshold": [
         "25%"

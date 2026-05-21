@@ -34,10 +34,10 @@
         "0"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "30"
     ],
     "cool_plate_temp": [
-        "60"
+        "30"
     ],
     "dont_slow_down_outer_wall": [
         "0"
@@ -49,10 +49,10 @@
         "1"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "35"
     ],
     "eng_plate_temp": [
-        "60"
+        "35"
     ],
     "fan_cooling_layer_time": [
         "60"
@@ -250,5 +250,23 @@
     ],
     "compatible_printers": [
         "Qidi Q2C 0.6 nozzle"
+    ],
+    "supertack_plate_temp": [
+        "30"
+    ],
+    "textured_plate_temp": [
+        "35"
+    ],
+    "textured_cool_plate_temp": [
+        "30"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "30"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "35"
+    ],
+    "textured_cool_plate_temp_initial_layer": [
+        "30"
     ]
 }
