@@ -51,6 +51,8 @@
     "filament_travel_slope": "1",
     "filament_infill_max_speed": "200",
     "filament_infill_max_crossing_speed": "140",
+    "cooling_slowdown_logic": "consistent_surface",
+    "cooling_perimeter_transition_distance": "10",
     "filament_stamping_distance": "45",
     "filament_stamping_loading_speed": "26.5",
     "filament_multitool_ramming": "1",
