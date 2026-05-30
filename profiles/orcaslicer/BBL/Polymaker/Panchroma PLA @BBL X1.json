@@ -22,10 +22,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
+        "60"
     ],
     "counter_coef_1": [
         "0"
@@ -52,10 +52,10 @@
         "50"
     ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "60"
     ],
     "fan_cooling_layer_time": [
         "100"
@@ -205,10 +205,10 @@
         "0"
     ],
     "hot_plate_temp": [
-        "55"
+        "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "60"
     ],
     "hole_coef_1": [
         "0"
@@ -235,7 +235,7 @@
         "190"
     ],
     "nozzle_temperature_range_high": [
-        "240"
+        "230"
     ],
     "nozzle_temperature": [
         "220"
@@ -244,7 +244,7 @@
         "220"
     ],
     "overhang_fan_speed": [
-        "100"
+        "75"
     ],
     "overhang_fan_threshold": [
         "50%"
@@ -271,16 +271,16 @@
         "4"
     ],
     "slow_down_min_speed": [
-        "20"
+        "5"
     ],
     "temperature_vitrification": [
-        "58"
+        "62.5"
     ],
     "textured_plate_temp": [
-        "55"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "55"
+        "60"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -306,5 +306,8 @@
         "100"
     ],
     "filament_id": "GFPM001",
-    "setting_id": "GFSPM001_06"
+    "setting_id": "GFSPM001_06",
+    "bed_type": [
+        "Cool Plate"
+    ]
 }

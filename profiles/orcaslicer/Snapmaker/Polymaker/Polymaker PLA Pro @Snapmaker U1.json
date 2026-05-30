@@ -7,10 +7,10 @@
         "Polymaker"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n"
+        ""
     ],
     "filament_end_gcode": [
-        "; filament end gcode \n"
+        ""
     ],
     "filament_is_support": [
         "0"
@@ -145,7 +145,7 @@
         "220"
     ],
     "temperature_vitrification": [
-        "61"
+        "55"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -201,22 +201,9 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
-    "temp_min": [
-        "190"
-    ],
-    "temp_max": [
-        "230"
-    ],
-    "temperture_vitrification": [
-        "55"
-    ],
-    "idle_temperture": [
-        "0"
-    ],
-    "description": "",
-    "setting_id": "PMPL03_U1",
+    "filament_id": "GFL79",
+    "setting_id": "GFSL79_00",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
-    ],
-    "filament_id": "PMPL03"
+    ]
 }

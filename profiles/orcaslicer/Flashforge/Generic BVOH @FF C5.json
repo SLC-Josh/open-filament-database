@@ -175,9 +175,7 @@
     "enable_pressure_advance": [
         "1"
     ],
-    "is_custom_defined": "0",
     "pressure_advance": [
         "0.0225"
-    ],
-    "version": "2.3.0.3"
+    ]
 }

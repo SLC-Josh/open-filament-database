@@ -182,12 +182,10 @@
     "enable_pressure_advance": [
         "1"
     ],
-    "is_custom_defined": "0",
     "textured_cool_plate_temp": [
         "0"
     ],
     "textured_cool_plate_temp_initial_layer": [
         "0"
-    ],
-    "version": "2.3.0.3"
+    ]
 }

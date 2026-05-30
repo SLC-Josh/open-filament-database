@@ -7,10 +7,10 @@
         "Polymaker"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n"
+        ""
     ],
     "filament_end_gcode": [
-        "; filament end gcode \n"
+        ""
     ],
     "filament_is_support": [
         "0"
@@ -145,7 +145,7 @@
         "220"
     ],
     "temperature_vitrification": [
-        "60"
+        "59.8"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -193,7 +193,7 @@
         "PLA"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "210"
     ],
     "nozzle_temperature_range_high": [
         "230"
@@ -201,22 +201,10 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
-    "temp_min": [
-        "210"
-    ],
-    "temp_max": [
-        "230"
-    ],
-    "temperture_vitrification": [
-        "156"
-    ],
-    "idle_temperture": [
-        "0"
-    ],
-    "description": "",
-    "setting_id": "PMPL02_U1",
+    "filament_id": "GFPM017",
+    "renamed_from": "Polymaker HT-PLA @U1",
+    "setting_id": "GFSPM017_00",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
-    ],
-    "filament_id": "PMPL02"
+    ]
 }

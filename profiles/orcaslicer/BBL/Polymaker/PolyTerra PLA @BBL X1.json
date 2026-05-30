@@ -22,10 +22,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
+        "60"
     ],
     "counter_coef_1": [
         "0"
@@ -52,10 +52,10 @@
         "50"
     ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "60"
     ],
     "fan_cooling_layer_time": [
         "100"
@@ -67,46 +67,39 @@
         "100"
     ],
     "filament_cost": [
-        "25.4"
+        "21.99"
     ],
     "filament_density": [
-        "1.31"
+        "1.37"
     ],
     "filament_deretraction_speed": [
-        "nil",
         "nil"
     ],
     "filament_diameter": [
         "1.75"
     ],
     "filament_flow_ratio": [
-        "0.98",
         "0.98"
     ],
     "filament_flush_temp": [
-        "0",
         "0"
     ],
     "filament_flush_volumetric_speed": [
-        "0",
         "0"
     ],
     "filament_is_support": [
         "0"
     ],
     "filament_long_retractions_when_cut": [
-        "nil",
         "nil"
     ],
     "filament_long_retractions_when_ec": [
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "22",
         "22"
     ],
     "filament_ramming_volumetric_speed": [
-        "-1",
         "-1"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -131,34 +124,27 @@
         "3"
     ],
     "filament_retract_before_wipe": [
-        "nil",
         "nil"
     ],
     "filament_retract_restart_extra": [
-        "nil",
         "nil"
     ],
     "filament_retract_when_changing_layer": [
-        "nil",
         "nil"
     ],
     "filament_retraction_distances_when_cut": [
-        "nil",
         "nil"
     ],
     "filament_retraction_distances_when_ec": [
         "nil"
     ],
     "filament_retraction_length": [
-        "nil",
         "nil"
     ],
     "filament_retraction_minimum_travel": [
-        "nil",
         "nil"
     ],
     "filament_retraction_speed": [
-        "nil",
         "nil"
     ],
     "filament_settings_id": [
@@ -174,22 +160,18 @@
         "Polymaker"
     ],
     "filament_wipe": [
-        "nil",
         "nil"
     ],
     "filament_wipe_distance": [
-        "nil",
         "nil"
     ],
     "filament_prime_volume": [
         "45"
     ],
     "filament_z_hop": [
-        "nil",
         "nil"
     ],
     "filament_z_hop_types": [
-        "nil",
         "nil"
     ],
     "full_fan_speed_layer": [
@@ -199,8 +181,7 @@
         "0"
     ],
     "filament_extruder_variant": [
-        "Direct Drive Standard",
-        "Direct Drive High Flow"
+        "Direct Drive Standard"
     ],
     "filament_scarf_seam_type": [
         "none"
@@ -218,18 +199,16 @@
         "100%"
     ],
     "filament_pre_cooling_temperature": [
-        "0",
         "0"
     ],
     "filament_ramming_travel_time": [
-        "0",
         "0"
     ],
     "hot_plate_temp": [
-        "55"
+        "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "60"
     ],
     "hole_coef_1": [
         "0"
@@ -250,25 +229,22 @@
         "10.0"
     ],
     "long_retractions_when_ec": [
-        "0",
         "0"
     ],
     "nozzle_temperature_range_low": [
         "190"
     ],
     "nozzle_temperature_range_high": [
-        "240"
+        "230"
     ],
     "nozzle_temperature": [
-        "220",
         "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "220",
         "220"
     ],
     "overhang_fan_speed": [
-        "100"
+        "75"
     ],
     "overhang_fan_threshold": [
         "50%"
@@ -280,7 +256,6 @@
         "3"
     ],
     "retraction_distances_when_ec": [
-        "0",
         "0"
     ],
     "supertack_plate_temp": [
@@ -296,16 +271,16 @@
         "8"
     ],
     "slow_down_min_speed": [
-        "20"
+        "5"
     ],
     "temperature_vitrification": [
-        "45"
+        "61"
     ],
     "textured_plate_temp": [
-        "55"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "55"
+        "60"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -316,22 +291,23 @@
         "Bambu Lab X1 0.8 nozzle"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n{if  (bed_temperature[current_extruder] >55)||(bed_temperature_initial_layer[current_extruder] >55)}M106 P3 S200\n{elsif(bed_temperature[current_extruder] >50)||(bed_temperature_initial_layer[current_extruder] >50)}M106 P3 S150\n{elsif(bed_temperature[current_extruder] >45)||(bed_temperature_initial_layer[current_extruder] >45)}M106 P3 S50\n{endif}\n\n{if activate_air_filtration[current_extruder] && support_air_filtration}\nM106 P3 S{during_print_exhaust_fan_speed_num[current_extruder]} \n{endif}"
+        "; filament start gcode\n{if  (bed_temperature[current_extruder] >45)||(bed_temperature_initial_layer[current_extruder] >45)}M106 P3 S255\n{elsif(bed_temperature[current_extruder] >35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S180\n{endif}\n\n{if activate_air_filtration[current_extruder] && support_air_filtration}\nM106 P3 S{during_print_exhaust_fan_speed_num[current_extruder]} \n{endif}"
     ],
     "filament_end_gcode": [
         "; filament end gcode \n\n"
     ],
     "filament_adaptive_volumetric_speed": [
-        "0",
         "0"
     ],
     "volumetric_speed_coefficients": [
-        "0 0 0 0 0 0",
         "0 0 0 0 0 0"
     ],
     "filament_adhesiveness_category": [
         "100"
     ],
     "filament_id": "GFL01",
-    "setting_id": "GFSL22"
+    "setting_id": "GFSL22",
+    "bed_type": [
+        "Cool Plate"
+    ]
 }

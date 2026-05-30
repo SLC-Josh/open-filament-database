@@ -7,10 +7,10 @@
         "Polymaker"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\n"
+        ""
     ],
     "filament_end_gcode": [
-        "; filament end gcode \n"
+        ""
     ],
     "filament_is_support": [
         "0"
@@ -198,28 +198,15 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
-    "temp_min": [
-        "230"
+    "filament_id": "GFG60",
+    "setting_id": "GFSG60_00",
+    "compatible_printers": [
+        "Snapmaker U1 (0.4 nozzle)"
     ],
-    "temp_max": [
-        "240"
-    ],
-    "temperture_vitrification": [
-        "75"
-    ],
-    "idle_temperture": [
-        "0"
-    ],
-    "description": "",
-    "filament_id": "PMPE04",
     "supertack_plate_temp": [
         "70"
     ],
     "supertack_plate_temp_initial_layer": [
         "70"
-    ],
-    "setting_id": "PMPE04_U1",
-    "compatible_printers": [
-        "Snapmaker U1 (0.4 nozzle)"
     ]
 }

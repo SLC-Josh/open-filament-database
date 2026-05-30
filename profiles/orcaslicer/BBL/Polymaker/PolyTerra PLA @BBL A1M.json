@@ -22,10 +22,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
+        "60"
     ],
     "counter_coef_1": [
         "0"
@@ -52,10 +52,10 @@
         "50"
     ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "60"
     ],
     "fan_cooling_layer_time": [
         "80"
@@ -67,10 +67,10 @@
         "60"
     ],
     "filament_cost": [
-        "25.4"
+        "21.99"
     ],
     "filament_density": [
-        "1.31"
+        "1.37"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -235,7 +235,7 @@
         "190"
     ],
     "nozzle_temperature_range_high": [
-        "240"
+        "230"
     ],
     "nozzle_temperature": [
         "220"
@@ -244,7 +244,7 @@
         "220"
     ],
     "overhang_fan_speed": [
-        "100"
+        "75"
     ],
     "overhang_fan_threshold": [
         "50%"
@@ -271,16 +271,16 @@
         "8"
     ],
     "slow_down_min_speed": [
-        "20"
+        "5"
     ],
     "temperature_vitrification": [
-        "45"
+        "61"
     ],
     "textured_plate_temp": [
-        "65"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -306,5 +306,8 @@
         "100"
     ],
     "filament_id": "GFL01",
-    "setting_id": "GFSL01_00"
+    "setting_id": "GFSL01_00",
+    "bed_type": [
+        "Cool Plate"
+    ]
 }

@@ -166,7 +166,6 @@
     "enable_pressure_advance": [
         "1"
     ],
-    "is_custom_defined": "0",
     "pressure_advance": [
         "0.025"
     ],
@@ -175,6 +174,5 @@
     ],
     "supertack_plate_temp_initial_layer": [
         "40"
-    ],
-    "version": "2.3.0.3"
+    ]
 }
