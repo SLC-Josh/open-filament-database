@@ -151,6 +151,9 @@
     "filament_flush_temp": [
         "0"
     ],
+    "filament_flush_temp_fast": [
+        "0"
+    ],
     "filament_flush_volumetric_speed": [
         "3",
         "3",
@@ -316,6 +319,9 @@
     "hot_plate_temp_initial_layer": [
         "60"
     ],
+    "filament_ingredients_safe": "1",
+    "filament_emission_safe": "1",
+    "filament_contact_safe": "1",
     "hole_coef_1": [
         "0"
     ],
@@ -398,7 +404,7 @@
         "20"
     ],
     "supertack_plate_temp": [
-        "45"
+        "40"
     ],
     "supertack_plate_temp_initial_layer": [
         "0"
