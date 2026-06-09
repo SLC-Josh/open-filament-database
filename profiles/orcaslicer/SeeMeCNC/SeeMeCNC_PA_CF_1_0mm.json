@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "SeeMeCNC TPU",
+    "name": "SeeMeCNC PA-CF 1.0 nozzle",
     "from": "System",
     "instantiation": "true",
     "activate_air_filtration": [
@@ -167,7 +167,7 @@
         "-1"
     ],
     "overhang_fan_speed": [
-        "30"
+        "50"
     ],
     "pellet_flow_coefficient": [
         "0.4157"
@@ -182,117 +182,131 @@
         ""
     ],
     "description": "SeeMeCNC configurations",
-    "filament_id": "SMCFU001",
+    "filament_id": "SMCFN00110",
     "filament_settings_id": [
-        "SeeMeCNC TPU"
+        "SeeMeCNC PA-CF 1.0 nozzle"
     ],
     "compatible_printers": [
-        "SeeMeCNC Artemis 0.7 nozzle",
-        "SeeMeCNC BOSSdelta 500 0505 0.7 nozzle",
-        "SeeMeCNC BOSSdelta 500 0510 0.7 nozzle",
-        "SeeMeCNC BOSSdelta 500 0521 0.7 nozzle",
-        "SeeMeCNC BOSSdelta 300 0.7 nozzle",
-        "SeeMeCNC RostockMAX v3.2 0.7 nozzle",
-        "SeeMeCNC RostockMAX v4 0.7 nozzle"
+        "SeeMeCNC Artemis 1.0 nozzle",
+        "SeeMeCNC BOSSdelta 500 0505 1.0 nozzle",
+        "SeeMeCNC BOSSdelta 500 0510 1.0 nozzle",
+        "SeeMeCNC BOSSdelta 500 0521 1.0 nozzle",
+        "SeeMeCNC BOSSdelta 300 1.0 nozzle",
+        "SeeMeCNC RostockMAX v3.2 1.0 nozzle",
+        "SeeMeCNC RostockMAX v4 1.0 nozzle"
     ],
     "compatible_printers_condition": "",
     "compatible_prints": [
-        "0.30mm TPU Solid @SeeMeCNC Artemis 0.7",
-        "0.30mm TPU Solid @SeeMeCNC BOSSdelta 300 0.7",
-        "0.30mm TPU Solid @SeeMeCNC BOSSdelta 500 0505 0.7",
-        "0.30mm TPU Solid @SeeMeCNC BOSSdelta 500 0510 0.7",
-        "0.30mm TPU Solid @SeeMeCNC BOSSdelta 500 0521 0.7",
-        "0.30mm TPU Solid @SeeMeCNC RostockMAX v3.2 0.7",
-        "0.30mm TPU Solid @SeeMeCNC RostockMAX v4 0.7",
-        "0.35mm TPU Vase @SeeMeCNC Artemis 0.7",
-        "0.35mm TPU Vase @SeeMeCNC BOSSdelta 300 0.7",
-        "0.35mm TPU Vase @SeeMeCNC BOSSdelta 500 0505 0.7",
-        "0.35mm TPU Vase @SeeMeCNC BOSSdelta 500 0510 0.7",
-        "0.35mm TPU Vase @SeeMeCNC BOSSdelta 500 0521 0.7",
-        "0.35mm TPU Vase @SeeMeCNC RostockMAX v3.2 0.7",
-        "0.35mm TPU Vase @SeeMeCNC RostockMAX v4 0.7"
+        "0.40mm Fine @SeeMeCNC Artemis 1.0",
+        "0.40mm Fine @SeeMeCNC BOSSdelta 300 1.0",
+        "0.40mm Fine @SeeMeCNC BOSSdelta 500 0505 1.0",
+        "0.40mm Fine @SeeMeCNC BOSSdelta 500 0510 1.0",
+        "0.40mm Fine @SeeMeCNC BOSSdelta 500 0521 1.0",
+        "0.40mm Fine @SeeMeCNC RostockMAX v3.2 1.0",
+        "0.40mm Fine @SeeMeCNC RostockMAX v4 1.0",
+        "0.50mm Standard @SeeMeCNC Artemis 1.0",
+        "0.50mm Standard @SeeMeCNC BOSSdelta 300 1.0",
+        "0.50mm Standard @SeeMeCNC BOSSdelta 500 0505 1.0",
+        "0.50mm Standard @SeeMeCNC BOSSdelta 500 0510 1.0",
+        "0.50mm Standard @SeeMeCNC BOSSdelta 500 0521 1.0",
+        "0.50mm Standard @SeeMeCNC RostockMAX v3.2 1.0",
+        "0.50mm Standard @SeeMeCNC RostockMAX v4 1.0",
+        "0.60mm Draft @SeeMeCNC Artemis 1.0",
+        "0.60mm Draft @SeeMeCNC BOSSdelta 300 1.0",
+        "0.60mm Draft @SeeMeCNC BOSSdelta 500 0505 1.0",
+        "0.60mm Draft @SeeMeCNC BOSSdelta 500 0510 1.0",
+        "0.60mm Draft @SeeMeCNC BOSSdelta 500 0521 1.0",
+        "0.60mm Draft @SeeMeCNC RostockMAX v3.2 1.0",
+        "0.60mm Draft @SeeMeCNC RostockMAX v4 1.0",
+        "0.70mm Extra Draft @SeeMeCNC Artemis 1.0",
+        "0.70mm Extra Draft @SeeMeCNC BOSSdelta 300 1.0",
+        "0.70mm Extra Draft @SeeMeCNC BOSSdelta 500 0505 1.0",
+        "0.70mm Extra Draft @SeeMeCNC BOSSdelta 500 0510 1.0",
+        "0.70mm Extra Draft @SeeMeCNC BOSSdelta 500 0521 1.0",
+        "0.70mm Extra Draft @SeeMeCNC RostockMAX v3.2 1.0",
+        "0.70mm Extra Draft @SeeMeCNC RostockMAX v4 1.0"
     ],
     "compatible_prints_condition": "",
     "close_fan_the_first_x_layers": [
-        "999"
+        "6"
     ],
     "cool_plate_temp": [
-        "60"
+        "70"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "70"
     ],
     "enable_overhang_bridge_fan": [
-        "0"
+        "1"
     ],
     "eng_plate_temp": [
-        "60"
+        "90"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "90"
     ],
     "fan_cooling_layer_time": [
-        "35"
+        "60"
     ],
     "fan_max_speed": [
-        "60"
+        "35"
     ],
     "fan_min_speed": [
         "35"
     ],
     "filament_cost": [
-        "35"
+        "30"
     ],
     "filament_density": [
-        "1.22"
+        "1.15"
     ],
     "filament_max_volumetric_speed": [
-        "4"
+        "8"
     ],
     "filament_notes": [
-        "Pressure Advance starting values by machine and nozzle size:\nArtemis / BOSSdelta 300:\n  0.7mm nozzle: 0.4571\n\nRostockMAX v3.2 / v4:\n  0.7mm nozzle: 0.5473\n\nBOSSdelta 0505:\n  0.7mm nozzle: 0.6117\n  -  Expect significant tuning required\n\nBOSSdelta 0510:\n  Not recommended for TPU.\n\nBOSSdelta 0521:\n  Not recommended for TPU.\n\nRun OrcaSlicer PA calibration to fine-tune for your setup.\n\nNote: TPU profiles are designed for 0.7mm nozzles only."
+        "Pressure Advance starting values by machine and nozzle size:\n\nArtemis / BOSSdelta 300:\n  0.4mm nozzle: 0.5500\n  0.5mm nozzle: 0.4400\n  0.7mm nozzle: 0.3143\n  1.0mm nozzle: 0.2200\n\nRostockMAX v3.2 / v4:\n  0.4mm nozzle: 0.6585\n  0.5mm nozzle: 0.5268\n  0.7mm nozzle: 0.3763\n  1.0mm nozzle: 0.2634\n\nBOSSdelta 0505:\n  0.4mm nozzle: 0.7359\n  0.5mm nozzle: 0.5887\n  0.7mm nozzle: 0.4205\n  1.0mm nozzle: 0.2944\n\nBOSSdelta 0510:\n  0.4mm nozzle: 1.0845\n  0.5mm nozzle: 0.8676\n  0.7mm nozzle: 0.6197\n  1.0mm nozzle: 0.4338\n\nBOSSdelta 0521:\n  0.4mm nozzle: 1.8204\n  0.5mm nozzle: 1.4563\n  0.7mm nozzle: 1.0402\n  1.0mm nozzle: 0.7282\n\nRun OrcaSlicer PA calibration to fine-tune for your setup."
     ],
     "filament_type": [
-        "TPU"
+        "PA-CF"
     ],
     "full_fan_speed_layer": [
-        "999"
+        "5"
     ],
     "hot_plate_temp": [
-        "60"
+        "90"
     ],
     "hot_plate_temp_initial_layer": [
-        "60"
+        "90"
     ],
     "internal_bridge_fan_speed": [
-        "-1"
+        "35"
     ],
     "nozzle_temperature": [
-        "200"
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
-        "200"
+        "265"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "285"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "255"
     ],
     "overhang_fan_threshold": [
         "50%"
     ],
     "pressure_advance": [
-        "0.8"
+        "0.55"
     ],
     "reduce_fan_stop_start_freq": [
-        "0"
+        "1"
     ],
     "slow_down_for_layer_cooling": [
         "0"
     ],
     "slow_down_layer_time": [
-        "25"
+        "45"
     ],
     "slow_down_min_speed": [
         "20"
@@ -304,57 +318,33 @@
         "35"
     ],
     "temperature_vitrification": [
-        "60"
+        "180"
     ],
     "textured_cool_plate_temp": [
-        "60"
+        "80"
     ],
     "textured_cool_plate_temp_initial_layer": [
-        "60"
+        "80"
     ],
     "textured_plate_temp": [
-        "60"
+        "90"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "90"
+    ],
+    "keep_fan_always_on": [
+        "0"
     ],
     "filament_retraction_length": [
         "6"
     ],
-    "filament_retraction_speed": [
-        "30"
-    ],
-    "filament_deretraction_speed": [
-        "25"
-    ],
-    "filament_retraction_minimum_travel": [
-        "15"
-    ],
-    "filament_retract_restart_extra": [
+    "filament_z_hop": [
         "0.5"
     ],
-    "filament_retract_before_wipe": [
-        "0%"
+    "filament_retraction_speed": [
+        "40"
     ],
-    "filament_retract_when_changing_layer": [
-        "0"
-    ],
-    "filament_z_hop": [
-        "0.3"
-    ],
-    "filament_z_hop_types": [
-        "Normal Lift"
-    ],
-    "filament_retract_lift_above": [
-        "0"
-    ],
-    "filament_retract_lift_below": [
-        "0"
-    ],
-    "filament_retract_lift_enforce": [
-        "All Surfaces"
-    ],
-    "keep_fan_always_on": [
-        "0"
+    "filament_deretraction_speed": [
+        "30"
     ]
 }

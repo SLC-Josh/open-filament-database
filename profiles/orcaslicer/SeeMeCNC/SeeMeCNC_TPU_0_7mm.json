@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "SeeMeCNC TPU",
+    "name": "SeeMeCNC TPU 0.7 nozzle",
     "from": "System",
     "instantiation": "true",
     "activate_air_filtration": [
@@ -182,9 +182,9 @@
         ""
     ],
     "description": "SeeMeCNC configurations",
-    "filament_id": "SMCFU001",
+    "filament_id": "SMCFU00107",
     "filament_settings_id": [
-        "SeeMeCNC TPU"
+        "SeeMeCNC TPU 0.7 nozzle"
     ],
     "compatible_printers": [
         "SeeMeCNC Artemis 0.7 nozzle",
@@ -319,13 +319,13 @@
         "60"
     ],
     "filament_retraction_length": [
-        "6"
+        "7"
     ],
     "filament_retraction_speed": [
         "30"
     ],
     "filament_deretraction_speed": [
-        "25"
+        "30"
     ],
     "filament_retraction_minimum_travel": [
         "15"
