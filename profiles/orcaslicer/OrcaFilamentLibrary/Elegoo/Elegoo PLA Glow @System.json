@@ -168,6 +168,7 @@
     ],
     "filament_id": "EPLAB00",
     "setting_id": "OEPLAGLOWS00",
+    "renamed_from": "Elegoo PLA Glow",
     "pressure_advance": [
         "0.04"
     ],

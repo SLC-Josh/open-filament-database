@@ -1,7 +1,7 @@
 {
     "cooling": "1",
     "compatible_printers": "",
-    "compatible_printers_condition": "printer_model==\"COREONE\" and nozzle_diameter[0]!=0.6 and nozzle_diameter[0]!=0.8 and ! single_extruder_multi_material",
+    "compatible_printers_condition": "printer_model=~/(COREONE|COREONEOAK|COREONEL)/ and nozzle_diameter[0]!=0.6 and nozzle_diameter[0]!=0.8 and ! single_extruder_multi_material",
     "end_filament_gcode": "\"; Filament-specific end gcode\"",
     "extrusion_multiplier": "1.05",
     "filament_loading_speed": "28",
@@ -49,5 +49,7 @@
     "cooling_slowdown_logic": "consistent_surface",
     "cooling_perimeter_transition_distance": "10",
     "chamber_temperature": "0",
-    "chamber_minimal_temperature": "0"
+    "chamber_minimal_temperature": "0",
+    "filament_shrinkage_compensation_xy": "0%",
+    "filament_shrinkage_compensation_z": "0%"
 }

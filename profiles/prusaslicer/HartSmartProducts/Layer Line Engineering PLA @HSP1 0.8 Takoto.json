@@ -28,5 +28,5 @@
     "fan_below_layer_time": "60",
     "filament_vendor": "HartSmart Products",
     "filament_spool_weight": "200",
-    "start_filament_gcode": "\"; Filament gcode\\n{local pressure_advance = 0.0}\\n{if printer_notes=~/.*DUPLICATOR_MODE.*/}\\nM572 D0:1 S{pressure_advance}\\n{else}\\nM572 D{current_extruder} S{pressure_advance}\\n{endif}\""
+    "start_filament_gcode": "\"; Filament gcode\\n{local pressure_advance = 0.018}\\n{if printer_notes=~/.*DUPLICATOR_MODE.*/}\\nM572 D0:1 S{pressure_advance}\\n{else}\\nM572 D{current_extruder} S{pressure_advance}\\n{endif}\""
 }

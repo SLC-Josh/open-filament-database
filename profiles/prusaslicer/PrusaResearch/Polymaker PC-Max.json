@@ -33,7 +33,7 @@
     "filament_colour": "#FFF2EC",
     "filament_max_volumetric_speed": "8",
     "filament_type": "PC",
-    "first_layer_bed_temperature": "100",
+    "first_layer_bed_temperature": "110",
     "first_layer_temperature": "270",
     "max_fan_speed": "30",
     "min_fan_speed": "20",

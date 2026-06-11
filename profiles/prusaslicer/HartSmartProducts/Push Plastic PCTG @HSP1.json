@@ -15,7 +15,7 @@
     "bed_temperature": "80",
     "first_layer_temperature": "240",
     "first_layer_bed_temperature": "80",
-    "idle_temperature": "190",
+    "idle_temperature": "160",
     "filament_max_volumetric_speed": "12",
     "extrusion_multiplier": "1.00",
     "filament_colour": "#FF8000",
@@ -28,5 +28,5 @@
     "fan_below_layer_time": "20",
     "filament_vendor": "Push Plastic",
     "filament_spool_weight": "320 # 750g spools weight 350g",
-    "start_filament_gcode": "\"; Filament gcode\\n{if nozzle_diameter[initial_extruder] == 0.6}{local pressure_advance = 0.018}\\n{elsif nozzle_diameter[initial_extruder] == 0.4}{local pressure_advance = 0.026}\\n{elsif nozzle_diameter[initial_extruder] == 0.8}{local pressure_advance = 0.0}\\n{elsif nozzle_diameter[initial_extruder] == 1.0}{local pressure_advance = 0.0}\\n{endif}\\n{if printer_notes=~/.*DUPLICATOR_MODE.*/}\\nM572 D0:1 S{pressure_advance}\\n{else}\\nM572 D{current_extruder} S{pressure_advance}\\n{endif}\""
+    "start_filament_gcode": "\"; Filament gcode\\n{if nozzle_diameter[initial_extruder] == 0.6}{local pressure_advance = 0.018}\\n{elsif nozzle_diameter[initial_extruder] == 0.4}{local pressure_advance = 0.0}\\n{elsif nozzle_diameter[initial_extruder] == 0.8}{local pressure_advance = 0.0}\\n{elsif nozzle_diameter[initial_extruder] == 1.0}{local pressure_advance = 0.0}\\n{endif}\\n{if printer_notes=~/.*DUPLICATOR_MODE.*/}\\nM572 D0:1 S{pressure_advance}\\n{else}\\nM572 D{current_extruder} S{pressure_advance}\\n{endif}\""
 }
