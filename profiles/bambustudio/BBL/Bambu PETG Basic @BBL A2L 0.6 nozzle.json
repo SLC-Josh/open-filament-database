@@ -143,10 +143,10 @@
         "0.94"
     ],
     "filament_flush_temp": [
-        "245"
+        "0"
     ],
     "filament_flush_temp_fast": [
-        "0"
+        "245"
     ],
     "filament_flush_volumetric_speed": [
         "0"
