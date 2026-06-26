@@ -94,7 +94,7 @@
         "-1"
     ],
     "filament_cost": [
-        "24.99"
+        "19.99"
     ],
     "filament_density": [
         "1.25"
@@ -427,11 +427,11 @@
     ],
     "filament_id": "GFG00",
     "description": "To get better transparent or translucent results with the corresponding filament, please refer to this wiki: Printing tips for transparent PETG.",
-    "first_x_layer_fan_speed": [
-        "0"
-    ],
     "filament_change_length_nc": [
         "10"
+    ],
+    "first_x_layer_fan_speed": [
+        "0"
     ],
     "setting_id": "GFSG00_02",
     "include": [

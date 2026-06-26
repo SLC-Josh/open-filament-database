@@ -34,16 +34,16 @@
         "0"
     ],
     "counter_coef_2": [
-        "0.008"
+        "0.0036"
     ],
     "counter_coef_3": [
-        "-0.041"
+        "-0.0218"
     ],
     "counter_limit_max": [
-        "0.033"
+        "0.0682"
     ],
     "counter_limit_min": [
-        "-0.035"
+        "-0.0218"
     ],
     "diameter_limit": [
         "50"
@@ -95,7 +95,7 @@
         "-1"
     ],
     "filament_cost": [
-        "29.99"
+        "21.99"
     ],
     "filament_density": [
         "1.32"
@@ -312,16 +312,16 @@
         "0"
     ],
     "hole_coef_2": [
-        "-0.008"
+        "-0.0037"
     ],
     "hole_coef_3": [
-        "0.23415"
+        "0.1261"
     ],
     "hole_limit_max": [
-        "0.22"
+        "0.1261"
     ],
     "hole_limit_min": [
-        "0.088"
+        "0.0336"
     ],
     "impact_strength_z": [
         "4.6"

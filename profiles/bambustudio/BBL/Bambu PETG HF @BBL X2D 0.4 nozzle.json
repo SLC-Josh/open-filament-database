@@ -97,7 +97,7 @@
         "245"
     ],
     "filament_cost": [
-        "24.99"
+        "19.99"
     ],
     "filament_density": [
         "1.28"
@@ -374,7 +374,7 @@
         "230"
     ],
     "overhang_fan_speed": [
-        "100"
+        "50"
     ],
     "overhang_fan_threshold": [
         "10%"
