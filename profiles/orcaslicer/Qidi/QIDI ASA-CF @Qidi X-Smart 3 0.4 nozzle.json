@@ -169,7 +169,6 @@
         "Qidi X-Smart 3 0.4 nozzle"
     ],
     "filament_id": "GFB99",
-    "setting_id": "GFSA04",
     "box_temperature_range_high": [
         "45"
     ],
@@ -191,6 +190,7 @@
     "pressure_advance": [
         "0.024"
     ],
+    "setting_id": "wyns97Rn3EVTl0v5",
     "additional_cooling_fan_speed_unseal": [
         "0"
     ],

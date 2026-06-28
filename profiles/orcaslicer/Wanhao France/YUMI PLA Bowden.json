@@ -150,7 +150,6 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "setting_id": "GFSR99",
     "filament_id": "GFU99",
     "compatible_printers": [
         "D12 230 PRO M2 DIRECT 0.4 nozzle",
@@ -172,6 +171,7 @@
         "D12 500 PRO M2 MONO DUAL 0.4 nozzle",
         "D12 500 PRO SMARTPAD MONO DUAL 0.4 nozzle"
     ],
+    "setting_id": "zQSSA2QZi27ESyQK",
     "filament_loading_speed": [
         "25"
     ],

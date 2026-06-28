@@ -238,7 +238,6 @@
         "60"
     ],
     "filament_id": "QD_2_1_5",
-    "setting_id": "GFSL98",
     "filament_adhesiveness_category": [
         "100"
     ],
@@ -271,5 +270,6 @@
     ],
     "textured_cool_plate_temp_initial_layer": [
         "45"
-    ]
+    ],
+    "setting_id": "n8Oq2FaJ7D6LodTC"
 }

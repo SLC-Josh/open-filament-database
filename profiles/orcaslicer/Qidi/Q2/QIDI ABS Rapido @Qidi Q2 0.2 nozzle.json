@@ -237,7 +237,6 @@
     "hot_plate_temp": [
         "90"
     ],
-    "setting_id": "GFSA04",
     "filament_id": "QD_1_1_11",
     "filament_adhesiveness_category": [
         "200"
@@ -272,6 +271,7 @@
     "textured_cool_plate_temp_initial_layer": [
         "80"
     ],
+    "setting_id": "C7jN0GZ9tv3lPqgf",
     "chamber_temperatures": [
         "0"
     ]

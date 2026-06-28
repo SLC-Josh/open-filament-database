@@ -169,7 +169,6 @@
         "Qidi Q1 Pro 0.4 nozzle"
     ],
     "filament_id": "GFB99",
-    "setting_id": "GFSA04",
     "box_temperature_range_high": [
         "45"
     ],
@@ -190,5 +189,6 @@
     ],
     "pressure_advance": [
         "0.03"
-    ]
+    ],
+    "setting_id": "UZg7s2SVhCGDcdkA"
 }

@@ -208,7 +208,6 @@
         "70"
     ],
     "filament_id": "GFG99",
-    "setting_id": "GFSG99",
     "filament_adhesiveness_category": [
         "300"
     ],
@@ -232,5 +231,6 @@
     ],
     "textured_cool_plate_temp_initial_layer": [
         "60"
-    ]
+    ],
+    "setting_id": "sGRdg0IX4MrMGWpj"
 }

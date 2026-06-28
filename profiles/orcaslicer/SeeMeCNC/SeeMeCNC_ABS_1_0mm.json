@@ -182,6 +182,7 @@
         ""
     ],
     "description": "SeeMeCNC configurations",
+    "setting_id": "DTcAxACOOtdvD43R",
     "filament_id": "SMCFB00110",
     "filament_settings_id": [
         "SeeMeCNC ABS 1.0 nozzle"

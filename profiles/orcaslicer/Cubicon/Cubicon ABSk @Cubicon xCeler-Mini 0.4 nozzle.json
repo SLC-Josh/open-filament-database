@@ -156,6 +156,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "setting_id": "CsthNnKn8WlBbkP4",
     "filament_id": "P510cfb2",
     "compatible_printers": [
         "Cubicon xCeler-Mini 0.4 nozzle"

@@ -67,10 +67,10 @@
         "100"
     ],
     "filament_cost": [
-        "19.99"
+        "24.99"
     ],
     "filament_density": [
-        "1.32"
+        "1.31"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -160,7 +160,7 @@
         "Polymaker"
     ],
     "filament_wipe": [
-        "0"
+        "nil"
     ],
     "filament_wipe_distance": [
         "nil"
@@ -238,10 +238,10 @@
         "240"
     ],
     "nozzle_temperature": [
-        "220"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "230"
     ],
     "overhang_fan_speed": [
         "100"
@@ -305,6 +305,6 @@
     "filament_adhesiveness_category": [
         "100"
     ],
-    "filament_id": "GFPM001",
+    "filament_id": "GFPM004",
     "setting_id": "GFSPM004_09"
 }

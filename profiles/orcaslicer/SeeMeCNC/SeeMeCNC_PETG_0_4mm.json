@@ -182,6 +182,7 @@
         ""
     ],
     "description": "SeeMeCNC configurations",
+    "setting_id": "kqCiusj7FAzbmnro",
     "filament_id": "SMCFG00104",
     "filament_settings_id": [
         "SeeMeCNC PETG 0.4 nozzle"

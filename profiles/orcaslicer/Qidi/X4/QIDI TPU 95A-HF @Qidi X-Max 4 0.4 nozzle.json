@@ -208,7 +208,6 @@
         "35"
     ],
     "filament_id": "QD_3_1_50",
-    "setting_id": "GFSR99",
     "filament_adhesiveness_category": [
         "600"
     ],
@@ -235,5 +234,6 @@
     ],
     "textured_cool_plate_temp_initial_layer": [
         "30"
-    ]
+    ],
+    "setting_id": "DMbPx29AcKUuqzsv"
 }

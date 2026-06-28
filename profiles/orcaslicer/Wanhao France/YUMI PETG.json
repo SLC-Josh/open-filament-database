@@ -147,7 +147,6 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
-    "setting_id": "GFSA04",
     "filament_id": "GFG99",
     "compatible_printers": [
         "D12 230 PRO M2 DIRECT 0.4 nozzle",
@@ -169,6 +168,7 @@
         "D12 500 PRO M2 MONO DUAL 0.4 nozzle",
         "D12 500 PRO SMARTPAD MONO DUAL 0.4 nozzle"
     ],
+    "setting_id": "PFFm20QNgwqyuglH",
     "activate_air_filtration": [
         "0"
     ],

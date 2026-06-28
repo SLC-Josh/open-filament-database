@@ -156,6 +156,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "setting_id": "TXcodZkab4fofnEn",
     "filament_id": "P510cfb2",
     "compatible_printers": [
         "Cubicon xCeler-I 0.4 nozzle"

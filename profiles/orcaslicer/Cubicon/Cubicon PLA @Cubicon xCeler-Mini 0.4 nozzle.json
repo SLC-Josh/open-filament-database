@@ -150,6 +150,7 @@
     "additional_cooling_fan_speed": [
         "80"
     ],
+    "setting_id": "o2BQL6OKtxDmBkWV",
     "filament_id": "P510cfa0",
     "compatible_printers": [
         "Cubicon xCeler-Mini 0.4 nozzle"

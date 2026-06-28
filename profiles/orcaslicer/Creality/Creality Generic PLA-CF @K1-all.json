@@ -150,6 +150,7 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
+    "setting_id": "zCnOLIfwhfZIDYLC",
     "filament_id": "GFL98",
     "compatible_printers": [
         "Creality K1 (0.4 nozzle)",
@@ -162,6 +163,5 @@
         "Creality K1 Max (0.4 nozzle)",
         "Creality K1 Max (0.6 nozzle)",
         "Creality K1 Max (0.8 nozzle)"
-    ],
-    "setting_id": "GFSL96_00"
+    ]
 }

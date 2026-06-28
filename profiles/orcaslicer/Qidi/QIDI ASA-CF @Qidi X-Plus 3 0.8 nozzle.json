@@ -169,7 +169,6 @@
         "Qidi X-Plus 3 0.8 nozzle"
     ],
     "filament_id": "GFB99",
-    "setting_id": "GFSA04",
     "box_temperature_range_high": [
         "45"
     ],
@@ -190,5 +189,6 @@
     ],
     "pressure_advance": [
         "0.011"
-    ]
+    ],
+    "setting_id": "5OR8LnFPipv3h4h8"
 }

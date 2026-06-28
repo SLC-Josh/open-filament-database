@@ -160,6 +160,7 @@
     "required_nozzle_HRC": [
         "40"
     ],
+    "setting_id": "55cJDyCoEudfOePY",
     "compatible_printers": [
         "Cubicon xCeler-I 0.4 nozzle",
         "Cubicon xCeler-Plus 0.4 nozzle"

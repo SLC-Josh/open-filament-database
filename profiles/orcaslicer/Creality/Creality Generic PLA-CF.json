@@ -150,6 +150,7 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "setting_id": "DCCWPQGMsvDOucwx",
     "filament_id": "GFL98",
     "compatible_printers": [
         "Creality CR-10 V2 0.4 nozzle",

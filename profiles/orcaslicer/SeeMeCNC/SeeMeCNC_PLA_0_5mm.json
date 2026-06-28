@@ -2,6 +2,7 @@
     "type": "filament",
     "name": "SeeMeCNC PLA 0.5 nozzle",
     "from": "System",
+    "setting_id": "CcINW4WttiNsKvjf",
     "filament_id": "SMCFL00105",
     "instantiation": "true",
     "filament_settings_id": [

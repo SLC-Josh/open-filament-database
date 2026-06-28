@@ -168,6 +168,7 @@
     "filament_end_gcode": [
         "; filament end gcode \n;M106 P3 S0\n"
     ],
+    "setting_id": "pXuh92Zf1zPiaDXg",
     "filament_id": "GFR99_01",
     "additional_cooling_fan_speed": [
         "70"

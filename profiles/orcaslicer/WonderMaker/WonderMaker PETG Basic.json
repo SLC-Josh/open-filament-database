@@ -183,6 +183,7 @@
     "nozzle_temperature_range_low": [
         "230"
     ],
+    "setting_id": "ZtPZlMNIqq3Gaavc",
     "filament_id": "GFG00",
     "description": "To get better transparent or translucent results with the corresponding filament, please refer to this wiki: Printing tips for transparent PETG.",
     "filament_multitool_ramming": [

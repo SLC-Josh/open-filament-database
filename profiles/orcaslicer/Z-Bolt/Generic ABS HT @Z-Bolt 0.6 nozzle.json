@@ -201,7 +201,7 @@
         "240"
     ],
     "renamed_from": "Z-Bolt ABS HT @0.6 nozzle",
-    "setting_id": "GFSL506",
     "filament_id": "GFL506",
-    "description": "Use this filament profile to print big ABS models with chamber heating"
+    "description": "Use this filament profile to print big ABS models with chamber heating",
+    "setting_id": "2AKxm2VhVlL2vMM1"
 }

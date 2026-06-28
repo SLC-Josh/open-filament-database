@@ -237,7 +237,6 @@
     "hot_plate_temp": [
         "80"
     ],
-    "setting_id": "GFSN95",
     "filament_id": "QD_1_1_32",
     "filament_adhesiveness_category": [
         "800"
@@ -274,5 +273,6 @@
     ],
     "textured_cool_plate_temp_initial_layer": [
         "80"
-    ]
+    ],
+    "setting_id": "PspiqLXugdtXT5xZ"
 }
