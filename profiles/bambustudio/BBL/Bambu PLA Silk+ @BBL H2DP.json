@@ -145,7 +145,8 @@
         "0.98"
     ],
     "filament_flush_temp": [
-        "0"
+        "200",
+        "200"
     ],
     "filament_flush_temp_fast": [
         "0"
@@ -179,7 +180,7 @@
         "0"
     ],
     "filament_prime_volume": [
-        "45"
+        "30"
     ],
     "filament_prime_volume_nc": [
         "60"
@@ -298,7 +299,7 @@
         "25"
     ],
     "filament_change_length": [
-        "10"
+        "4"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -403,9 +404,7 @@
         "0 0 0 0 0 0"
     ],
     "compatible_printers": [
-        "Bambu Lab H2D Pro 0.4 nozzle",
-        "Bambu Lab H2D Pro 0.6 nozzle",
-        "Bambu Lab H2D Pro 0.8 nozzle"
+        "Bambu Lab H2D Pro 0.4 nozzle"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n"

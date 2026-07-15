@@ -76,6 +76,8 @@
         "10",
         "10",
         "10",
+        "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -145,6 +147,8 @@
         "0.96",
         "0.96",
         "0.96",
+        "0.96",
+        "0.96",
         "0.96"
     ],
     "filament_flush_temp": [
@@ -166,6 +170,8 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "8",
+        "8",
         "8",
         "8",
         "8",
@@ -219,6 +225,8 @@
     "filament_retraction_length": [
         "1",
         "1",
+        "1",
+        "nil",
         "nil",
         "nil"
     ],
@@ -250,9 +258,13 @@
         "1",
         "1",
         "1",
+        "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
+        "1",
         "1",
         "1",
         "1",
@@ -280,6 +292,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -352,9 +366,13 @@
         "275",
         "275",
         "275",
+        "275",
+        "275",
         "275"
     ],
     "nozzle_temperature_initial_layer": [
+        "275",
+        "275",
         "275",
         "275",
         "275",
@@ -384,6 +402,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -400,6 +420,8 @@
         "2"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -439,6 +461,6 @@
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GFSN05_01",
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

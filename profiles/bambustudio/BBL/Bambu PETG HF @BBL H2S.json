@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -163,6 +164,7 @@
     ],
     "filament_max_volumetric_speed": [
         "25",
+        "40",
         "40"
     ],
     "filament_metal_stickiness": [
@@ -212,6 +214,7 @@
     ],
     "filament_retraction_length": [
         "0.4",
+        "0.4",
         "0.4"
     ],
     "filament_retraction_minimum_travel": [
@@ -240,9 +243,11 @@
     ],
     "filament_wipe": [
         "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
         "1",
         "1"
     ],
@@ -250,6 +255,7 @@
         "nil"
     ],
     "filament_z_hop_types": [
+        "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift"
     ],
@@ -269,6 +275,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -297,7 +304,7 @@
         "25"
     ],
     "filament_change_length": [
-        "4"
+        "12"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -331,6 +338,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -338,9 +346,11 @@
     ],
     "nozzle_temperature": [
         "245",
+        "245",
         "245"
     ],
     "nozzle_temperature_initial_layer": [
+        "245",
         "245",
         "245"
     ],
@@ -367,6 +377,7 @@
     ],
     "retraction_distances_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "slow_down_for_layer_cooling": [
@@ -382,6 +393,7 @@
         "10"
     ],
     "slow_down_min_speed": [
+        "20",
         "20",
         "20"
     ],
@@ -418,7 +430,7 @@
     "filament_id": "GFG02",
     "setting_id": "GFSG02_10",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ],
     "pre_start_fan_time": [
         "2"

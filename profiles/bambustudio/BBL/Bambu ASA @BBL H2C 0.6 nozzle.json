@@ -74,9 +74,11 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
+        "20",
         "20",
         "20"
     ],
@@ -142,6 +144,7 @@
     ],
     "filament_flow_ratio": [
         "0.96",
+        "0.96",
         "0.96"
     ],
     "filament_flush_temp": [
@@ -164,6 +167,7 @@
     ],
     "filament_max_volumetric_speed": [
         "25",
+        "30",
         "30"
     ],
     "filament_metal_stickiness": [
@@ -177,6 +181,7 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "230",
+        "230",
         "230"
     ],
     "filament_prime_volume": [
@@ -189,6 +194,7 @@
         "3"
     ],
     "filament_ramming_travel_time_nc": [
+        "1",
         "1",
         "1"
     ],
@@ -214,6 +220,7 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "0.4",
         "0.4",
         "0.4"
     ],
@@ -243,9 +250,11 @@
     ],
     "filament_wipe": [
         "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
         "1",
         "1"
     ],
@@ -253,6 +262,7 @@
         "nil"
     ],
     "filament_z_hop_types": [
+        "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift"
     ],
@@ -272,6 +282,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -340,9 +351,11 @@
     ],
     "nozzle_temperature": [
         "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
         "270",
         "270"
     ],
@@ -384,6 +397,7 @@
     ],
     "slow_down_min_speed": [
         "20",
+        "20",
         "20"
     ],
     "supertack_plate_temp": [
@@ -393,7 +407,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "85"
+        "100"
     ],
     "textured_plate_temp": [
         "100"
@@ -419,13 +433,10 @@
     "filament_id": "GFB01",
     "description": "When printing this filament, there's a risk of warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GFSB01_37",
-    "first_x_layer_fan_speed": [
-        "0"
-    ],
     "filament_change_length_nc": [
         "4"
     ],
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

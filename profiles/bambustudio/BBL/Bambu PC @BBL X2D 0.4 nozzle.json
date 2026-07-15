@@ -61,10 +61,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "55"
+        "40"
     ],
     "fan_min_speed": [
-        "25"
+        "10"
     ],
     "filament_adaptive_volumetric_speed": [
         "0"
@@ -73,6 +73,8 @@
         "0"
     ],
     "filament_cooling_before_tower": [
+        "10",
+        "10",
         "10",
         "10",
         "10",
@@ -145,6 +147,8 @@
         "0.94",
         "0.94",
         "0.94",
+        "0.94",
+        "0.94",
         "0.94"
     ],
     "filament_flush_temp": [
@@ -168,7 +172,9 @@
     "filament_max_volumetric_speed": [
         "18",
         "30",
+        "30",
         "18",
+        "20",
         "20"
     ],
     "filament_metal_stickiness": [
@@ -217,9 +223,6 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.4",
-        "0.4",
-        "nil",
         "nil"
     ],
     "filament_retraction_minimum_travel": [
@@ -247,25 +250,16 @@
         "Bambu Lab"
     ],
     "filament_wipe": [
-        "1",
-        "1",
-        "1",
-        "1"
+        "nil"
     ],
     "filament_wipe_distance": [
-        "1",
-        "1",
-        "1",
-        "1"
+        "nil"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
-        "Spiral Lift",
-        "Spiral Lift",
-        "Spiral Lift",
-        "Spiral Lift"
+        "nil"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -283,6 +277,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -355,9 +351,13 @@
         "280",
         "280",
         "280",
+        "280",
+        "280",
         "280"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
         "270",
         "270",
         "270",
@@ -370,7 +370,7 @@
         "260"
     ],
     "overhang_fan_speed": [
-        "75"
+        "60"
     ],
     "overhang_fan_threshold": [
         "25%"
@@ -387,6 +387,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -403,6 +405,8 @@
         "12"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -441,6 +445,6 @@
     "filament_id": "GFC00",
     "setting_id": "GFSC00_18",
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

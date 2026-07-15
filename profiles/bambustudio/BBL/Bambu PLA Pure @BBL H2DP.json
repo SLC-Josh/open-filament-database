@@ -73,7 +73,8 @@
         "0"
     ],
     "filament_cooling_before_tower": [
-        "0"
+        "10",
+        "10"
     ],
     "filament_preheat_temperature_delta": [
         "0"

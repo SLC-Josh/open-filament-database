@@ -76,6 +76,8 @@
         "10",
         "10",
         "10",
+        "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -145,6 +147,8 @@
         "0.94",
         "0.94",
         "0.94",
+        "0.94",
+        "0.94",
         "0.94"
     ],
     "filament_flush_temp": [
@@ -168,6 +172,8 @@
     "filament_max_volumetric_speed": [
         "18",
         "35",
+        "35",
+        "18",
         "18",
         "18"
     ],
@@ -220,6 +226,8 @@
         "0.4",
         "nil",
         "nil",
+        "nil",
+        "nil",
         "nil"
     ],
     "filament_retraction_minimum_travel": [
@@ -249,13 +257,17 @@
     "filament_wipe": [
         "1",
         "nil",
+        "nil",
         "1",
+        "nil",
         "nil"
     ],
     "filament_wipe_distance": [
         "1",
         "nil",
+        "nil",
         "1",
+        "nil",
         "nil"
     ],
     "filament_z_hop": [
@@ -264,7 +276,9 @@
     "filament_z_hop_types": [
         "Spiral Lift",
         "nil",
+        "nil",
         "Spiral Lift",
+        "nil",
         "nil"
     ],
     "full_fan_speed_layer": [
@@ -283,6 +297,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -355,9 +371,13 @@
         "260",
         "260",
         "260",
+        "260",
+        "260",
         "260"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
         "270",
         "270",
         "270",
@@ -387,6 +407,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -403,6 +425,8 @@
         "12"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -441,6 +465,6 @@
     "filament_id": "GFC00",
     "setting_id": "GFSC00_31",
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

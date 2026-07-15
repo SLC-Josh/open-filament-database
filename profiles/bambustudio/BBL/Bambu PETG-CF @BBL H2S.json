@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -163,6 +164,7 @@
     ],
     "filament_max_volumetric_speed": [
         "11.5",
+        "11.5",
         "11.5"
     ],
     "filament_metal_stickiness": [
@@ -178,7 +180,7 @@
         "0"
     ],
     "filament_prime_volume": [
-        "30"
+        "45"
     ],
     "filament_prime_volume_nc": [
         "60"
@@ -266,6 +268,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -293,7 +296,7 @@
         "25"
     ],
     "filament_change_length": [
-        "4"
+        "10"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -327,6 +330,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -334,9 +338,11 @@
     ],
     "nozzle_temperature": [
         "255",
+        "255",
         "255"
     ],
     "nozzle_temperature_initial_layer": [
+        "255",
         "255",
         "255"
     ],
@@ -362,6 +368,7 @@
         "40"
     ],
     "retraction_distances_when_ec": [
+        "0",
         "0",
         "0"
     ],
@@ -399,9 +406,7 @@
         "0 0 0 0 0 0"
     ],
     "compatible_printers": [
-        "Bambu Lab H2S 0.4 nozzle",
-        "Bambu Lab H2S 0.6 nozzle",
-        "Bambu Lab H2S 0.8 nozzle"
+        "Bambu Lab H2S 0.4 nozzle"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n"
@@ -415,6 +420,6 @@
     "filament_id": "GFG50",
     "setting_id": "GFSG50_09",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

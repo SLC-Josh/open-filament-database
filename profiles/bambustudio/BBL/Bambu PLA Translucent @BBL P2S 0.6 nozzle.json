@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -142,6 +143,7 @@
     ],
     "filament_flow_ratio": [
         "0.98",
+        "0.98",
         "0.98"
     ],
     "filament_flush_temp": [
@@ -163,6 +165,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "12",
         "12",
         "12"
     ],
@@ -198,6 +201,7 @@
     ],
     "filament_retract_before_wipe": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_restart_extra": [
@@ -214,12 +218,14 @@
     ],
     "filament_retraction_length": [
         "0.8",
+        "0.8",
         "0.8"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retraction_speed": [
+        "50",
         "50",
         "50"
     ],
@@ -269,6 +275,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -331,6 +338,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -338,9 +346,11 @@
     ],
     "nozzle_temperature": [
         "220",
+        "220",
         "220"
     ],
     "nozzle_temperature_initial_layer": [
+        "220",
         "220",
         "220"
     ],
@@ -367,6 +377,7 @@
     ],
     "retraction_distances_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "slow_down_for_layer_cooling": [
@@ -382,6 +393,7 @@
         "8"
     ],
     "slow_down_min_speed": [
+        "20",
         "20",
         "20"
     ],
@@ -418,6 +430,6 @@
     "filament_id": "GFA17",
     "setting_id": "GFSA17_22",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

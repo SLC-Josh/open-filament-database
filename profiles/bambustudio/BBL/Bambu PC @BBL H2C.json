@@ -74,9 +74,11 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
+        "20",
         "20",
         "20"
     ],
@@ -142,6 +144,7 @@
     ],
     "filament_flow_ratio": [
         "0.97",
+        "0.97",
         "0.97"
     ],
     "filament_flush_temp": [
@@ -164,6 +167,7 @@
     ],
     "filament_max_volumetric_speed": [
         "20",
+        "30",
         "30"
     ],
     "filament_metal_stickiness": [
@@ -177,6 +181,7 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "240",
+        "240",
         "240"
     ],
     "filament_prime_volume": [
@@ -189,6 +194,7 @@
         "3"
     ],
     "filament_ramming_travel_time_nc": [
+        "1",
         "1",
         "1"
     ],
@@ -215,6 +221,7 @@
     ],
     "filament_retraction_length": [
         "0.4",
+        "0.6",
         "0.6"
     ],
     "filament_retraction_minimum_travel": [
@@ -243,9 +250,11 @@
     ],
     "filament_wipe": [
         "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
         "1",
         "1"
     ],
@@ -253,6 +262,7 @@
         "nil"
     ],
     "filament_z_hop_types": [
+        "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift"
     ],
@@ -272,6 +282,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -340,9 +351,11 @@
     ],
     "nozzle_temperature": [
         "280",
+        "280",
         "280"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
         "270",
         "270"
     ],
@@ -384,6 +397,7 @@
     ],
     "slow_down_min_speed": [
         "20",
+        "20",
         "20"
     ],
     "supertack_plate_temp": [
@@ -393,7 +407,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "90"
+        "120"
     ],
     "textured_plate_temp": [
         "110"
@@ -418,13 +432,10 @@
     ],
     "filament_id": "GFC00",
     "setting_id": "GFSC00_34",
-    "first_x_layer_fan_speed": [
-        "0"
-    ],
     "filament_change_length_nc": [
         "4"
     ],
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

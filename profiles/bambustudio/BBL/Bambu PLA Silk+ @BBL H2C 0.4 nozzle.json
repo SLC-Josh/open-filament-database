@@ -74,9 +74,11 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
+        "20",
         "20",
         "20"
     ],
@@ -143,6 +145,7 @@
     ],
     "filament_flow_ratio": [
         "0.99",
+        "0.99",
         "0.99"
     ],
     "filament_flush_temp": [
@@ -165,6 +168,7 @@
     ],
     "filament_max_volumetric_speed": [
         "12",
+        "12",
         "12"
     ],
     "filament_metal_stickiness": [
@@ -178,6 +182,7 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "190",
+        "190",
         "190"
     ],
     "filament_prime_volume": [
@@ -190,6 +195,7 @@
         "3"
     ],
     "filament_ramming_travel_time_nc": [
+        "2",
         "2",
         "2"
     ],
@@ -215,6 +221,7 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "0.4",
         "0.4",
         "0.4"
     ],
@@ -244,9 +251,11 @@
     ],
     "filament_wipe": [
         "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
         "1",
         "1"
     ],
@@ -254,6 +263,7 @@
         "nil"
     ],
     "filament_z_hop_types": [
+        "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift"
     ],
@@ -274,9 +284,11 @@
     ],
     "filament_ramming_travel_time": [
         "2",
+        "2",
         "2"
     ],
     "filament_retract_length_nc": [
+        "18",
         "18",
         "18"
     ],
@@ -342,9 +354,11 @@
     ],
     "nozzle_temperature": [
         "230",
+        "230",
         "230"
     ],
     "nozzle_temperature_initial_layer": [
+        "230",
         "230",
         "230"
     ],
@@ -420,14 +434,14 @@
     "filament_id": "GFA06",
     "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
     "setting_id": "GFSA06_18",
-    "first_x_layer_fan_speed": [
-        "0"
-    ],
     "filament_change_length_nc": [
         "4"
     ],
+    "first_x_layer_fan_speed": [
+        "0"
+    ],
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ],
     "pre_start_fan_time": [
         "2"

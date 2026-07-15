@@ -74,9 +74,11 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
+        "20",
         "20",
         "20"
     ],
@@ -164,6 +166,7 @@
     ],
     "filament_max_volumetric_speed": [
         "11.5",
+        "11.5",
         "11.5"
     ],
     "filament_metal_stickiness": [
@@ -177,6 +180,7 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "215",
+        "215",
         "215"
     ],
     "filament_prime_volume": [
@@ -189,6 +193,7 @@
         "3"
     ],
     "filament_ramming_travel_time_nc": [
+        "1",
         "1",
         "1"
     ],
@@ -269,6 +274,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -336,9 +342,11 @@
     ],
     "nozzle_temperature": [
         "255",
+        "255",
         "255"
     ],
     "nozzle_temperature_initial_layer": [
+        "255",
         "255",
         "255"
     ],
@@ -388,7 +396,7 @@
         "60"
     ],
     "temperature_vitrification": [
-        "55"
+        "70"
     ],
     "textured_plate_temp": [
         "70"
@@ -400,8 +408,7 @@
         "0 0 0 0 0 0"
     ],
     "compatible_printers": [
-        "Bambu Lab H2C 0.6 nozzle",
-        "Bambu Lab H2C 0.8 nozzle"
+        "Bambu Lab H2C 0.6 nozzle"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n"
@@ -414,13 +421,10 @@
     ],
     "filament_id": "GFG50",
     "setting_id": "GFSG50_18",
-    "first_x_layer_fan_speed": [
-        "0"
-    ],
     "filament_change_length_nc": [
         "4"
     ],
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

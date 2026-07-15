@@ -74,10 +74,13 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
-        "0"
+        "20",
+        "20",
+        "20"
     ],
     "filament_tower_interface_pre_extrusion_dist": [
         "10"
@@ -162,6 +165,7 @@
     ],
     "filament_max_volumetric_speed": [
         "25",
+        "35",
         "35"
     ],
     "filament_metal_stickiness": [
@@ -177,7 +181,7 @@
         "0"
     ],
     "filament_prime_volume": [
-        "30"
+        "45"
     ],
     "filament_prime_volume_nc": [
         "60"
@@ -211,6 +215,7 @@
     ],
     "filament_retraction_length": [
         "0.4",
+        "0.4",
         "0.4"
     ],
     "filament_retraction_minimum_travel": [
@@ -239,9 +244,11 @@
     ],
     "filament_wipe": [
         "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
         "1",
         "1"
     ],
@@ -249,6 +256,7 @@
         "nil"
     ],
     "filament_z_hop_types": [
+        "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift"
     ],
@@ -268,6 +276,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -296,7 +305,7 @@
         "25"
     ],
     "filament_change_length": [
-        "4"
+        "10"
     ],
     "filament_velocity_adaptation_factor": [
         "1"
@@ -336,9 +345,11 @@
     ],
     "nozzle_temperature": [
         "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
         "270",
         "270"
     ],
@@ -380,6 +391,7 @@
     ],
     "slow_down_min_speed": [
         "20",
+        "20",
         "20"
     ],
     "supertack_plate_temp": [
@@ -416,6 +428,6 @@
     "description": "When printing this filament, there's a risk of warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GFSB01_11",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

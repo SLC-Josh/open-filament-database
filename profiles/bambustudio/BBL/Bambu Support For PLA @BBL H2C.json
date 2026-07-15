@@ -74,9 +74,11 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
+        "20",
         "20",
         "20"
     ],
@@ -143,6 +145,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -165,6 +168,7 @@
     ],
     "filament_max_volumetric_speed": [
         "6",
+        "6",
         "6"
     ],
     "filament_metal_stickiness": [
@@ -178,6 +182,7 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "180",
+        "180",
         "180"
     ],
     "filament_prime_volume": [
@@ -190,6 +195,7 @@
         "3"
     ],
     "filament_ramming_travel_time_nc": [
+        "1",
         "1",
         "1"
     ],
@@ -270,9 +276,11 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
+        "18",
         "18",
         "18"
     ],
@@ -338,9 +346,11 @@
     ],
     "nozzle_temperature": [
         "220",
+        "220",
         "220"
     ],
     "nozzle_temperature_initial_layer": [
+        "220",
         "220",
         "220"
     ],
@@ -382,6 +392,7 @@
     ],
     "slow_down_min_speed": [
         "20",
+        "20",
         "20"
     ],
     "supertack_plate_temp": [
@@ -403,8 +414,7 @@
         "0 0 0 0 0 0"
     ],
     "compatible_printers": [
-        "Bambu Lab H2C 0.6 nozzle",
-        "Bambu Lab H2C 0.8 nozzle"
+        "Bambu Lab H2C 0.6 nozzle"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n"
@@ -418,13 +428,10 @@
     "filament_id": "GFS02",
     "description": "This is a non-water-soluble support filament, and usually it is only for the support structure and not for the model body. To get better printing quality, please refer to this wiki: Printing Tips for Support Filament and Support Function.",
     "setting_id": "GFSS02_22",
-    "first_x_layer_fan_speed": [
-        "0"
-    ],
     "filament_change_length_nc": [
         "4"
     ],
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

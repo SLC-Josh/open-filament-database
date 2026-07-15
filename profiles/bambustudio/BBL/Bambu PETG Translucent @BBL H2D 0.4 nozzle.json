@@ -74,10 +74,13 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
-        "0"
+        "20",
+        "20",
+        "20"
     ],
     "filament_tower_interface_pre_extrusion_dist": [
         "10"
@@ -163,6 +166,7 @@
     ],
     "filament_max_volumetric_speed": [
         "6",
+        "6",
         "6"
     ],
     "filament_metal_stickiness": [
@@ -211,7 +215,9 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "nil",
+        "nil",
+        "1"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -265,6 +271,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -333,9 +340,11 @@
     ],
     "nozzle_temperature": [
         "245",
+        "245",
         "245"
     ],
     "nozzle_temperature_initial_layer": [
+        "250",
         "250",
         "250"
     ],
@@ -412,7 +421,7 @@
     "description": "To get better transparent or translucent results with the corresponding filament, please refer to this wiki: Printing tips for transparent PETG.",
     "setting_id": "GFSG01_06",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ],
     "pre_start_fan_time": [
         "2"

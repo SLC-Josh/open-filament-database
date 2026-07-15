@@ -82,7 +82,7 @@
     "filament_preheat_temperature_delta": [
         "10",
         "10",
-        "10"
+        "20"
     ],
     "filament_tower_interface_pre_extrusion_dist": [
         "10"
@@ -180,7 +180,7 @@
     "filament_max_volumetric_speed": [
         "12",
         "12",
-        "12"
+        "16"
     ],
     "filament_metal_stickiness": [
         "High"
@@ -475,8 +475,7 @@
         "0 0 0 0 0 0"
     ],
     "compatible_printers": [
-        "Bambu Lab H2D Pro 0.6 nozzle",
-        "Bambu Lab H2D Pro 0.8 nozzle"
+        "Bambu Lab H2D Pro 0.6 nozzle"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n"
