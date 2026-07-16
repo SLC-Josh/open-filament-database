@@ -388,6 +388,27 @@
     "filament_adhesiveness_category": [
         "704"
     ],
+    "filament_dev_ams_drying_time": [
+        "12",
+        "18",
+        "12",
+        "18"
+    ],
+    "filament_dev_ams_drying_heat_distortion_temperature": [
+        "75"
+    ],
+    "filament_dev_drying_cooling_temperature": [
+        "40"
+    ],
+    "filament_dev_ams_drying_temperature": [
+        "65",
+        "85",
+        "65",
+        "70"
+    ],
+    "filament_dev_drying_softening_temperature": [
+        "75"
+    ],
     "filament_id": "GFS99",
     "description": "This is a water-soluble support filament, and usually it is only for the support structure and not for the model body. Printing this filament is of many requirements, and to get better printing quality, please refer to this wiki: PVA Printing Guide.",
     "setting_id": "GFSS99_15",

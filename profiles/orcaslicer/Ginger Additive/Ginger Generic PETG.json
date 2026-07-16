@@ -252,15 +252,7 @@
     ],
     "renamed_from": "Ginger Generic rPETG",
     "setting_id": "ue95N2e65rdp5K6c",
-    "extruder_rotation_volume": "624",
     "filament_type": [
         "PETG"
-    ],
-    "mixing_stepper_rotation_volume": "8000",
-    "multi_zone_1_initial_layer": "240",
-    "multi_zone_1_temperature": "240",
-    "multi_zone_2_initial_layer": "240",
-    "multi_zone_2_temperature": "240",
-    "multi_zone_3_initial_layer": "220",
-    "multi_zone_3_temperature": "220"
+    ]
 }

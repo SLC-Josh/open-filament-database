@@ -11,7 +11,7 @@
     "filament_soluble": "0",
     "min_print_speed": "211",
     "slowdown_below_layer_time": "1",
-    "filament_minimal_purge_on_wipe_tower": "90",
+    "filament_minimal_purge_on_wipe_tower": "25",
     "filament_colour": "#C8CF0A",
     "filament_max_volumetric_speed": "0",
     "filament_type": "PLA",

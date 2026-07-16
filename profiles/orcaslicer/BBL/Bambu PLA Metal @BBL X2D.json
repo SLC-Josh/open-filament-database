@@ -388,6 +388,34 @@
     "filament_adhesiveness_category": [
         "100"
     ],
+    "filament_dev_chamber_drying_bed_temperature": [
+        "70"
+    ],
+    "filament_dev_ams_drying_time": [
+        "12",
+        "12",
+        "12",
+        "12"
+    ],
+    "filament_dev_ams_drying_ams_limitations": [
+        "1",
+        "0"
+    ],
+    "filament_dev_ams_drying_heat_distortion_temperature": [
+        "45"
+    ],
+    "filament_dev_drying_cooling_temperature": [
+        "45"
+    ],
+    "filament_dev_ams_drying_temperature": [
+        "45",
+        "45",
+        "45",
+        "45"
+    ],
+    "filament_dev_drying_softening_temperature": [
+        "50"
+    ],
     "filament_id": "GFA02",
     "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
     "setting_id": "GFSA02_18",
