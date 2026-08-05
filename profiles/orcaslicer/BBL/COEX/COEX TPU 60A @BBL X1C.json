@@ -343,6 +343,9 @@
     "bed_temperature_initial_layer": [
         "0"
     ],
+    "filament_multitool_ramming_flow": [
+        "1"
+    ],
     "filament_retract_layer_change": [
         "0"
     ],

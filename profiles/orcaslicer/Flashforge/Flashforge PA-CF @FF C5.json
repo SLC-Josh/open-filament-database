@@ -151,6 +151,9 @@
     "supertack_plate_temp_initial_layer": [
         "0"
     ],
+    "filament_multitool_ramming_flow": [
+        "8"
+    ],
     "nozzle_temperature_range_high": [
         "300"
     ],

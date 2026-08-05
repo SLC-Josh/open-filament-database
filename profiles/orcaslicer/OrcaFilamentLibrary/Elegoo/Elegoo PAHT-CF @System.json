@@ -169,6 +169,9 @@
     ],
     "setting_id": "S073oXCeOlTEqh6L",
     "renamed_from": "Elegoo PAHT-CF",
+    "filament_multitool_ramming_flow": [
+        "6"
+    ],
     "pressure_advance": [
         "0.052"
     ],

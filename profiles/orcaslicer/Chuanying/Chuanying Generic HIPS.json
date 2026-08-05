@@ -66,6 +66,12 @@
     "filament_minimal_purge_on_wipe_tower": [
         "5"
     ],
+    "filament_multitool_ramming": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "10"
+    ],
     "filament_retract_before_wipe": [
         "nil"
     ],
@@ -188,6 +194,9 @@
         "Chuanying X1 0.6 Nozzle",
         "Chuanying X1 0.8 Nozzle"
     ],
+    "filament_multitool_ramming_flow": [
+        "10"
+    ],
     "nozzle_temperature_range_high": [
         "250"
     ],
@@ -240,15 +249,6 @@
     ],
     "filament_loading_speed_start": [
         "3"
-    ],
-    "filament_multitool_ramming": [
-        "0"
-    ],
-    "filament_multitool_ramming_flow": [
-        "10"
-    ],
-    "filament_multitool_ramming_volume": [
-        "10"
     ],
     "filament_notes": [
         ""

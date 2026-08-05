@@ -333,6 +333,9 @@
     ],
     "filament_id": "CXPLSB03",
     "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
+    "filament_multitool_ramming_flow": [
+        "10"
+    ],
     "filament_notes": "Silk finish for aesthetic prints - slightly higher temperature than regular PLA",
     "bed_temperature": [
         "60"

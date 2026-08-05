@@ -66,6 +66,12 @@
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
+    "filament_multitool_ramming": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "10"
+    ],
     "filament_retract_before_wipe": [
         "nil"
     ],
@@ -192,6 +198,9 @@
         "Kentstrapper ZeroHS CC",
         "Kentstrapper ZeroPro"
     ],
+    "filament_multitool_ramming_flow": [
+        "10"
+    ],
     "nozzle_temperature_range_high": [
         "280"
     ],
@@ -251,15 +260,6 @@
     ],
     "filament_loading_speed_start": [
         "3"
-    ],
-    "filament_multitool_ramming": [
-        "0"
-    ],
-    "filament_multitool_ramming_flow": [
-        "10"
-    ],
-    "filament_multitool_ramming_volume": [
-        "10"
     ],
     "filament_notes": [
         ""

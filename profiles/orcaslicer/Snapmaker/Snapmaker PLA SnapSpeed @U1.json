@@ -8,7 +8,7 @@
         "; filament end gcode \n"
     ],
     "filament_retraction_length": [
-        "0.8"
+        "1.2"
     ],
     "filament_loading_speed_start": [
         "50"
@@ -41,7 +41,7 @@
         "100"
     ],
     "filament_max_volumetric_speed": [
-        "18"
+        "20"
     ],
     "filament_type": [
         "PLA"
@@ -59,10 +59,10 @@
         "60"
     ],
     "hot_plate_temp": [
-        "55"
+        "65"
     ],
     "textured_plate_temp": [
-        "60"
+        "65"
     ],
     "cool_plate_temp_initial_layer": [
         "60"
@@ -71,10 +71,10 @@
         "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "65"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "65"
     ],
     "nozzle_temperature_initial_layer": [
         "220"
@@ -98,19 +98,19 @@
         "50%"
     ],
     "close_fan_the_first_x_layers": [
-        "3"
+        "1"
     ],
     "nozzle_temperature": [
         "220"
     ],
     "temperature_vitrification": [
-        "60"
+        "45"
     ],
     "nozzle_temperature_range_low": [
         "190"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "240"
     ],
     "slow_down_min_speed": [
         "20"
@@ -153,22 +153,19 @@
     "compatible_prints": [],
     "compatible_prints_condition": "",
     "complete_print_exhaust_fan_speed": [
-        "80"
-    ],
-    "default_filament_colour": [
-        ""
+        "70"
     ],
     "dont_slow_down_outer_wall": [
         "0"
     ],
     "during_print_exhaust_fan_speed": [
-        "60"
+        "70"
     ],
     "enable_overhang_bridge_fan": [
         "1"
     ],
     "enable_pressure_advance": [
-        "1"
+        "0"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -177,7 +174,7 @@
         "1.75"
     ],
     "filament_flow_ratio": [
-        "0.99"
+        "0.966"
     ],
     "filament_is_support": [
         "0"
@@ -192,7 +189,7 @@
         "1"
     ],
     "filament_multitool_ramming_flow": [
-        "40"
+        "30"
     ],
     "filament_multitool_ramming_volume": [
         "5"
@@ -205,6 +202,9 @@
     ],
     "filament_retract_before_wipe": [
         "nil"
+    ],
+    "filament_retract_length_toolchange": [
+        "5"
     ],
     "filament_retract_lift_above": [
         "nil"
@@ -228,7 +228,7 @@
         "nil"
     ],
     "filament_retraction_speed": [
-        "30"
+        "nil"
     ],
     "filament_shrink": [
         "100%"
@@ -258,10 +258,10 @@
         "nil"
     ],
     "filament_z_hop": [
-        "nil"
+        "0.4"
     ],
     "filament_z_hop_types": [
-        "nil"
+        "Slope Lift"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -273,7 +273,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.026"
+        "0.02"
     ],
     "required_nozzle_HRC": [
         "0"

@@ -332,5 +332,8 @@
         "50"
     ],
     "filament_id": "GFOT006",
+    "filament_multitool_ramming_flow": [
+        "8"
+    ],
     "setting_id": "GFOT006_07"
 }

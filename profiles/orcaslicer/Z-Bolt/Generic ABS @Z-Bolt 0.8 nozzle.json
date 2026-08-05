@@ -66,6 +66,12 @@
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_volume": [
+        "10"
+    ],
     "filament_retract_before_wipe": [
         "nil"
     ],
@@ -193,6 +199,9 @@
         "Z-Bolt S800 Dual 0.8 nozzle",
         "Z-Bolt S1000 0.8 nozzle",
         "Z-Bolt S1000 Dual 0.8 nozzle"
+    ],
+    "filament_multitool_ramming_flow": [
+        "15"
     ],
     "nozzle_temperature_range_high": [
         "280"

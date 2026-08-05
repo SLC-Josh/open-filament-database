@@ -66,6 +66,12 @@
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_volume": [
+        "5"
+    ],
     "filament_retract_before_wipe": [
         "nil"
     ],
@@ -190,6 +196,9 @@
         "MyToolChanger 0.8 nozzle"
     ],
     "filament_id": "GFG99",
+    "filament_multitool_ramming_flow": [
+        "15"
+    ],
     "nozzle_temperature_range_high": [
         "260"
     ],
@@ -215,12 +224,6 @@
     ],
     "filament_loading_speed_start": [
         "50"
-    ],
-    "filament_multitool_ramming": [
-        "1"
-    ],
-    "filament_multitool_ramming_flow": [
-        "40"
     ],
     "filament_stamping_distance": [
         "45"

@@ -148,6 +148,9 @@
         "240"
     ],
     "setting_id": "ypxgjHl9uIMyZIce",
+    "filament_multitool_ramming_flow": [
+        "20"
+    ],
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

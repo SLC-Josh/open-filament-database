@@ -169,6 +169,9 @@
     "filament_id": "EPLAB00",
     "setting_id": "pMgazYJG8tyTpAVE",
     "renamed_from": "Elegoo PLA Wood",
+    "filament_multitool_ramming_flow": [
+        "10"
+    ],
     "pressure_advance": [
         "0.052"
     ],

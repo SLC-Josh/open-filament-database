@@ -147,6 +147,15 @@
     "filament_is_support": [
         "1"
     ],
+    "filament_multitool_ramming": [
+        "0"
+    ],
+    "filament_multitool_ramming_flow": [
+        "6"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0.1"
+    ],
     "nozzle_temperature_range_high": [
         "240"
     ],
