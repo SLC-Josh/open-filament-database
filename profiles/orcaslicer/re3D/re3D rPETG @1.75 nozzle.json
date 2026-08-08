@@ -1,15 +1,19 @@
 {
     "type": "filament",
-    "name": "re3D Greengate rPETG @0.8 nozzle",
+    "name": "re3D rPETG @1.75 nozzle",
     "from": "system",
     "instantiation": "true",
     "filament_type": [
         "PETG"
     ],
     "filament_id": "GFG01",
-    "setting_id": "fRX555Prkdu5ESIp",
+    "setting_id": "sHzO2S3mmE6Iqs2O",
+    "renamed_from": "re3D Greengate rPETG @1.75 nozzle",
     "nozzle_temperature_initial_layer": [
         "0"
+    ],
+    "filament_vendor": [
+        "re3D"
     ],
     "nozzle_temperature": [
         "0"
@@ -108,8 +112,8 @@
         "0"
     ],
     "compatible_printers": [
-        "re3D GigabotX 2 0.8 nozzle",
-        "re3D GigabotX 2 XLT 0.8 nozzle",
-        "re3D TerabotX 2 0.8 nozzle"
+        "re3D GigabotX 2 1.75 nozzle",
+        "re3D GigabotX 2 XLT 1.75 nozzle",
+        "re3D TerabotX 2 1.75 nozzle"
     ]
 }
