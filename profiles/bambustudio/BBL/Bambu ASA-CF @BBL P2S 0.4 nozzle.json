@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -141,6 +142,7 @@
     ],
     "filament_flow_ratio": [
         "0.9",
+        "0.9",
         "0.9"
     ],
     "filament_flush_temp": [
@@ -162,6 +164,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "18",
         "18",
         "18"
     ],
@@ -211,7 +214,9 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "1.2",
+        "nil",
+        "1.2"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -265,6 +270,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -327,6 +333,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -334,9 +341,11 @@
     ],
     "nozzle_temperature": [
         "275",
+        "275",
         "275"
     ],
     "nozzle_temperature_initial_layer": [
+        "275",
         "275",
         "275"
     ],
@@ -347,7 +356,7 @@
         "250"
     ],
     "overhang_fan_speed": [
-        "80"
+        "100"
     ],
     "overhang_fan_threshold": [
         "25%"
@@ -362,6 +371,7 @@
         "3"
     ],
     "retraction_distances_when_ec": [
+        "0",
         "0",
         "0"
     ],
@@ -378,6 +388,7 @@
         "12"
     ],
     "slow_down_min_speed": [
+        "20",
         "20",
         "20"
     ],
@@ -414,6 +425,6 @@
     "filament_id": "GFB51",
     "setting_id": "GFSB51_08",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

@@ -76,6 +76,8 @@
         "10",
         "10",
         "10",
+        "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -145,6 +147,8 @@
         "0.52",
         "0.52",
         "0.52",
+        "0.52",
+        "0.52",
         "0.52"
     ],
     "filament_flush_temp": [
@@ -166,6 +170,8 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "6",
+        "12",
         "6",
         "12",
         "12",
@@ -220,6 +226,8 @@
         "1.5",
         "1.5",
         "1.5",
+        "1.5",
+        "1.5",
         "1.5"
     ],
     "filament_retraction_minimum_travel": [
@@ -253,12 +261,16 @@
         "5",
         "5",
         "5",
+        "5",
+        "5",
         "5"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
+        "Normal Lift",
+        "Normal Lift",
         "Normal Lift",
         "Normal Lift",
         "Normal Lift",
@@ -280,6 +292,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -352,9 +366,13 @@
         "270",
         "270",
         "270",
+        "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
         "270",
         "270",
         "270",
@@ -384,6 +402,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -400,6 +420,8 @@
         "5"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -439,6 +461,6 @@
     "description": "This filament is only used to print models with a low density usually, and some special parameters are required. To get better printing quality, please refer to this wiki: ASA Aero Printing Guide.",
     "setting_id": "GFSB02_06",
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

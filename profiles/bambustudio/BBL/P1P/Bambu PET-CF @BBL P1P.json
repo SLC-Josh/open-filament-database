@@ -58,13 +58,13 @@
         "80"
     ],
     "fan_cooling_layer_time": [
-        "5"
+        "80"
     ],
     "fan_max_speed": [
-        "30"
+        "80"
     ],
     "fan_min_speed": [
-        "10"
+        "1"
     ],
     "filament_adaptive_volumetric_speed": [
         "0"
@@ -139,7 +139,7 @@
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "1",
+        "0.9555",
         "1"
     ],
     "filament_flush_temp": [
@@ -161,7 +161,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "8",
+        "5",
         "8"
     ],
     "filament_metal_stickiness": [
@@ -277,9 +277,11 @@
         "0"
     ],
     "filament_overhang_2_4_speed": [
+        "35",
         "50"
     ],
     "filament_overhang_3_4_speed": [
+        "35",
         "30"
     ],
     "filament_overhang_4_4_speed": [
@@ -346,12 +348,13 @@
         "260"
     ],
     "overhang_fan_speed": [
-        "40"
+        "75"
     ],
     "overhang_fan_threshold": [
         "0%"
     ],
     "override_process_overhang_speed": [
+        "1",
         "0"
     ],
     "reduce_fan_stop_start_freq": [
@@ -374,10 +377,10 @@
         "10"
     ],
     "slow_down_layer_time": [
-        "2"
+        "1"
     ],
     "slow_down_min_speed": [
-        "20",
+        "35",
         "20"
     ],
     "supertack_plate_temp": [
@@ -414,6 +417,9 @@
     ],
     "filament_id": "GFT01",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "pre_start_fan_time": [
+        "2"
+    ],
     "setting_id": "GFST01_10",
     "include": [
         "fdm_filament_template_direct_dual"

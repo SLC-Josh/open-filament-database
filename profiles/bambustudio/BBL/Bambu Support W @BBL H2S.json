@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -142,6 +143,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -158,12 +160,14 @@
     ],
     "filament_long_retractions_when_cut": [
         "0",
+        "0",
         "0"
     ],
     "filament_long_retractions_when_ec": [
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "12",
         "12",
         "12"
     ],
@@ -268,6 +272,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -329,6 +334,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -336,9 +342,11 @@
     ],
     "nozzle_temperature": [
         "220",
+        "220",
         "220"
     ],
     "nozzle_temperature_initial_layer": [
+        "220",
         "220",
         "220"
     ],
@@ -365,6 +373,7 @@
     ],
     "retraction_distances_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "slow_down_for_layer_cooling": [
@@ -380,6 +389,7 @@
         "8"
     ],
     "slow_down_min_speed": [
+        "20",
         "20",
         "20"
     ],
@@ -419,6 +429,6 @@
     "description": "This is a non-water-soluble support filament, and usually it is only for the support structure and not for the model body. To get better printing quality, please refer to this wiki: Printing Tips for Support Filament and Support Function.",
     "setting_id": "GFSS00_07",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

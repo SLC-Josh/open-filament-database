@@ -76,6 +76,8 @@
         "10",
         "10",
         "10",
+        "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -145,6 +147,8 @@
         "0.9",
         "0.9",
         "0.9",
+        "0.9",
+        "0.9",
         "0.9"
     ],
     "filament_flush_temp": [
@@ -166,6 +170,8 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "18",
+        "18",
         "18",
         "18",
         "18",
@@ -217,6 +223,11 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "1.2",
+        "nil",
+        "1.2",
+        "nil",
+        "nil",
         "nil"
     ],
     "filament_retraction_minimum_travel": [
@@ -271,6 +282,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -343,9 +356,13 @@
         "275",
         "275",
         "275",
+        "275",
+        "275",
         "275"
     ],
     "nozzle_temperature_initial_layer": [
+        "275",
+        "275",
         "275",
         "275",
         "275",
@@ -375,6 +392,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -391,6 +410,8 @@
         "12"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -430,6 +451,6 @@
     "filament_id": "GFB51",
     "setting_id": "GFSB51_13",
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

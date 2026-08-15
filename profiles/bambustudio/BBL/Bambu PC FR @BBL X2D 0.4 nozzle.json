@@ -76,6 +76,8 @@
         "10",
         "10",
         "10",
+        "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -145,6 +147,8 @@
         "0.94",
         "0.94",
         "0.94",
+        "0.94",
+        "0.94",
         "0.94"
     ],
     "filament_flush_temp": [
@@ -166,6 +170,8 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "18",
+        "18",
         "18",
         "18",
         "18",
@@ -219,6 +225,8 @@
     "filament_retraction_length": [
         "0.4",
         "0.4",
+        "0.4",
+        "nil",
         "nil",
         "nil"
     ],
@@ -250,9 +258,13 @@
         "1",
         "1",
         "1",
+        "1",
+        "1",
         "1"
     ],
     "filament_wipe_distance": [
+        "1",
+        "1",
         "1",
         "1",
         "1",
@@ -262,6 +274,8 @@
         "nil"
     ],
     "filament_z_hop_types": [
+        "Spiral Lift",
+        "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift",
         "Spiral Lift",
@@ -283,6 +297,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -355,9 +371,13 @@
         "280",
         "280",
         "280",
+        "280",
+        "280",
         "280"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
         "270",
         "270",
         "270",
@@ -387,6 +407,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -403,6 +425,8 @@
         "12"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -441,6 +465,6 @@
     "filament_id": "GFC01",
     "setting_id": "GFSC01_28",
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

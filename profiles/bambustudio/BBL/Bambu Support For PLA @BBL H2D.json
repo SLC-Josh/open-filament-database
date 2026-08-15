@@ -61,10 +61,10 @@
         "100"
     ],
     "fan_max_speed": [
-        "30"
+        "15"
     ],
     "fan_min_speed": [
-        "20"
+        "10"
     ],
     "filament_adaptive_volumetric_speed": [
         "0"

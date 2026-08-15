@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -142,6 +143,7 @@
     ],
     "filament_flow_ratio": [
         "0.98",
+        "0.98",
         "0.98"
     ],
     "filament_flush_temp": [
@@ -158,12 +160,14 @@
     ],
     "filament_long_retractions_when_cut": [
         "0",
+        "0",
         "0"
     ],
     "filament_long_retractions_when_ec": [
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "16",
         "16",
         "16"
     ],
@@ -268,6 +272,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -329,6 +334,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -336,9 +342,11 @@
     ],
     "nozzle_temperature": [
         "220",
+        "220",
         "220"
     ],
     "nozzle_temperature_initial_layer": [
+        "220",
         "220",
         "220"
     ],
@@ -365,6 +373,7 @@
     ],
     "retraction_distances_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "slow_down_for_layer_cooling": [
@@ -380,6 +389,7 @@
         "6"
     ],
     "slow_down_min_speed": [
+        "20",
         "20",
         "20"
     ],
@@ -418,6 +428,6 @@
     "filament_id": "GFL03",
     "setting_id": "GFSL03_09",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

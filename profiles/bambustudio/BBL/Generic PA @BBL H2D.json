@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -141,6 +142,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -162,6 +164,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "12",
         "12",
         "12"
     ],
@@ -266,6 +269,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -333,9 +337,11 @@
     ],
     "nozzle_temperature": [
         "260",
+        "260",
         "260"
     ],
     "nozzle_temperature_initial_layer": [
+        "260",
         "260",
         "260"
     ],
@@ -361,6 +367,7 @@
         "3"
     ],
     "retraction_distances_when_ec": [
+        "4",
         "4",
         "4"
     ],
@@ -415,6 +422,6 @@
     "description": "When printing this filament, there's a risk of warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GFSN99_01",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

@@ -74,9 +74,11 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
+        "20",
         "20",
         "20"
     ],
@@ -142,6 +144,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -164,6 +167,7 @@
     ],
     "filament_max_volumetric_speed": [
         "3.2",
+        "3.2",
         "3.2"
     ],
     "filament_metal_stickiness": [
@@ -174,9 +178,11 @@
     ],
     "filament_pre_cooling_temperature": [
         "210",
+        "210",
         "210"
     ],
     "filament_pre_cooling_temperature_nc": [
+        "190",
         "190",
         "190"
     ],
@@ -191,13 +197,16 @@
     ],
     "filament_ramming_travel_time_nc": [
         "20",
+        "20",
         "20"
     ],
     "filament_ramming_volumetric_speed": [
         "0.8",
+        "0.8",
         "0.8"
     ],
     "filament_ramming_volumetric_speed_nc": [
+        "0.8",
         "0.8",
         "0.8"
     ],
@@ -272,9 +281,11 @@
     ],
     "filament_ramming_travel_time": [
         "20",
+        "20",
         "20"
     ],
     "filament_retract_length_nc": [
+        "10",
         "10",
         "10"
     ],
@@ -340,9 +351,11 @@
     ],
     "nozzle_temperature": [
         "230",
+        "230",
         "230"
     ],
     "nozzle_temperature_initial_layer": [
+        "230",
         "230",
         "230"
     ],
@@ -369,6 +382,7 @@
     ],
     "retraction_distances_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "slow_down_for_layer_cooling": [
@@ -384,6 +398,7 @@
         "8"
     ],
     "slow_down_min_speed": [
+        "20",
         "20",
         "20"
     ],
@@ -427,7 +442,7 @@
         "4"
     ],
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ],
     "pre_start_fan_time": [
         "2"

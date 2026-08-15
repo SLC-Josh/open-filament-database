@@ -94,7 +94,7 @@
         "-1"
     ],
     "filament_cost": [
-        "19.99"
+        "17.99"
     ],
     "filament_density": [
         "1.37"
@@ -242,7 +242,7 @@
         "1"
     ],
     "filament_z_hop": [
-        ""
+        "nil"
     ],
     "filament_z_hop_types": [
         "Spiral Lift"

@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -162,6 +163,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "6",
         "6",
         "6"
     ],
@@ -266,6 +268,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -333,9 +336,11 @@
     ],
     "nozzle_temperature": [
         "255",
+        "255",
         "255"
     ],
     "nozzle_temperature_initial_layer": [
+        "255",
         "255",
         "255"
     ],
@@ -410,6 +415,6 @@
     "filament_id": "GFG97",
     "setting_id": "GFSG97_03",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

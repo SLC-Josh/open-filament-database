@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -161,6 +162,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "15",
         "15",
         "15"
     ],
@@ -265,6 +267,7 @@
     ],
     "filament_ramming_travel_time": [
         "0",
+        "0",
         "0"
     ],
     "filament_retract_length_nc": [
@@ -332,9 +335,11 @@
     ],
     "nozzle_temperature": [
         "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "260",
         "260",
         "260"
     ],
@@ -376,6 +381,7 @@
     ],
     "slow_down_min_speed": [
         "20",
+        "20",
         "20"
     ],
     "supertack_plate_temp": [
@@ -413,6 +419,6 @@
     "filament_id": "GFB60",
     "setting_id": "GFSB60_08",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

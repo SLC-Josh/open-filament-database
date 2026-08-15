@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -101,6 +102,7 @@
         "1.24"
     ],
     "filament_deretraction_speed": [
+        "10",
         "10",
         "10"
     ],
@@ -142,6 +144,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -163,6 +166,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "5.6",
         "5.6",
         "5.6"
     ],
@@ -192,6 +196,7 @@
     ],
     "filament_ramming_volumetric_speed": [
         "0.7",
+        "0.7",
         "0.7"
     ],
     "filament_ramming_volumetric_speed_nc": [
@@ -214,12 +219,14 @@
     ],
     "filament_retraction_length": [
         "1",
+        "1",
         "1"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retraction_speed": [
+        "10",
         "10",
         "10"
     ],
@@ -252,6 +259,7 @@
     ],
     "filament_z_hop_types": [
         "nil",
+        "nil",
         "nil"
     ],
     "full_fan_speed_layer": [
@@ -270,6 +278,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -332,6 +341,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -339,9 +349,11 @@
     ],
     "nozzle_temperature": [
         "225",
+        "225",
         "225"
     ],
     "nozzle_temperature_initial_layer": [
+        "225",
         "225",
         "225"
     ],
@@ -368,6 +380,7 @@
     ],
     "retraction_distances_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "slow_down_for_layer_cooling": [
@@ -383,6 +396,7 @@
         "14"
     ],
     "slow_down_min_speed": [
+        "30",
         "30",
         "30"
     ],
@@ -403,6 +417,7 @@
     ],
     "volumetric_speed_coefficients": [
         "85.1441 -0.1306 48.4938 -43.6862 -5.8088 5.5653",
+        "85.1441 -0.1306 48.4938 -43.6862 -5.8088 5.5653",
         "85.1441 -0.1306 48.4938 -43.6862 -5.8088 5.5653"
     ],
     "compatible_printers": [
@@ -421,7 +436,7 @@
     "description": "This filament is too soft and not compatible with the AMS. Printing it is of many requirements, and to get better printing quality, please refer to this wiki: TPU printing guide.",
     "setting_id": "GFSU03_13",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ],
     "pre_start_fan_time": [
         "2"

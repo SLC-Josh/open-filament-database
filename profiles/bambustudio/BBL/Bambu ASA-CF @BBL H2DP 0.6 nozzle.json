@@ -211,7 +211,8 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "1.2",
+        "1.2"
     ],
     "filament_retraction_minimum_travel": [
         "nil"

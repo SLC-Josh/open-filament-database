@@ -76,6 +76,8 @@
         "10",
         "10",
         "10",
+        "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -146,6 +148,8 @@
         "0.6",
         "0.6",
         "0.6",
+        "0.6",
+        "0.6",
         "0.6"
     ],
     "filament_flush_temp": [
@@ -167,6 +171,8 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "3",
+        "6",
         "3",
         "6",
         "6",
@@ -247,14 +253,18 @@
     "filament_wipe": [
         "nil",
         "nil",
+        "nil",
         "1",
-        "nil"
+        "nil",
+        "1"
     ],
     "filament_wipe_distance": [
         "nil",
         "nil",
+        "nil",
         "1",
-        "nil"
+        "nil",
+        "1"
     ],
     "filament_z_hop": [
         "nil"
@@ -262,8 +272,10 @@
     "filament_z_hop_types": [
         "nil",
         "nil",
+        "nil",
         "Spiral Lift",
-        "nil"
+        "nil",
+        "Spiral Lift"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -281,6 +293,8 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
+        "0",
         "0",
         "0",
         "0",
@@ -353,9 +367,13 @@
         "220",
         "220",
         "220",
+        "220",
+        "220",
         "220"
     ],
     "nozzle_temperature_initial_layer": [
+        "220",
+        "220",
         "220",
         "220",
         "220",
@@ -385,6 +403,8 @@
     "retraction_distances_when_ec": [
         "3",
         "3",
+        "3",
+        "4",
         "4",
         "4"
     ],
@@ -401,6 +421,8 @@
         "8"
     ],
     "slow_down_min_speed": [
+        "20",
+        "20",
         "20",
         "20",
         "20",
@@ -443,6 +465,6 @@
         "40"
     ],
     "include": [
-        "fdm_filament_template_direct_bowden"
+        "fdm_filament_template_direct_bowden_e3d"
     ]
 }

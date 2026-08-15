@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -141,6 +142,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -162,6 +164,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "2.8",
         "2.8",
         "2.8"
     ],
@@ -211,6 +214,7 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "1",
         "1",
         "1"
     ],
@@ -266,6 +270,7 @@
         "10"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0",
         "0"
     ],
@@ -328,6 +333,7 @@
     ],
     "long_retractions_when_ec": [
         "0",
+        "0",
         "0"
     ],
     "no_slow_down_for_cooling_on_outwalls": [
@@ -335,9 +341,11 @@
     ],
     "nozzle_temperature": [
         "225",
+        "225",
         "225"
     ],
     "nozzle_temperature_initial_layer": [
+        "225",
         "225",
         "225"
     ],
@@ -363,6 +371,7 @@
         "3"
     ],
     "retraction_distances_when_ec": [
+        "0",
         "0",
         "0"
     ],
@@ -415,6 +424,6 @@
     "description": "This filament is too soft and not compatible with the AMS. Printing it is of many requirements, and to get better printing quality, please refer to this wiki: TPU printing guide.",
     "setting_id": "GFSU03_10",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }

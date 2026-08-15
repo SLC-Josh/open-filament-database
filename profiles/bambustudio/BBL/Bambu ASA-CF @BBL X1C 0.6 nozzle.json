@@ -139,7 +139,7 @@
         "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.9",
+        "0.89",
         "0.9"
     ],
     "filament_flush_temp": [
@@ -210,6 +210,7 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "1.2",
         "nil"
     ],
     "filament_retraction_minimum_travel": [
@@ -346,7 +347,7 @@
         "250"
     ],
     "overhang_fan_speed": [
-        "80"
+        "90"
     ],
     "overhang_fan_threshold": [
         "25%"
@@ -421,5 +422,8 @@
     "setting_id": "GFSB51_01",
     "include": [
         "fdm_filament_template_direct_dual"
+    ],
+    "pre_start_fan_time": [
+        "3"
     ]
 }

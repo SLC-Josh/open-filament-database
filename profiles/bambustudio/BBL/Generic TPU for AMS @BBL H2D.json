@@ -74,6 +74,7 @@
     ],
     "filament_cooling_before_tower": [
         "10",
+        "10",
         "10"
     ],
     "filament_preheat_temperature_delta": [
@@ -141,6 +142,7 @@
     ],
     "filament_flow_ratio": [
         "1",
+        "1",
         "1"
     ],
     "filament_flush_temp": [
@@ -163,6 +165,7 @@
     ],
     "filament_max_volumetric_speed": [
         "10.5",
+        "10.5",
         "10.5"
     ],
     "filament_metal_stickiness": [
@@ -172,6 +175,7 @@
         "15"
     ],
     "filament_pre_cooling_temperature": [
+        "200",
         "200",
         "200"
     ],
@@ -191,6 +195,7 @@
         "0"
     ],
     "filament_ramming_volumetric_speed": [
+        "2.625",
         "2.625",
         "2.625"
     ],
@@ -268,6 +273,7 @@
     ],
     "filament_ramming_travel_time": [
         "20",
+        "20",
         "20"
     ],
     "filament_retract_length_nc": [
@@ -335,9 +341,11 @@
     ],
     "nozzle_temperature": [
         "230",
+        "230",
         "230"
     ],
     "nozzle_temperature_initial_layer": [
+        "230",
         "230",
         "230"
     ],
@@ -416,6 +424,6 @@
     "description": "If you are to print a kind of soft TPU, please don't slice with this profile, and it is only for TPU that has high enough hardness (not less than 55D) and is compatible with the AMS. To get better printing quality, please refer to this wiki: TPU printing guide.",
     "setting_id": "GFSU98_04",
     "include": [
-        "fdm_filament_template_direct_dual"
+        "fdm_filament_template_direct_dual_e3d"
     ]
 }
