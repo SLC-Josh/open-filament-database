@@ -1,7 +1,7 @@
 {
     "cooling": "1",
     "compatible_printers": "",
-    "compatible_printers_condition": "printer_model=~/.*XL.*/ and nozzle_diameter[0]==0.8",
+    "compatible_printers_condition": "printer_model=~/(XL|XL2|XL5|XLIS|XL2IS|XL5IS)/ and nozzle_diameter[0]==0.8",
     "end_filament_gcode": "\"; Filament-specific end gcode\"",
     "extrusion_multiplier": "1",
     "filament_loading_speed": "28",
@@ -51,5 +51,7 @@
     "filament_multitool_ramming_volume": "40",
     "filament_multitool_ramming_flow": "8",
     "filament_travel_ramping_lift": "1",
-    "filament_travel_slope": "1"
+    "filament_travel_slope": "1",
+    "filament_shrinkage_compensation_xy": "0%",
+    "filament_shrinkage_compensation_z": "0%"
 }
