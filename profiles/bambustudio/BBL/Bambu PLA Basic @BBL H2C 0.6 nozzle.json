@@ -169,7 +169,7 @@
     "filament_max_volumetric_speed": [
         "30",
         "40",
-        "40"
+        "30"
     ],
     "filament_metal_stickiness": [
         "None"
@@ -437,6 +437,9 @@
     "setting_id": "GFSA00_31",
     "filament_change_length_nc": [
         "4"
+    ],
+    "first_x_layer_fan_speed": [
+        "0"
     ],
     "include": [
         "fdm_filament_template_direct_dual_e3d"

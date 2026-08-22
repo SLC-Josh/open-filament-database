@@ -144,7 +144,7 @@
     "filament_flow_ratio": [
         "1.01",
         "0.98",
-        "0.98"
+        "1.01"
     ],
     "filament_flush_temp": [
         "0"
@@ -167,7 +167,7 @@
     "filament_max_volumetric_speed": [
         "16",
         "40",
-        "40"
+        "16"
     ],
     "filament_metal_stickiness": [
         "None"
@@ -211,7 +211,7 @@
     "filament_retraction_distances_when_cut": [
         "10",
         "18",
-        "18"
+        "10"
     ],
     "filament_retraction_distances_when_ec": [
         "nil"

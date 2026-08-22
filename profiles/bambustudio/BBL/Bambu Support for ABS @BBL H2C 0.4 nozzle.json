@@ -397,7 +397,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "90"
+        "75"
     ],
     "textured_plate_temp": [
         "90"
@@ -425,6 +425,9 @@
     "setting_id": "GFSS06_07",
     "filament_change_length_nc": [
         "4"
+    ],
+    "first_x_layer_fan_speed": [
+        "0"
     ],
     "include": [
         "fdm_filament_template_direct_dual_e3d"

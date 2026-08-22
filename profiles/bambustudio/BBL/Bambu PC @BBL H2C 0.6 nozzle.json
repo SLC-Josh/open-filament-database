@@ -168,7 +168,7 @@
     "filament_max_volumetric_speed": [
         "25",
         "30",
-        "30"
+        "25"
     ],
     "filament_metal_stickiness": [
         "None"
@@ -407,7 +407,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "120"
+        "90"
     ],
     "textured_plate_temp": [
         "110"
@@ -434,6 +434,9 @@
     "setting_id": "GFSC00_40",
     "filament_change_length_nc": [
         "4"
+    ],
+    "first_x_layer_fan_speed": [
+        "0"
     ],
     "include": [
         "fdm_filament_template_direct_dual_e3d"

@@ -173,7 +173,7 @@
     "filament_max_volumetric_speed": [
         "22",
         "40",
-        "40",
+        "22",
         "22",
         "22",
         "22"
@@ -231,7 +231,7 @@
     "filament_retraction_length": [
         "0.4",
         "nil",
-        "nil",
+        "0.4",
         "nil",
         "nil",
         "nil"
@@ -263,18 +263,18 @@
     "filament_wipe": [
         "1",
         "nil",
-        "nil",
+        "1",
         "1",
         "nil",
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
         "1",
         "nil",
-        "nil",
+        "1",
         "1",
         "nil",
-        "nil"
+        "1"
     ],
     "filament_z_hop": [
         "nil"
@@ -282,10 +282,10 @@
     "filament_z_hop_types": [
         "Spiral Lift",
         "nil",
-        "nil",
+        "Spiral Lift",
         "Spiral Lift",
         "nil",
-        "nil"
+        "Spiral Lift"
     ],
     "full_fan_speed_layer": [
         "0"

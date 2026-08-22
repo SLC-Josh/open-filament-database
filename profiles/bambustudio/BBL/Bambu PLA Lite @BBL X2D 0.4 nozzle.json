@@ -96,7 +96,7 @@
         "20"
     ],
     "filament_tower_interface_print_temp": [
-        "210"
+        "220"
     ],
     "filament_cost": [
         "18.99"
@@ -147,7 +147,7 @@
     "filament_flow_ratio": [
         "1.029",
         "0.98",
-        "0.98",
+        "1.029",
         "0.98",
         "0.98",
         "0.98"
@@ -173,7 +173,7 @@
     "filament_max_volumetric_speed": [
         "16",
         "40",
-        "40",
+        "16",
         "16",
         "16",
         "16"
@@ -229,9 +229,9 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil",
-        "nil",
-        "nil",
+        "0.4",
+        "0.4",
+        "0.4",
         "3",
         "3",
         "3"
@@ -261,31 +261,31 @@
         "Bambu Lab"
     ],
     "filament_wipe": [
-        "nil",
-        "nil",
-        "nil",
         "1",
-        "nil",
-        "nil"
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
     ],
     "filament_wipe_distance": [
-        "nil",
-        "nil",
-        "nil",
         "1",
-        "nil",
-        "nil"
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
-        "nil",
-        "nil",
-        "nil",
         "Spiral Lift",
-        "nil",
-        "nil"
+        "Spiral Lift",
+        "Spiral Lift",
+        "Spiral Lift",
+        "Spiral Lift",
+        "Spiral Lift"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -374,20 +374,20 @@
         "0"
     ],
     "nozzle_temperature": [
-        "210",
-        "210",
-        "210",
-        "210",
-        "210",
-        "210"
+        "220",
+        "220",
+        "220",
+        "220",
+        "220",
+        "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "210",
-        "210",
-        "210",
-        "210",
-        "210",
-        "210"
+        "220",
+        "220",
+        "220",
+        "220",
+        "220",
+        "220"
     ],
     "nozzle_temperature_range_high": [
         "240"

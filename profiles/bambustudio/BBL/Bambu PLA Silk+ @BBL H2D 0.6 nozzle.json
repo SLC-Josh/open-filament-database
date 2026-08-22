@@ -78,9 +78,9 @@
         "10"
     ],
     "filament_preheat_temperature_delta": [
-        "20",
-        "20",
-        "20"
+        "10",
+        "10",
+        "10"
     ],
     "filament_tower_interface_pre_extrusion_dist": [
         "10"
@@ -149,9 +149,9 @@
         "0.98"
     ],
     "filament_flush_temp": [
-        "200",
-        "200",
-        "200"
+        "0",
+        "0",
+        "0"
     ],
     "filament_flush_temp_fast": [
         "0"
@@ -186,7 +186,7 @@
         "0"
     ],
     "filament_prime_volume": [
-        "30"
+        "45"
     ],
     "filament_prime_volume_nc": [
         "60"
@@ -310,7 +310,7 @@
         "25"
     ],
     "filament_change_length": [
-        "4"
+        "10"
     ],
     "filament_velocity_adaptation_factor": [
         "1"

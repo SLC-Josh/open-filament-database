@@ -415,6 +415,9 @@
     "filament_id": "GFG01",
     "description": "To get better transparent or translucent results with the corresponding filament, please refer to this wiki: Printing tips for transparent PETG.",
     "setting_id": "GFSG01_43",
+    "first_x_layer_fan_speed": [
+        "0"
+    ],
     "include": [
         "fdm_filament_template_direct_dual"
     ]

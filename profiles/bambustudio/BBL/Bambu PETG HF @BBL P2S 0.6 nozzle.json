@@ -165,7 +165,7 @@
     "filament_max_volumetric_speed": [
         "21",
         "35",
-        "35"
+        "21"
     ],
     "filament_metal_stickiness": [
         "High"
@@ -431,6 +431,9 @@
     ],
     "filament_id": "GFG02",
     "setting_id": "GFSG02_18",
+    "first_x_layer_fan_speed": [
+        "0"
+    ],
     "include": [
         "fdm_filament_template_direct_dual_e3d"
     ]

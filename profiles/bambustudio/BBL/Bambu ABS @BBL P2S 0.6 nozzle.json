@@ -4,7 +4,7 @@
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
-        "0"
+        "1"
     ],
     "additional_cooling_fan_speed": [
         "0"
@@ -164,7 +164,7 @@
     "filament_max_volumetric_speed": [
         "16",
         "35",
-        "35"
+        "16"
     ],
     "filament_metal_stickiness": [
         "None"

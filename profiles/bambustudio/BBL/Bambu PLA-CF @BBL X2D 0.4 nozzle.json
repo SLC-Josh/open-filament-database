@@ -261,7 +261,7 @@
         "nil",
         "1",
         "nil",
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
         "nil",
@@ -269,7 +269,7 @@
         "nil",
         "1",
         "nil",
-        "nil"
+        "1"
     ],
     "filament_z_hop": [
         "nil"
@@ -280,7 +280,7 @@
         "nil",
         "Spiral Lift",
         "nil",
-        "nil"
+        "Spiral Lift"
     ],
     "full_fan_speed_layer": [
         "0"

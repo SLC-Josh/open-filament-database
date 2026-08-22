@@ -394,7 +394,7 @@
         "60"
     ],
     "temperature_vitrification": [
-        "70"
+        "55"
     ],
     "textured_plate_temp": [
         "70"
@@ -422,6 +422,9 @@
     "setting_id": "GFSG01_40",
     "filament_change_length_nc": [
         "4"
+    ],
+    "first_x_layer_fan_speed": [
+        "0"
     ],
     "include": [
         "fdm_filament_template_direct_dual"

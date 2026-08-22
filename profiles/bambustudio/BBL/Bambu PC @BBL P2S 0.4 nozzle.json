@@ -166,7 +166,7 @@
     "filament_max_volumetric_speed": [
         "18",
         "30",
-        "30"
+        "18"
     ],
     "filament_metal_stickiness": [
         "None"

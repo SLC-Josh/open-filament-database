@@ -179,7 +179,7 @@
         "0"
     ],
     "filament_prime_volume": [
-        "30"
+        "45"
     ],
     "filament_prime_volume_nc": [
         "60"
@@ -298,7 +298,7 @@
         "25"
     ],
     "filament_change_length": [
-        "4"
+        "10"
     ],
     "filament_velocity_adaptation_factor": [
         "1"

@@ -229,9 +229,9 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil",
-        "nil",
-        "nil",
+        "0.4",
+        "0.4",
+        "0.4",
         "3",
         "3",
         "3"
@@ -261,31 +261,31 @@
         "Bambu Lab"
     ],
     "filament_wipe": [
-        "nil",
-        "nil",
-        "nil",
         "1",
-        "nil",
-        "nil"
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
     ],
     "filament_wipe_distance": [
-        "nil",
-        "nil",
-        "nil",
         "1",
-        "nil",
-        "nil"
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
-        "nil",
-        "nil",
-        "nil",
         "Spiral Lift",
-        "nil",
-        "nil"
+        "Spiral Lift",
+        "Spiral Lift",
+        "Spiral Lift",
+        "Spiral Lift",
+        "Spiral Lift"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -428,7 +428,7 @@
         "10"
     ],
     "slow_down_layer_time": [
-        "10"
+        "6"
     ],
     "slow_down_min_speed": [
         "20",
