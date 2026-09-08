@@ -186,7 +186,6 @@
     "compatible_printers": [
         "Sovol Zero 0.4 nozzle"
     ],
-    "filament_id": "GFL99",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -198,6 +197,7 @@
     ],
     "renamed_from": "My Generic PETG",
     "setting_id": "AfxHmpdOkMDJa2fk",
+    "filament_id": "OFymnal9",
     "enable_pressure_advance": "1",
     "pressure_advance": "0.048"
 }

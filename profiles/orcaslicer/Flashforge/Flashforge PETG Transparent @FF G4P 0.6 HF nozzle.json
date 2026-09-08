@@ -103,7 +103,7 @@
         "PETG"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
+    "renamed_from": "Flashforge Generic PETG @G3U 0.6 Nozzle;Flashforge Generic PETG G3U 0.6 Nozzle",
     "setting_id": "kuCvwo6Phr6Ywhm4",
-    "filament_id": "GFB99",
+    "filament_id": "OFwjMiKL",
     "support_material_interface_fan_speed": [
         "100"
     ],

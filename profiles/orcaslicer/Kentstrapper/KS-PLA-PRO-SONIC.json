@@ -198,7 +198,6 @@
         "Kentstrapper ZeroHS CC",
         "Kentstrapper ZeroPro"
     ],
-    "filament_id": "OGFL99",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -213,6 +212,7 @@
     ],
     "renamed_from": "My Generic PLA",
     "setting_id": "RcBNzytWgwRrwXXz",
+    "filament_id": "OFDSrzZ8",
     "activate_chamber_temp_control": [
         "0"
     ],

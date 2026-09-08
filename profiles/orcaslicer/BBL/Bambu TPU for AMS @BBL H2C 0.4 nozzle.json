@@ -355,7 +355,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GFU02",
+    "filament_id": "OFIBbYO5",
     "description": "If you are to print a kind of soft TPU, please don't slice with this profile, and it is only for TPU that has high enough hardness (not less than 55D) and is compatible with the AMS. To get better printing quality, please refer to this wiki: TPU printing guide.",
     "setting_id": "GFSU02_09",
     "filament_cooling_before_tower": [

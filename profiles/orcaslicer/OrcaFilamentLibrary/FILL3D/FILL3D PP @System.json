@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "FILL3D004",
     "additional_cooling_fan_speed": [
         "0"
     ],
@@ -203,6 +202,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "filament_id": "OFPWPlSC",
     "enable_pressure_advance": [
         "1"
     ],

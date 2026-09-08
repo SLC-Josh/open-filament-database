@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFSNL08",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -200,6 +199,7 @@
     "nozzle_temperature_range_low": [
         "230"
     ],
+    "filament_id": "OF2GCW1l",
     "description": "To get better transparent or translucent results with the corresponding filament, please refer to this wiki: Printing tips for transparent PETG.",
     "setting_id": "Kzd2INRTROPH7Zr9"
 }

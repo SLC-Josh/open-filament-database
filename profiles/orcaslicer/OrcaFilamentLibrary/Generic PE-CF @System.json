@@ -100,7 +100,7 @@
         "0"
     ],
     "filament_type": [
-        "PE"
+        "PE-CF"
     ],
     "filament_vendor": [
         "Generic"
@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFP99",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -203,5 +202,6 @@
     "nozzle_temperature_range_low": [
         "190"
     ],
+    "filament_id": "OFd0Fv0k",
     "setting_id": "prroSXONXxaahNkq"
 }

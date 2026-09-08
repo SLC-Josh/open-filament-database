@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "renamed_from": "Flashforge Generic PLA-CF10",
     "setting_id": "F8r0b3G228QEK53U",
-    "filament_id": "GFL99",
+    "filament_id": "OFX2zcrM",
     "additional_cooling_fan_speed": [
         "100"
     ],

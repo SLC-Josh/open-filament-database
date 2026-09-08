@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFN99",
     "filament_multitool_ramming_flow": [
         "12"
     ],
@@ -201,5 +200,6 @@
         "260"
     ],
     "renamed_from": "My Generic PA",
-    "setting_id": "9DoeedUBMRPSCyu2"
+    "setting_id": "9DoeedUBMRPSCyu2",
+    "filament_id": "OFg8ndtj"
 }

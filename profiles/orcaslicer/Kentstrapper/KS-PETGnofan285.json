@@ -198,7 +198,6 @@
         "Kentstrapper ZeroHS CC",
         "Kentstrapper ZeroPro"
     ],
-    "filament_id": "OGFG99",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -210,6 +209,7 @@
     ],
     "renamed_from": "My Generic PETG",
     "setting_id": "YiQZfhL6hH0giSHL",
+    "filament_id": "OFYPdQJh",
     "enable_overhang_bridge_fan": [
         "0"
     ],

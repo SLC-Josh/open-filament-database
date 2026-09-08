@@ -103,7 +103,7 @@
         "PLA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -149,6 +149,7 @@
     ],
     "renamed_from": "My Generic PLA",
     "setting_id": "rc00SOyIg30uE3Da",
+    "filament_id": "OFMkAW6r",
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

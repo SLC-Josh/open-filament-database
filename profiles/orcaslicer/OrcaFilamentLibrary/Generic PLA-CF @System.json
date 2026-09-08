@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFL98",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -204,5 +203,6 @@
         "240"
     ],
     "renamed_from": "My Generic PLA-CF",
-    "setting_id": "l2LkEql1SVH0iRqY"
+    "setting_id": "l2LkEql1SVH0iRqY",
+    "filament_id": "OFWbdGsC"
 }

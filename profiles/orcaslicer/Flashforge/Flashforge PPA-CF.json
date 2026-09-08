@@ -103,7 +103,7 @@
         "PPA-CF"
     ],
     "filament_vendor": [
-        "FusRock"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "290"
     ],
+    "renamed_from": "FusRock Generic PAHT-CF",
     "setting_id": "MFItX51zZO0KYjdk",
-    "filament_id": "GFB99",
+    "filament_id": "OFLC1oRH",
     "support_material_interface_fan_speed": [
         "20"
     ],

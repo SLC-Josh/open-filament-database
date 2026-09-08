@@ -356,7 +356,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GFU99",
+    "filament_id": "OFgbpcy9",
     "description": "This filament is too soft and not compatible with the AMS. Printing it is of many requirements, and to get better printing quality, please refer to this wiki: TPU printing guide.",
     "setting_id": "GFSU99_09",
     "filament_cooling_before_tower": [

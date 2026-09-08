@@ -382,7 +382,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GF_ANTA",
+    "filament_id": "OFvcIGee",
     "description": "This filament is too soft and not compatible with the AMS. Printing it is of many requirements, and to get better printing quality, please refer to this wiki: TPU printing guide.",
     "setting_id": "GF_ANTA_00",
     "compatible_printers_condition": "",

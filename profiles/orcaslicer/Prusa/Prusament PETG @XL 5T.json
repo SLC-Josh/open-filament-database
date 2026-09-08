@@ -88,7 +88,7 @@
         "PETG"
     ],
     "filament_vendor": [
-        "Generic"
+        "Prusa Polymers"
     ],
     "filament_wipe": "1",
     "filament_wipe_distance": [
@@ -118,7 +118,6 @@
     "temperature_vitrification": [
         "80"
     ],
-    "filament_id": "GFT02",
     "idle_temperature": "0",
     "nozzle_temperature_range_low": [
         "220"
@@ -126,6 +125,7 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
+    "filament_id": "OFkR8E2c",
     "setting_id": "USigpRWuzpdkT6ZW",
     "nozzle_temperature_intial_layer": "240",
     "filament_loading_speed_start": "50",

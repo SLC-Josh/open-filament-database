@@ -156,13 +156,14 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
-    "setting_id": "OfiOryklf7FDVCz8",
-    "filament_id": "P510cfb1",
-    "compatible_printers": [
-        "Cubicon xCeler-I 0.4 nozzle"
-    ],
+    "filament_id": "OFy8tYJE",
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "renamed_from": "Cubicon ABS-A100 @base",
+    "setting_id": "OfiOryklf7FDVCz8",
+    "compatible_printers": [
+        "Cubicon xCeler-I 0.4 nozzle"
     ]
 }

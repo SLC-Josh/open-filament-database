@@ -150,8 +150,9 @@
     "nozzle_temperature_range_high": [
         "300"
     ],
+    "renamed_from": "Flashforge Generic TPU",
     "setting_id": "JvdxJyy7xCm3F0xH",
-    "filament_id": "GFG99",
+    "filament_id": "OF6MOPWx",
     "bed_temperature_difference": [
         "10"
     ],

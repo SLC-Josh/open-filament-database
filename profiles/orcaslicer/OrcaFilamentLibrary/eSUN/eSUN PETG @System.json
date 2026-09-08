@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "ESN03",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -200,5 +199,6 @@
     "nozzle_temperature_range_low": [
         "230"
     ],
+    "filament_id": "OF3kBrdA",
     "setting_id": "tCtt9gmmVOziK1i7"
 }

@@ -2,8 +2,11 @@
     "type": "filament",
     "name": "Snapmaker PLA Matte @U1 0.2 nozzle",
     "from": "system",
-    "filament_id": "141703112701",
+    "filament_id": "OFF9cgY5",
     "instantiation": "true",
+    "filament_vendor": [
+        "Snapmaker"
+    ],
     "filament_end_gcode": [
         " "
     ],
@@ -226,9 +229,6 @@
     ],
     "filament_toolchange_delay": [
         "0"
-    ],
-    "filament_vendor": [
-        "Snapmaker"
     ],
     "filament_wipe": [
         "nil"

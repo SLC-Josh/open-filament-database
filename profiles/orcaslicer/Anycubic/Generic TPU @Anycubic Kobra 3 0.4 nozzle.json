@@ -144,8 +144,9 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "renamed_from": "Anycubic Generic TPU",
     "setting_id": "kHB2rrxkyz4Clu3N",
-    "filament_id": "GFU99",
+    "filament_id": "OFgbpcy9",
     "compatible_printers": [
         "Anycubic Kobra 3 0.4 nozzle"
     ],

@@ -94,7 +94,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "CBC_MTC_0"
+        ""
     ],
     "filament_soluble": [
         "0"
@@ -150,10 +150,10 @@
     "additional_cooling_fan_speed": [
         "80"
     ],
+    "filament_id": "OFEwRwmL",
+    "default_filament_colour": "",
     "setting_id": "o2BQL6OKtxDmBkWV",
-    "filament_id": "P510cfa0",
     "compatible_printers": [
         "Cubicon xCeler-Mini 0.4 nozzle"
-    ],
-    "default_filament_colour": ""
+    ]
 }

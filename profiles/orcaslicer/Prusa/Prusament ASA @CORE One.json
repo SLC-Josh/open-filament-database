@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "110"
     ],
-    "filament_id": "Prusament ASA @CORE One",
     "idle_temperature": [
         "130"
     ],
@@ -143,6 +142,7 @@
         "270"
     ],
     "setting_id": "UUTjJ4Y8St3c87jD",
+    "filament_id": "OFmFwUWM",
     "chamber_temperature": [
         "40"
     ],

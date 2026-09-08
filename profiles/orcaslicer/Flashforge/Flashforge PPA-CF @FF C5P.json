@@ -103,7 +103,7 @@
         "PPA-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "210"
     ],
-    "filament_id": "OGFN96",
     "activate_air_filtration": [
         "0"
     ],
@@ -164,6 +163,7 @@
         "40"
     ],
     "setting_id": "Jws2AaLWaNyZhqX4",
+    "filament_id": "OFLC1oRH",
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

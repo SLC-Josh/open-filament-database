@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "AZ01-2",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -200,6 +199,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "filament_id": "OFOABq7t",
     "enable_pressure_advance": [
         "0"
     ],

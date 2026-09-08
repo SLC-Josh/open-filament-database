@@ -4,7 +4,7 @@
     "from": "system",
     "instantiation": "true",
     "filament_vendor": [
-        "Snapmaker"
+        "Polymaker"
     ],
     "filament_start_gcode": [
         ""
@@ -201,7 +201,7 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "filament_id": "1393866034",
+    "filament_id": "OFYGbPHX",
     "setting_id": "jhmy4YHi9MuL0DWu",
     "compatible_printers": [
         "Snapmaker A250 Dual (0.2 nozzle)",

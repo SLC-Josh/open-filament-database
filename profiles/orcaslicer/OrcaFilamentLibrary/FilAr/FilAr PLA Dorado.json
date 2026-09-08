@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "FILAR0029",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -203,6 +202,7 @@
     "nozzle_temperature_range_high": [
         "220"
     ],
+    "filament_id": "OF5P4jgA",
     "setting_id": "KHIdy0oNw9YYDNOD",
     "default_filament_colour": [
         "#A67F00"

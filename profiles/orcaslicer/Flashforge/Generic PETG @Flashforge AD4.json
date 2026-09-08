@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
+    "renamed_from": "Flashforge Generic PETG",
     "setting_id": "6vtyYCWYY10OPMbz",
-    "filament_id": "GFG99",
+    "filament_id": "OFYPdQJh",
     "support_material_interface_fan_speed": [
         "90"
     ],

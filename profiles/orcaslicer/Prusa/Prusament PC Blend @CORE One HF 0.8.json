@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "140"
     ],
-    "filament_id": "Prusament PC Blend @CORE One HF 0.8",
     "idle_temperature": [
         "130"
     ],
@@ -143,6 +142,7 @@
         "280"
     ],
     "setting_id": "LDvckXo1zpccnT4g",
+    "filament_id": "OFvDbkFq",
     "chamber_temperature": [
         "40"
     ],

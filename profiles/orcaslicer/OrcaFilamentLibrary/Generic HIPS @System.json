@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFS98",
     "filament_multitool_ramming_flow": [
         "8"
     ],
@@ -203,5 +202,6 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
-    "setting_id": "A7gedcxip65DXKuf"
+    "setting_id": "A7gedcxip65DXKuf",
+    "filament_id": "OFsFon5l"
 }

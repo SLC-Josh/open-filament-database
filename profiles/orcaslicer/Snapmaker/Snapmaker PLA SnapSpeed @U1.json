@@ -2,7 +2,7 @@
     "type": "filament",
     "name": "Snapmaker PLA SnapSpeed @U1",
     "from": "system",
-    "filament_id": "141703112701",
+    "filament_id": "OFwhLMs4",
     "instantiation": "true",
     "filament_end_gcode": [
         "; filament end gcode \n"
@@ -45,6 +45,9 @@
     ],
     "filament_type": [
         "PLA"
+    ],
+    "filament_vendor": [
+        "Snapmaker"
     ],
     "filament_density": [
         "1.24"
@@ -247,9 +250,6 @@
     ],
     "filament_toolchange_delay": [
         "0"
-    ],
-    "filament_vendor": [
-        "Snapmaker"
     ],
     "filament_wipe": [
         "nil"

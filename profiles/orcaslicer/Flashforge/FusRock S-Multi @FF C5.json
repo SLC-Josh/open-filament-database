@@ -100,10 +100,10 @@
         "0"
     ],
     "filament_type": [
-        "S-Multi"
+        "PA"
     ],
     "filament_vendor": [
-        "Generic"
+        "FusRock"
     ],
     "filament_wipe": [
         "nil"
@@ -147,6 +147,7 @@
     "nozzle_temperature_range_high": [
         "280"
     ],
+    "filament_id": "OF0AquDh",
     "setting_id": "O3tz36NNMoagELL0",
     "filament_multitool_ramming_flow": [
         "13"

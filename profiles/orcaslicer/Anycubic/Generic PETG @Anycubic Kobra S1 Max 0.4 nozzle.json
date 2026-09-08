@@ -97,7 +97,7 @@
         "PETG"
     ],
     "filament_vendor": [
-        "Anycubic"
+        "Generic"
     ],
     "filament_wipe": [
         "nil"
@@ -142,7 +142,7 @@
         "260"
     ],
     "setting_id": "aFlpGq8eSJQEO1Ie",
-    "filament_id": "GFPETG",
+    "filament_id": "OFYPdQJh",
     "compatible_printers": [
         "Anycubic Kobra S1 Max 0.4 nozzle"
     ],

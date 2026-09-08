@@ -100,7 +100,7 @@
         "0"
     ],
     "filament_type": [
-        "PETG"
+        "PETG-CF"
     ],
     "filament_vendor": [
         "Generic"
@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFG99",
     "filament_multitool_ramming_flow": [
         "13"
     ],
@@ -200,5 +199,6 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "filament_id": "OFoYSJKi",
     "setting_id": "aRVqy4a3X1UTIKem"
 }

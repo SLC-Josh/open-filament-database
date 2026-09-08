@@ -103,7 +103,7 @@
         "PETG"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,6 +147,7 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
+    "filament_id": "OFDxxTpW",
     "setting_id": "kpRved5M3NktqIYn",
     "filament_multitool_ramming_flow": [
         "20"

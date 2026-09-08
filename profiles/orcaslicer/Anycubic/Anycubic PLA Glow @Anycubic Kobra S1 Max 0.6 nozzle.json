@@ -144,8 +144,9 @@
     "additional_cooling_fan_speed": [
         "60"
     ],
+    "renamed_from": "Anycubic Generic PLA",
     "setting_id": "swLSkqq7X3PhbRiQ",
-    "filament_id": "GFPLA Glow",
+    "filament_id": "OF5PtjTp",
     "compatible_printers": [
         "Anycubic Kobra S1 Max 0.6 nozzle"
     ],

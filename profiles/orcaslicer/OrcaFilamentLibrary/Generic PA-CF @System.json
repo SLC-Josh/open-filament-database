@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFN98",
     "filament_multitool_ramming_flow": [
         "8"
     ],
@@ -201,5 +200,6 @@
         "260"
     ],
     "renamed_from": "My Generic PA-CF",
-    "setting_id": "rchW8WI6gcXuAE0V"
+    "setting_id": "rchW8WI6gcXuAE0V",
+    "filament_id": "OFQLcbps"
 }

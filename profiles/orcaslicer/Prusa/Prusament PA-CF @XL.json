@@ -90,7 +90,7 @@
         "PA11-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Prusa Polymers"
     ],
     "filament_wipe": [
         "nil"
@@ -126,7 +126,6 @@
     "temperature_vitrification": [
         "108"
     ],
-    "filament_id": "GFN98",
     "idle_temperature": "0",
     "nozzle_temperature_range_low": [
         "270"
@@ -135,6 +134,7 @@
         "300"
     ],
     "setting_id": "IrL4iU2kkMBHIw3e",
+    "filament_id": "OF54SvEe",
     "nozzle_temperature_intial_layer": "275",
     "filament_loading_speed_start": "19",
     "filament_loading_speed": "14",

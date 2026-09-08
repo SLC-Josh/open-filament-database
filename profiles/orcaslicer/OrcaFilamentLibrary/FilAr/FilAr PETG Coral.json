@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "FILAR0054",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -200,6 +199,7 @@
     "nozzle_temperature_range_low": [
         "230"
     ],
+    "filament_id": "OFysxCep",
     "setting_id": "fspbgXmAOWjFBQqh",
     "default_filament_colour": [
         "#FF6F5E"

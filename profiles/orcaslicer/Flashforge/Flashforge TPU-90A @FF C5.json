@@ -103,7 +103,7 @@
         "TPU-90A"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -152,7 +152,7 @@
     ],
     "renamed_from": "My Generic TPU",
     "setting_id": "Lis7BZ3lMkoX5KQt",
-    "filament_id": "OGFU99",
+    "filament_id": "OFwlZ7gH",
     "compatible_printers": [
         "Flashforge Creator 5 0.4 nozzle",
         "Flashforge Creator 5 0.6 nozzle",

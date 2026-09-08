@@ -99,7 +99,7 @@
         "PETG"
     ],
     "filament_vendor": [
-        "Generic"
+        "SUNLU"
     ],
     "filament_wipe": [
         "nil"
@@ -190,7 +190,6 @@
         "Sovol SV08 MAX 0.6 nozzle",
         "Sovol SV08 MAX 0.8 nozzle"
     ],
-    "filament_id": "GFL99",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -202,6 +201,7 @@
     ],
     "renamed_from": "My Generic PETG",
     "setting_id": "x68SPQCqVacBSGd5",
+    "filament_id": "OF2GCW1l",
     "enable_pressure_advance": "1",
     "pressure_advance": "0.052",
     "dont_slow_down_outer_wall": "1"

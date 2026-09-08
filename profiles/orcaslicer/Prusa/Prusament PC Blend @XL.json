@@ -90,7 +90,7 @@
         "PC"
     ],
     "filament_vendor": [
-        "Generic"
+        "Prusa Polymers"
     ],
     "filament_wipe": [
         "nil"
@@ -126,7 +126,6 @@
     "temperature_vitrification": [
         "140"
     ],
-    "filament_id": "GFC99",
     "idle_temperature": "0",
     "nozzle_temperature_range_low": [
         "260"
@@ -135,6 +134,7 @@
         "280"
     ],
     "setting_id": "DLTlxt04GREtOiec",
+    "filament_id": "OFvDbkFq",
     "nozzle_temperature_intial_layer": "275",
     "filament_loading_speed_start": "19",
     "filament_loading_speed": "14",

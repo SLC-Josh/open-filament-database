@@ -156,13 +156,13 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
-    "setting_id": "A5FQdwh0Xo7aTRpq",
-    "filament_id": "P510cfb0",
-    "compatible_printers": [
-        "Cubicon xCeler-Plus 0.4 nozzle"
-    ],
+    "filament_id": "OFpDo5Ix",
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "setting_id": "A5FQdwh0Xo7aTRpq",
+    "compatible_printers": [
+        "Cubicon xCeler-Plus 0.4 nozzle"
     ]
 }

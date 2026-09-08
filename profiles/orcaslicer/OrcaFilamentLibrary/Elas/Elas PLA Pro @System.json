@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFA00",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -203,6 +202,7 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
+    "filament_id": "OFaYz8iE",
     "activate_chamber_temp_control": [
         "0"
     ],

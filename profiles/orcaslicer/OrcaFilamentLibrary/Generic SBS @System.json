@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OFLSBS99",
     "filament_multitool_ramming_flow": [
         "12"
     ],
@@ -203,5 +202,6 @@
     "additional_cooling_fan_speed": [
         "40"
     ],
-    "setting_id": "fjVWcIfxaOAZHNU1"
+    "setting_id": "fjVWcIfxaOAZHNU1",
+    "filament_id": "OFhQfUQY"
 }

@@ -91,7 +91,7 @@
         "0"
     ],
     "filament_type": [
-        "PA"
+        "PA11-CF"
     ],
     "filament_vendor": [
         "Prusa Polymers"
@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "108"
     ],
-    "filament_id": "Prusament PA-CF @CORE One",
     "idle_temperature": [
         "130"
     ],
@@ -143,6 +142,7 @@
         "300"
     ],
     "setting_id": "08PdV2lMsSv1JeOt",
+    "filament_id": "OF54SvEe",
     "chamber_temperature": [
         "40"
     ],

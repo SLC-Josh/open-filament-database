@@ -382,7 +382,7 @@
     "filament_dev_drying_softening_temperature": [
         "85"
     ],
-    "filament_id": "GF_ANAF",
+    "filament_id": "OFSw6Mor",
     "description": "When printing this filament, there's a risk of warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GF_ANAF_00",
     "compatible_printers_condition": "",

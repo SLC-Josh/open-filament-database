@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
+    "renamed_from": "Flashforge Generic PETG-CF10",
     "setting_id": "fWM9WLGV9mUQOtHh",
-    "filament_id": "GFG99",
+    "filament_id": "OFO5djrM",
     "additional_cooling_fan_speed": [
         "100"
     ],

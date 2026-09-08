@@ -103,7 +103,7 @@
         "PLA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -142,13 +142,14 @@
         "45"
     ],
     "nozzle_temperature_range_low": [
-        "200"
+        "190"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "240"
     ],
+    "renamed_from": "Flashforge PLA Buint Ti @FF G4P 0.8 nozzle;Flashforge PLA Buint Ti FF G4P 0.8 nozzle",
     "setting_id": "2HUxAWeolJIlxPs1",
-    "filament_id": "FFG01",
+    "filament_id": "OF8O09RG",
     "support_material_interface_fan_speed": [
         "100"
     ],

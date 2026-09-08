@@ -2,8 +2,11 @@
     "type": "filament",
     "name": "Snapmaker PLA Silk @U1 0.8 nozzle",
     "from": "system",
-    "filament_id": "11813638720",
+    "filament_id": "OFWgFOjn",
     "instantiation": "true",
+    "filament_vendor": [
+        "Snapmaker"
+    ],
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
@@ -238,9 +241,6 @@
     ],
     "filament_toolchange_delay": [
         "0"
-    ],
-    "filament_vendor": [
-        "Snapmaker"
     ],
     "filament_wipe": [
         "1"

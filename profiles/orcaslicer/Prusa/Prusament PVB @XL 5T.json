@@ -90,7 +90,7 @@
         "PVB"
     ],
     "filament_vendor": [
-        "Generic"
+        "Prusa Polymers"
     ],
     "filament_wipe": [
         "nil"
@@ -124,7 +124,6 @@
     "temperature_vitrification": [
         "50"
     ],
-    "filament_id": "GFS98",
     "filament_is_support": [
         "1"
     ],
@@ -139,6 +138,7 @@
         "70"
     ],
     "setting_id": "DIrPylH6rmu6YA43",
+    "filament_id": "OFh7mvPO",
     "nozzle_temperature_intial_layer": "215",
     "filament_loading_speed_start": "50",
     "filament_loading_speed": "10",

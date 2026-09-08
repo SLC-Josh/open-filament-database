@@ -2,8 +2,11 @@
     "type": "filament",
     "name": "Snapmaker PLA Full Spectrum @U1 0.4 nozzle",
     "from": "system",
-    "filament_id": "1417031127011",
+    "filament_id": "OFOPU1xv",
     "instantiation": "true",
+    "filament_vendor": [
+        "Snapmaker"
+    ],
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
@@ -247,9 +250,6 @@
     ],
     "filament_toolchange_delay": [
         "0"
-    ],
-    "filament_vendor": [
-        "Snapmaker"
     ],
     "filament_wipe": [
         "nil"

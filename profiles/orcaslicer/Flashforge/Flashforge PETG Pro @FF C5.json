@@ -103,7 +103,7 @@
         "PETG"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -149,7 +149,7 @@
     ],
     "renamed_from": "My Generic PETG",
     "setting_id": "QA1KD03F0zj2zsVi",
-    "filament_id": "OGFG99",
+    "filament_id": "OFXiArjA",
     "compatible_printers": [
         "Flashforge Creator 5 0.4 nozzle",
         "Flashforge Creator 5 0.6 nozzle",

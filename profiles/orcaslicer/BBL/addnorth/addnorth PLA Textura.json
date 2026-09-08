@@ -386,7 +386,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GF_ANTE",
+    "filament_id": "OFRFhdqy",
     "description": "The generic presets are conservatively tuned for compatibility with a wider range of filaments. For higher printing quality and speeds, please use Bambu filaments with Bambu presets.",
     "setting_id": "GF_ANTE_00",
     "compatible_printers_condition": "",

@@ -94,7 +94,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Cubicon PLAi21 @base"
+        ""
     ],
     "filament_soluble": [
         "0"
@@ -150,10 +150,11 @@
     "additional_cooling_fan_speed": [
         "80"
     ],
+    "filament_id": "OFRhBryT",
+    "default_filament_colour": "",
+    "renamed_from": "Cubicon PLAi21 @base",
     "setting_id": "vcLVF3cglagBfVAF",
-    "filament_id": "P510cfa2",
     "compatible_printers": [
         "Cubicon xCeler-I 0.4 nozzle"
-    ],
-    "default_filament_colour": ""
+    ]
 }

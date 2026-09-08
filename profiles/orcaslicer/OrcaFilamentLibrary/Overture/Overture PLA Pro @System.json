@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "GFOT001",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -203,5 +202,6 @@
     "nozzle_temperature_range_high": [
         "220"
     ],
+    "filament_id": "OFxA1p01",
     "setting_id": "pynx7PjoLrNXAj6f"
 }

@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "CXPCTB15",
     "filament_multitool_ramming_flow": [
         "10"
     ],
@@ -200,6 +199,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "filament_id": "OFwu7IAG",
     "filament_notes": "High clarity and chemical resistance copolyester",
     "bed_temperature": [
         "80"

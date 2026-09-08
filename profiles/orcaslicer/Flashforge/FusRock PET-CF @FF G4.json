@@ -103,7 +103,7 @@
         "PET-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "FusRock"
     ],
     "filament_wipe": [
         "nil"
@@ -150,8 +150,9 @@
     "nozzle_temperature_range_high": [
         "300"
     ],
+    "renamed_from": "Flashforge Generic TPU",
     "setting_id": "Iy5lHY4ihEKPgJ5x",
-    "filament_id": "GFG99",
+    "filament_id": "OFDu1qE7",
     "bed_temperature_difference": [
         "10"
     ],

@@ -355,7 +355,7 @@
     "filament_dev_drying_softening_temperature": [
         "150"
     ],
-    "filament_id": "GFN04",
+    "filament_id": "OF2VFe4J",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GFSN04_06",
     "filament_change_length": [

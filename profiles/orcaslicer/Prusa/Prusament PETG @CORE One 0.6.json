@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "80"
     ],
-    "filament_id": "Prusament PETG @CORE One 0.6",
     "idle_temperature": [
         "130"
     ],
@@ -143,6 +142,7 @@
         "260"
     ],
     "setting_id": "JVKHdd0UyFqnVj9g",
+    "filament_id": "OFkR8E2c",
     "chamber_temperature": [
         "35"
     ],

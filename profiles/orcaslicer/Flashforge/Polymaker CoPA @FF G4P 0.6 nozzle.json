@@ -103,7 +103,7 @@
         "PA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Polymaker"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "280"
     ],
+    "renamed_from": "FusRock Generic S-PAHT @G3U 0.6 Nozzle;FusRock Generic S-PAHT G3U 0.6 Nozzle",
     "setting_id": "HBtkC3BfEpBGEWc5",
-    "filament_id": "GFB99",
+    "filament_id": "OFQyyO0l",
     "support_material_interface_fan_speed": [
         "50"
     ],

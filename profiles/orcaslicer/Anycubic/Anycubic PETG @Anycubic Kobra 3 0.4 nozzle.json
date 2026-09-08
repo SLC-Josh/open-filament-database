@@ -141,8 +141,9 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "renamed_from": "Anycubic Generic PETG",
     "setting_id": "qe2wYLf7CEMjmfxj",
-    "filament_id": "GFG99",
+    "filament_id": "OFo6n2pB",
     "compatible_printers": [
         "Anycubic Kobra 3 0.4 nozzle"
     ],

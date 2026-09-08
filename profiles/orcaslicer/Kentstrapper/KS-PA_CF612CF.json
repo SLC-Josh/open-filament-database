@@ -198,7 +198,6 @@
         "Kentstrapper ZeroHS CC",
         "Kentstrapper ZeroPro"
     ],
-    "filament_id": "OGFN98",
     "filament_multitool_ramming_flow": [
         "10"
     ],
@@ -210,6 +209,7 @@
     ],
     "renamed_from": "My Generic PA-CF",
     "setting_id": "rchW8WI6gcXuAE0V",
+    "filament_id": "OFQLcbps",
     "activate_chamber_temp_control": [
         "0"
     ],

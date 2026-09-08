@@ -188,7 +188,6 @@
         "Sovol SV08 MAX 0.6 nozzle",
         "Sovol SV08 MAX 0.8 nozzle"
     ],
-    "filament_id": "GFL99",
     "additional_cooling_fan_speed": "75%",
     "filament_multitool_ramming_flow": [
         "20"
@@ -201,6 +200,7 @@
     ],
     "renamed_from": "My Generic PLA",
     "setting_id": "WAHQZmwHoS4WjoTx",
+    "filament_id": "OFesA6rF",
     "dont_slow_down_outer_wall": "0",
     "enable_pressure_advance": "1",
     "pressure_advance": "0.038"

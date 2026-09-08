@@ -94,7 +94,7 @@
         "0"
     ],
     "filament_type": [
-        "PEBA"
+        "TPU"
     ],
     "filament_vendor": [
         "Anycubic"
@@ -145,7 +145,7 @@
         "250"
     ],
     "setting_id": "BAYwaV7mcaLAo1uD",
-    "filament_id": "GFTPU 95A",
+    "filament_id": "OFML2aVd",
     "compatible_printers": [
         "Anycubic Kobra S1 Max 0.6 nozzle"
     ],

@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "70"
     ],
-    "filament_id": "P510cfc0",
     "nozzle_temperature_range_high": [
         "250"
     ],
@@ -154,12 +153,14 @@
     "supertack_plate_temp_initial_layer": [
         "70"
     ],
-    "setting_id": "dsX01tCkd2Usk104",
-    "compatible_printers": [
-        "Cubicon xCeler-I 0.4 nozzle"
-    ],
+    "filament_id": "OFoBTKmn",
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "renamed_from": "Cubicon PETG @base",
+    "setting_id": "dsX01tCkd2Usk104",
+    "compatible_printers": [
+        "Cubicon xCeler-I 0.4 nozzle"
     ]
 }

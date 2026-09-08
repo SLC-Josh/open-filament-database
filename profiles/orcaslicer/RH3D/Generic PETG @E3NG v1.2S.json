@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "80"
     ],
-    "filament_id": "Generic PETG @E3NG v1.2S",
     "filament_shrink": [
         "99.85"
     ],
@@ -144,6 +143,7 @@
         "260"
     ],
     "setting_id": "IS3z7f5wnjsvv8vC",
+    "filament_id": "OFYPdQJh",
     "compatible_printers": [
         "E3NG v1.2S - 0.2 nozzle",
         "E3NG v1.2S - 0.3 nozzle",

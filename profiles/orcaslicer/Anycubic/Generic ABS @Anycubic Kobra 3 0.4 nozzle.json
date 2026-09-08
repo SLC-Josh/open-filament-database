@@ -141,8 +141,9 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "renamed_from": "Anycubic Generic ABS",
     "setting_id": "W3GiC5YLzxbbjXLY",
-    "filament_id": "GFB99",
+    "filament_id": "OFY9muEs",
     "compatible_printers": [
         "Anycubic Kobra 3 0.4 nozzle"
     ],

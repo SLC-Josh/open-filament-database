@@ -103,7 +103,7 @@
         "PLA-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -149,7 +149,7 @@
     ],
     "renamed_from": "My Generic PLA-CF",
     "setting_id": "rBm25DRY1PAkEJ4r",
-    "filament_id": "OGFL98",
+    "filament_id": "OF9cAwMK",
     "compatible_printers": [
         "Flashforge Creator 5 0.4 nozzle",
         "Flashforge Creator 5 0.6 nozzle",

@@ -103,7 +103,7 @@
         "ASA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
+    "renamed_from": "Flashforge Generic ASA",
     "setting_id": "SU6r879TbQMUFCij",
-    "filament_id": "GFL99",
+    "filament_id": "OFFFg2Pf",
     "additional_cooling_fan_speed": [
         "0"
     ],

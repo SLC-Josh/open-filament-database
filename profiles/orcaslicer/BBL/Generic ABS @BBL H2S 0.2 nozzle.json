@@ -351,7 +351,7 @@
     "filament_dev_drying_softening_temperature": [
         "80"
     ],
-    "filament_id": "GFB99",
+    "filament_id": "OFY9muEs",
     "description": "When printing this filament, there's a risk of warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "GFSB99_22"
 }

@@ -103,7 +103,7 @@
         "PA-CF"
     ],
     "filament_vendor": [
-        "FusRock"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "280"
     ],
+    "renamed_from": "FusRock Generic PET-CF",
     "setting_id": "1CevPV960sQWT3NF",
-    "filament_id": "GFB99",
+    "filament_id": "OFgeM7nD",
     "support_material_interface_fan_speed": [
         "20"
     ],

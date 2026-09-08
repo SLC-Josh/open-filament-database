@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "60"
     ],
-    "filament_id": "Prusament PLA @CORE One HF 0.5",
     "idle_temperature": [
         "150"
     ],
@@ -146,6 +145,7 @@
         "70"
     ],
     "setting_id": "zJf1Y6eP81j3v8VV",
+    "filament_id": "OFnO4wnf",
     "chamber_temperature": [
         "20"
     ],

@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "108"
     ],
-    "filament_id": "P510cfd0",
     "activate_air_filtration": [
         "0"
     ],
@@ -160,12 +159,14 @@
     "required_nozzle_HRC": [
         "40"
     ],
-    "setting_id": "nupuIJggdc1EKDqG",
-    "compatible_printers": [
-        "Cubicon xCeler-I 0.4 nozzle"
-    ],
+    "filament_id": "OFiEz2XI",
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "renamed_from": "Cubicon PA-CF @base",
+    "setting_id": "nupuIJggdc1EKDqG",
+    "compatible_printers": [
+        "Cubicon xCeler-I 0.4 nozzle"
     ]
 }

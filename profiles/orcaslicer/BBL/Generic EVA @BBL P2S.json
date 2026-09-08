@@ -357,7 +357,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GFR99",
+    "filament_id": "OFCD8qiU",
     "setting_id": "GFSR99_04",
     "description": "This is neither a commonly used filament, nor one of Bambu filaments, and it varies a lot from brand to brand. So, it's highly recommended to ask its vendor for suitable profile before printing and adjust some parameters according to its performances.",
     "filament_ramming_volumetric_speed_nc": [

@@ -195,7 +195,6 @@
         "MyToolChanger 0.6 nozzle",
         "MyToolChanger 0.8 nozzle"
     ],
-    "filament_id": "GFL99",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -210,6 +209,7 @@
     ],
     "renamed_from": "My Generic PLA @MyToolChanger",
     "setting_id": "WbAYFZdqFwEZnNAX",
+    "filament_id": "OFDSrzZ8",
     "filament_cooling_final_speed": [
         "3.5"
     ],

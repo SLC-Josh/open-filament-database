@@ -103,7 +103,7 @@
         "HIPS"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "100"
     ],
-    "filament_id": "OGFS98",
     "supertack_plate_temp": [
         "0"
     ],
@@ -161,6 +160,7 @@
         "0"
     ],
     "setting_id": "ckwc7U0Q2eKHmCxY",
+    "filament_id": "OFvaLVML",
     "compatible_printers": [
         "Flashforge Creator 5 0.4 nozzle",
         "Flashforge Creator 5 0.6 nozzle",

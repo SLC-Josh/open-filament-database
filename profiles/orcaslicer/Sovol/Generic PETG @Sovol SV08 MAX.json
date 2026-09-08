@@ -190,7 +190,6 @@
         "Sovol SV08 MAX 0.6 nozzle",
         "Sovol SV08 MAX 0.8 nozzle"
     ],
-    "filament_id": "GFL99",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -202,6 +201,7 @@
     ],
     "renamed_from": "My Generic PETG",
     "setting_id": "ib7AtR3tQ2dSrFNP",
+    "filament_id": "OFYPdQJh",
     "enable_pressure_advance": "1",
     "pressure_advance": "0.048"
 }

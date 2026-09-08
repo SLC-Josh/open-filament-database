@@ -360,7 +360,7 @@
     "filament_dev_drying_softening_temperature": [
         "55"
     ],
-    "filament_id": "GFP95",
+    "filament_id": "OFsijjtH",
     "setting_id": "GFSP95_03",
     "description": "This is neither a commonly used filament, nor one of Bambu filaments, and it varies a lot from brand to brand. So, it's highly recommended to ask its vendor for suitable profile before printing and adjust some parameters according to its performances."
 }

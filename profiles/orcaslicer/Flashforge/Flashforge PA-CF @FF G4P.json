@@ -103,7 +103,7 @@
         "PA-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "300"
     ],
+    "renamed_from": "Flashforge Generic PLA-CF10",
     "setting_id": "Yu7hL4izNsgDVqMT",
-    "filament_id": "GFL99",
+    "filament_id": "OFGxuI0n",
     "additional_cooling_fan_speed": [
         "0"
     ],

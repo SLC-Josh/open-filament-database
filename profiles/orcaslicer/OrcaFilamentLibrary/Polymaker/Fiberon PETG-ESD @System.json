@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFL06",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -200,5 +199,6 @@
     "nozzle_temperature_range_low": [
         "250"
     ],
+    "filament_id": "OFcytyoA",
     "setting_id": "YAXl9K9A7DKsU1yU"
 }

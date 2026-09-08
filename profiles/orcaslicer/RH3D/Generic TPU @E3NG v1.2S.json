@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "60"
     ],
-    "filament_id": "Generic TPU @E3NG v1.2S",
     "filament_shrink": [
         "99.95"
     ],
@@ -144,6 +143,7 @@
         "250"
     ],
     "setting_id": "kaTatels2H01rgeJ",
+    "filament_id": "OFgbpcy9",
     "compatible_printers": [
         "E3NG v1.2S - 0.4 nozzle",
         "E3NG v1.2S - 0.5 nozzle",

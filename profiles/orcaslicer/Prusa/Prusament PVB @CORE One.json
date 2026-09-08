@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "50"
     ],
-    "filament_id": "Prusament PVB @CORE One",
     "filament_is_support": [
         "1"
     ],
@@ -149,6 +148,7 @@
         "70"
     ],
     "setting_id": "085dGkrnPhatF07x",
+    "filament_id": "OFh7mvPO",
     "chamber_temperature": [
         "20"
     ],

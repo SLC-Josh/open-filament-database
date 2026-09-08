@@ -103,7 +103,7 @@
         "PET-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,6 +147,7 @@
     "nozzle_temperature_range_high": [
         "290"
     ],
+    "filament_id": "OFrjacXf",
     "setting_id": "3bguiaEtUsS8ULHW",
     "filament_multitool_ramming_flow": [
         "13"

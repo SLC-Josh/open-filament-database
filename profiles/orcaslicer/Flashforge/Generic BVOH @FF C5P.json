@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "45"
     ],
-    "filament_id": "OGFS97",
     "additional_cooling_fan_speed": [
         "40"
     ],
@@ -170,6 +169,7 @@
         "40"
     ],
     "setting_id": "Eemk4OAny5OMKhgz",
+    "filament_id": "OFo2UF2C",
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

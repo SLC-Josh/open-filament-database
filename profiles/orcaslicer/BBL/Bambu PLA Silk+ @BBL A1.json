@@ -333,7 +333,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GFA06",
+    "filament_id": "OFUanySo",
     "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
     "setting_id": "GFSA06_05"
 }

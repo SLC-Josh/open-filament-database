@@ -103,7 +103,7 @@
         "PA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -150,8 +150,9 @@
     "nozzle_temperature_range_high": [
         "300"
     ],
+    "renamed_from": "Flashforge Generic TPU",
     "setting_id": "wAkuJRTLWxGyBU0b",
-    "filament_id": "GFG99",
+    "filament_id": "OFEvEfw5",
     "bed_temperature_difference": [
         "10"
     ],

@@ -360,7 +360,7 @@
     "filament_dev_drying_softening_temperature": [
         "50"
     ],
-    "filament_id": "GFL99",
+    "filament_id": "OFDSrzZ8",
     "description": "The generic presets are conservatively tuned for compatibility with a wider range of filaments. For higher printing quality and speeds, please use Bambu filaments with Bambu presets.",
     "setting_id": "GFSL99_10"
 }

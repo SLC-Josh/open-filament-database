@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "120"
     ],
-    "filament_id": "P510cfd0",
     "supertack_plate_temp": [
         "0"
     ],
@@ -154,9 +153,10 @@
     "nozzle_temperature_range_low": [
         "260"
     ],
+    "filament_id": "OFEj7sca",
+    "default_filament_colour": "",
     "setting_id": "jbYKOK1A0Oxm9t0f",
     "compatible_printers": [
         "Cubicon xCeler-Plus 0.4 nozzle"
-    ],
-    "default_filament_colour": ""
+    ]
 }

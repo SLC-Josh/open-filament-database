@@ -144,8 +144,9 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "renamed_from": "Anycubic Generic PLA",
     "setting_id": "1va1bLu3J0b5GQt3",
-    "filament_id": "GFL93",
+    "filament_id": "OFnmp6rt",
     "compatible_printers": [
         "Anycubic Kobra 3 0.4 nozzle"
     ],

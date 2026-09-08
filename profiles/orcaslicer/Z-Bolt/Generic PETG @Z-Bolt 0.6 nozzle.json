@@ -200,7 +200,6 @@
         "Z-Bolt S1000 0.6 nozzle",
         "Z-Bolt S1000 Dual 0.6 nozzle"
     ],
-    "filament_id": "GFL306",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -210,6 +209,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "filament_id": "OFYPdQJh",
     "renamed_from": "Z-Bolt PETG @0.6 nozzle",
     "setting_id": "w4HVBbunzssG9j3s"
 }

@@ -188,7 +188,6 @@
         "Sovol SV08 MAX 0.6 nozzle",
         "Sovol SV08 MAX 0.8 nozzle"
     ],
-    "filament_id": "GFL99",
     "nozzle_temperature_range_high": [
         "350"
     ],
@@ -200,6 +199,7 @@
     ],
     "renamed_from": "My Generic PC",
     "setting_id": "UPoqjanrvN173sVS",
+    "filament_id": "OFLakOUI",
     "dont_slow_down_outer_wall": "0",
     "additional_cooling_fan_speed": "0"
 }

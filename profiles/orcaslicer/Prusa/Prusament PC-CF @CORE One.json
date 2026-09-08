@@ -91,7 +91,7 @@
         "0"
     ],
     "filament_type": [
-        "PC"
+        "PC-CF"
     ],
     "filament_vendor": [
         "Prusa Polymers"
@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "140"
     ],
-    "filament_id": "Prusament PC-CF @CORE One",
     "idle_temperature": [
         "130"
     ],
@@ -143,6 +142,7 @@
         "280"
     ],
     "setting_id": "IK6Z7DVevvmR96Or",
+    "filament_id": "OFjz0a3m",
     "chamber_temperature": [
         "40"
     ],

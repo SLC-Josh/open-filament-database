@@ -103,7 +103,7 @@
         "PET"
     ],
     "filament_vendor": [
-        "Generic"
+        "FusRock"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "300"
     ],
+    "renamed_from": "FusRock Generic PET-CF @G3U 0.6 Nozzle;FusRock Generic PET-CF G3U 0.6 Nozzle",
     "setting_id": "Xqb0GQluin2jUQyL",
-    "filament_id": "GFB99",
+    "filament_id": "OFKTGKJU",
     "support_material_interface_fan_speed": [
         "50"
     ],

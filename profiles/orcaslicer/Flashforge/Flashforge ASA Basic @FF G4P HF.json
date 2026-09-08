@@ -103,7 +103,7 @@
         "ASA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
+    "renamed_from": "Flashforge Generic ABS @G3U;Flashforge Generic ABS G3U",
     "setting_id": "hF0h4ye3hMDtEba1",
-    "filament_id": "GFB99",
+    "filament_id": "OFFFg2Pf",
     "support_material_interface_fan_speed": [
         "80"
     ],

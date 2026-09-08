@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "60"
     ],
-    "filament_id": "Prusament rPLA @CORE One 0.6",
     "idle_temperature": [
         "150"
     ],
@@ -146,6 +145,7 @@
         "70"
     ],
     "setting_id": "BY8gwU1VY0hFBPSc",
+    "filament_id": "OFWRITFw",
     "chamber_temperature": [
         "20"
     ],

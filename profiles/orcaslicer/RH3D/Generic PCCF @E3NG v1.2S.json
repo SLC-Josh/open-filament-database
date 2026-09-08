@@ -132,7 +132,6 @@
     "temperature_vitrification": [
         "140"
     ],
-    "filament_id": "Generic PCCF @E3NG v1.2S",
     "chamber_temperature": [
         "55"
     ],
@@ -147,6 +146,7 @@
         "330"
     ],
     "setting_id": "fnnja8VlKHWpuOjG",
+    "filament_id": "OFC5f4Ay",
     "compatible_printers": [
         "E3NG v1.2S - 0.5 nozzle",
         "E3NG v1.2S - 0.6 nozzle"

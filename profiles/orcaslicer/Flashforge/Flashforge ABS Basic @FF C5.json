@@ -103,7 +103,7 @@
         "ABS"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -149,7 +149,7 @@
     ],
     "renamed_from": "My Generic ABS",
     "setting_id": "ds0GgE1jssl4IbF3",
-    "filament_id": "OGFB99",
+    "filament_id": "OFibWuBd",
     "compatible_printers": [
         "Flashforge Creator 5 0.4 nozzle",
         "Flashforge Creator 5 0.6 nozzle",

@@ -100,10 +100,10 @@
         "0"
     ],
     "filament_type": [
-        "SILK"
+        "PLA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "renamed_from": "Flashforge Generic PLA",
     "setting_id": "mx6NWRkqyo2U12XQ",
-    "filament_id": "FFG01",
+    "filament_id": "OFgjgN35",
     "support_material_interface_fan_speed": [
         "100"
     ],

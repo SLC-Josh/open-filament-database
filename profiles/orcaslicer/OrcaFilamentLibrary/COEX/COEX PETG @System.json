@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "CXPETB13",
     "filament_multitool_ramming_flow": [
         "15"
     ],
@@ -200,6 +199,7 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
+    "filament_id": "OFvTVZc3",
     "filament_notes": "IMPORTANT: Set travel speed to maximum your machine allows (200-500mm/s) to reduce stringing",
     "bed_temperature": [
         "80"

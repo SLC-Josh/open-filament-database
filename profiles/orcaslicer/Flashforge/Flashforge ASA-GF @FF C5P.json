@@ -103,7 +103,7 @@
         "ASA-GF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -149,7 +149,7 @@
     ],
     "renamed_from": "My Generic ABS",
     "setting_id": "RdmsxyUGUX8Ot4oj",
-    "filament_id": "OGFB99",
+    "filament_id": "OFrZDhVt",
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

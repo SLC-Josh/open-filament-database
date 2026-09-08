@@ -198,7 +198,6 @@
         "Kentstrapper ZeroHS CC",
         "Kentstrapper ZeroPro"
     ],
-    "filament_id": "OGFA00",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -211,6 +210,7 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
+    "filament_id": "OFoiVqVM",
     "setting_id": "zkc85XTKi4cb6cOw",
     "is_custom_defined": "0",
     "version": "2.3.0.3"

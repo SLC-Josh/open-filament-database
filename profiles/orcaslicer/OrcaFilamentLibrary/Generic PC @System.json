@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "OGFC99",
     "nozzle_temperature_range_high": [
         "290"
     ],
@@ -201,5 +200,6 @@
         "16"
     ],
     "renamed_from": "My Generic PC",
-    "setting_id": "LNjv9LwZnbu7ZASC"
+    "setting_id": "LNjv9LwZnbu7ZASC",
+    "filament_id": "OFLakOUI"
 }

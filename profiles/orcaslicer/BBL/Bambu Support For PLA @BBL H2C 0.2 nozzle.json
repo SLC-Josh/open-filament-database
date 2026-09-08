@@ -359,7 +359,7 @@
     "filament_dev_drying_softening_temperature": [
         "55"
     ],
-    "filament_id": "GFS02",
+    "filament_id": "OFAnyRUI",
     "description": "This is a non-water-soluble support filament, and usually it is only for the support structure and not for the model body. To get better printing quality, please refer to this wiki: Printing Tips for Support Filament and Support Function.",
     "setting_id": "GFSS02_20",
     "filament_cooling_before_tower": [

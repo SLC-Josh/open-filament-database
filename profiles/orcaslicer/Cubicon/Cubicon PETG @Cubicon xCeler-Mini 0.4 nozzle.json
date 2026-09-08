@@ -94,7 +94,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Cubicon PETG @base"
+        ""
     ],
     "filament_soluble": [
         "0"
@@ -141,7 +141,6 @@
     "temperature_vitrification": [
         "70"
     ],
-    "filament_id": "P510cfc0",
     "nozzle_temperature_range_high": [
         "250"
     ],
@@ -154,12 +153,13 @@
     "supertack_plate_temp_initial_layer": [
         "70"
     ],
-    "setting_id": "2hYoCR5qUXCWIAxZ",
-    "compatible_printers": [
-        "Cubicon xCeler-Mini 0.4 nozzle"
-    ],
+    "filament_id": "OFoBTKmn",
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "setting_id": "2hYoCR5qUXCWIAxZ",
+    "compatible_printers": [
+        "Cubicon xCeler-Mini 0.4 nozzle"
     ]
 }

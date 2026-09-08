@@ -141,8 +141,9 @@
     "nozzle_temperature_range_high": [
         "280"
     ],
+    "renamed_from": "Anycubic Generic ASA",
     "setting_id": "U66DGcpZeZ24VfPe",
-    "filament_id": "GFA99",
+    "filament_id": "OF0yFLkY",
     "compatible_printers": [
         "Anycubic Kobra 3 0.4 nozzle"
     ],

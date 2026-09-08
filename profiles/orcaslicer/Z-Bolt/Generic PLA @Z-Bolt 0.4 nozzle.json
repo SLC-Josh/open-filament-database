@@ -200,7 +200,6 @@
         "Z-Bolt S1000 0.4 nozzle",
         "Z-Bolt S1000 Dual 0.4 nozzle"
     ],
-    "filament_id": "GFL100",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -213,6 +212,7 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
+    "filament_id": "OFDSrzZ8",
     "renamed_from": "Z-Bolt PLA;Generic PLA @Z-Bolt;Z-Bolt PLA @0.4 nozzle",
     "setting_id": "0MfamDPH1L6sMRff"
 }

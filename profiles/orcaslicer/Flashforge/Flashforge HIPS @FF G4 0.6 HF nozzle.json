@@ -100,10 +100,10 @@
         "0"
     ],
     "filament_type": [
-        "ABS"
+        "HIPS"
     ],
     "filament_vendor": [
-        "Generic"
+        "Flashforge"
     ],
     "filament_wipe": [
         "nil"
@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "280"
     ],
+    "renamed_from": "Flashforge Generic ABS @G3U 0.6 Nozzle;Flashforge Generic ABS G3U 0.6 Nozzle",
     "setting_id": "jUNUZhE0BJyB64fC",
-    "filament_id": "GFB99",
+    "filament_id": "OFvaLVML",
     "support_material_interface_fan_speed": [
         "90"
     ],

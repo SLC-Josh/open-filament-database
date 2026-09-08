@@ -94,7 +94,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Cubicon PLA+ @base"
+        ""
     ],
     "filament_soluble": [
         "0"
@@ -150,12 +150,13 @@
     "additional_cooling_fan_speed": [
         "80"
     ],
-    "setting_id": "fNR2Bw3e4TGcWhq0",
-    "filament_id": "P510cfa1",
-    "compatible_printers": [
-        "Cubicon xCeler-I 0.4 nozzle"
-    ],
+    "filament_id": "OF7tt7DO",
     "default_filament_colour": [
         ""
+    ],
+    "renamed_from": "Cubicon PLA+ @base",
+    "setting_id": "fNR2Bw3e4TGcWhq0",
+    "compatible_printers": [
+        "Cubicon xCeler-I 0.4 nozzle"
     ]
 }

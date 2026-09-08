@@ -190,7 +190,6 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [],
-    "filament_id": "CXPLAB08",
     "additional_cooling_fan_speed": [
         "70"
     ],
@@ -203,6 +202,7 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
+    "filament_id": "OFd2vX0G",
     "filament_notes": "Made with NatureWorks Ingeo 3D850 - improved heat resistance and toughness",
     "bed_temperature": [
         "60"

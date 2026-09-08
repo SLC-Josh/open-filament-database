@@ -147,8 +147,9 @@
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "renamed_from": "PLA Silk @Flashforge AD4",
     "setting_id": "9FrKIXABj3yedXri",
-    "filament_id": "GFL99",
+    "filament_id": "OFesA6rF",
     "support_material_interface_fan_speed": [
         "100"
     ],
@@ -165,6 +166,5 @@
         "Flashforge Adventurer 4 Series 0.3 Nozzle",
         "Flashforge Adventurer 4 Series 0.4 Nozzle",
         "Flashforge Adventurer 4 Series 0.6 Nozzle"
-    ],
-    "renamed_from": "PLA Silk @Flashforge AD4"
+    ]
 }

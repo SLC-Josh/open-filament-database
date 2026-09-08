@@ -94,7 +94,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Cubicon ABS-A100 @base"
+        ""
     ],
     "filament_soluble": [
         "0"
@@ -156,13 +156,13 @@
     "nozzle_temperature_range_low": [
         "220"
     ],
-    "setting_id": "pIyU9uXQ5V3hsg5F",
-    "filament_id": "P510cfb1",
-    "compatible_printers": [
-        "Cubicon xCeler-Mini 0.4 nozzle"
-    ],
+    "filament_id": "OFy8tYJE",
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "setting_id": "pIyU9uXQ5V3hsg5F",
+    "compatible_printers": [
+        "Cubicon xCeler-Mini 0.4 nozzle"
     ]
 }
