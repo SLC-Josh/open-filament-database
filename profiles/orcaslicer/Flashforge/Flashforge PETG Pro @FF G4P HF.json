@@ -252,6 +252,12 @@
     "required_nozzle_HRC": [
         "0"
     ],
+    "supertack_plate_temp": [
+        "60"
+    ],
+    "supertack_plate_temp_initial_layer": [
+        "60"
+    ],
     "textured_cool_plate_temp": [
         "80"
     ],

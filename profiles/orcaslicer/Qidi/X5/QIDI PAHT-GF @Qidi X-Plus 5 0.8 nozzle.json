@@ -43,7 +43,7 @@
         "80"
     ],
     "during_print_exhaust_fan_speed": [
-        "100"
+        "0"
     ],
     "enable_pressure_advance": [
         "1"
@@ -253,6 +253,9 @@
         "80"
     ],
     "filament_id": "OFo15hcT",
+    "chamber_temperature": [
+        "55"
+    ],
     "filament_adhesiveness_category": [
         "400"
     ],
