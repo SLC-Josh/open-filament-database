@@ -164,8 +164,6 @@
     ],
     "compatible_printers": [
         "Flashforge Guider 3 Ultra 0.4 Nozzle",
-        "Flashforge Guider 3 Ultra 0.6 Nozzle",
-        "Flashforge Guider 3 Ultra 0.8 Nozzle",
         "Flashforge Guider 2s 0.4 nozzle"
     ],
     "activate_air_filtration": [
@@ -204,9 +202,6 @@
     "filament_is_support": [
         "0"
     ],
-    "filament_load_time": [
-        "0"
-    ],
     "filament_loading_speed": [
         "28"
     ],
@@ -241,9 +236,6 @@
         "100%"
     ],
     "filament_toolchange_delay": [
-        "0"
-    ],
-    "filament_unload_time": [
         "0"
     ],
     "filament_unloading_speed": [

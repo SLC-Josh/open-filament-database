@@ -325,12 +325,6 @@
         "80"
     ],
     "filament_id": "OFuWCQXN",
-    "bed_temperature": [
-        "100"
-    ],
-    "bed_temperature_initial_layer": [
-        "100"
-    ],
     "chamber_temperature": [
         "0"
     ],

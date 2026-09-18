@@ -151,6 +151,7 @@
         "0"
     ],
     "setting_id": "nhmKUDLK6wxVO1vH",
+    "filament_id": "OF70zbGS",
     "activate_air_filtration": [
         "0"
     ],
@@ -182,7 +183,6 @@
     "filament_cooling_final_speed": "3.4",
     "filament_cooling_initial_speed": "2.2",
     "filament_cooling_moves": "4",
-    "filament_load_time": "0",
     "filament_loading_speed": "28",
     "filament_loading_speed_start": "3",
     "filament_long_retractions_when_cut": "nil",
@@ -199,7 +199,6 @@
     "filament_stamping_distance": "0",
     "filament_stamping_loading_speed": "0",
     "filament_toolchange_delay": "0",
-    "filament_unload_time": "0",
     "filament_unloading_speed": "90",
     "filament_unloading_speed_start": "100",
     "idle_temperature": "0",
@@ -209,6 +208,5 @@
     "support_material_interface_fan_speed": "-1",
     "compatible_printers": [
         "Creality K1 Max_CFS-C 0.4 nozzle"
-    ],
-    "filament_id": "OF70zbGS"
+    ]
 }

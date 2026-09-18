@@ -326,12 +326,6 @@
     ],
     "filament_id": "OFtpXCCv",
     "filament_notes": "UV and weather resistant - requires good ventilation",
-    "bed_temperature": [
-        "100"
-    ],
-    "bed_temperature_initial_layer": [
-        "100"
-    ],
     "chamber_temperature": [
         "0"
     ],

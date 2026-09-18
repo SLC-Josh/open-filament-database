@@ -207,9 +207,6 @@
     "renamed_from": "Chuanying HS PLA @Chuanying X1 0.25 Nozzle;Chuanying HS PLA Chuanying X1 0.25 Nozzle",
     "setting_id": "gdW1LIVf6BecAtpa",
     "filament_id": "OFvxghTE",
-    "bed_temperature_difference": [
-        "10"
-    ],
     "chamber_temperature": [
         "0"
     ],
@@ -234,9 +231,6 @@
     "filament_cooling_moves": [
         "4"
     ],
-    "filament_load_time": [
-        "0"
-    ],
     "filament_loading_speed": [
         "28"
     ],
@@ -259,9 +253,6 @@
         "nil"
     ],
     "filament_toolchange_delay": [
-        "0"
-    ],
-    "filament_unload_time": [
         "0"
     ],
     "filament_unloading_speed": [

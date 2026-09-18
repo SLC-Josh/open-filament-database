@@ -335,12 +335,6 @@
         "50"
     ],
     "filament_id": "OFhlCNqq",
-    "bed_temperature": [
-        "60"
-    ],
-    "bed_temperature_initial_layer": [
-        "60"
-    ],
     "filament_retract_layer_change": [
         "1"
     ],

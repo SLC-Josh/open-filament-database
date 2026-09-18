@@ -333,12 +333,6 @@
     ],
     "filament_id": "OFvTVZc3",
     "filament_notes": "IMPORTANT: Set travel speed to maximum your machine allows (200-500mm/s) to reduce stringing",
-    "bed_temperature": [
-        "80"
-    ],
-    "bed_temperature_initial_layer": [
-        "85"
-    ],
     "filament_retract_layer_change": [
         "1"
     ],

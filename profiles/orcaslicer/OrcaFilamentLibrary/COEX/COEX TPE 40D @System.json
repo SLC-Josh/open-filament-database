@@ -204,12 +204,6 @@
     ],
     "filament_id": "OFfnXFie",
     "filament_notes": "Flexible filament - print slowly with minimal retraction",
-    "bed_temperature": [
-        "30"
-    ],
-    "bed_temperature_initial_layer": [
-        "35"
-    ],
     "filament_retract_layer_change": [
         "0"
     ],

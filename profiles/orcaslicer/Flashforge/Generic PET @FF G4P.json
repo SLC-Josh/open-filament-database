@@ -153,9 +153,6 @@
     "renamed_from": "Flashforge Generic TPU",
     "setting_id": "1Lyq9gOfcZ5hPIdW",
     "filament_id": "OF6MOPWx",
-    "bed_temperature_difference": [
-        "10"
-    ],
     "chamber_temperature": "0",
     "compatible_printers": [
         "Flashforge Guider4 Pro 0.4 nozzle"

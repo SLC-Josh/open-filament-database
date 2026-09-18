@@ -154,6 +154,7 @@
         "0"
     ],
     "setting_id": "ltnrZwbu4XXaDTkF",
+    "filament_id": "OFNvBIL0",
     "additional_cooling_fan_speed": [
         "0"
     ],
@@ -180,7 +181,6 @@
     "filament_cooling_final_speed": "3.4",
     "filament_cooling_initial_speed": "2.2",
     "filament_cooling_moves": "4",
-    "filament_load_time": "0",
     "filament_loading_speed": "28",
     "filament_loading_speed_start": "3",
     "filament_multitool_ramming": "0",
@@ -193,7 +193,6 @@
     "filament_retract_lift_enforce": "nil",
     "filament_shrink": "100%",
     "filament_toolchange_delay": "0",
-    "filament_unload_time": "0",
     "filament_unloading_speed": "90",
     "filament_unloading_speed_start": "100",
     "material_flow_dependent_temperature": "0",
@@ -203,6 +202,5 @@
         "Creality K2 Plus 0.4 nozzle",
         "Creality K2 Plus 0.6 nozzle",
         "Creality K2 Plus 0.8 nozzle"
-    ],
-    "filament_id": "OFNvBIL0"
+    ]
 }

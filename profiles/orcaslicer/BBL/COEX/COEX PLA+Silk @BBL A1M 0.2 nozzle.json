@@ -337,12 +337,6 @@
     ],
     "filament_id": "OF0pzFLc",
     "filament_notes": "Silk finish for aesthetic prints - slightly higher temperature than regular PLA",
-    "bed_temperature": [
-        "60"
-    ],
-    "bed_temperature_initial_layer": [
-        "60"
-    ],
     "filament_retract_layer_change": [
         "1"
     ],
