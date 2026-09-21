@@ -164,8 +164,6 @@
     ],
     "compatible_printers": [
         "Creality Ender-3 V3 0.4 nozzle",
-        "Creality Ender-3 V3 0.6 nozzle",
-        "Creality Ender-3 V3 Plus 0.4 nozzle",
-        "Creality Ender-3 V3 Plus 0.6 nozzle"
+        "Creality Ender-3 V3 0.6 nozzle"
     ]
 }
