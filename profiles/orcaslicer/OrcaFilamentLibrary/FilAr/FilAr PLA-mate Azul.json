@@ -136,10 +136,10 @@
         "100%"
     ],
     "hot_plate_temp": [
-        "60"
+        "50"
     ],
     "hot_plate_temp_initial_layer": [
-        "60"
+        "50"
     ],
     "nozzle_temperature": [
         "200"
@@ -178,10 +178,10 @@
         "45"
     ],
     "textured_plate_temp": [
-        "60"
+        "50"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "50"
     ],
     "filament_start_gcode": [
         "; Filament gcode\n"

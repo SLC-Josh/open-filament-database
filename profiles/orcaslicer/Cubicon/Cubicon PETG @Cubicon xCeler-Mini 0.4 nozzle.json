@@ -22,7 +22,7 @@
         "0"
     ],
     "hot_plate_temp_initial_layer": [
-        "80"
+        "85"
     ],
     "textured_plate_temp_initial_layer": [
         "80"
@@ -58,7 +58,7 @@
         "1.24"
     ],
     "filament_deretraction_speed": [
-        "nil"
+        "25"
     ],
     "filament_diameter": [
         "1.75"
@@ -73,16 +73,16 @@
         "nil"
     ],
     "filament_retract_before_wipe": [
-        "nil"
+        "70%"
     ],
     "filament_retract_when_changing_layer": [
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "2.0"
     ],
     "filament_z_hop": [
-        "nil"
+        "0"
     ],
     "filament_z_hop_types": [
         "nil"
@@ -91,7 +91,7 @@
         "nil"
     ],
     "filament_retraction_speed": [
-        "nil"
+        "40"
     ],
     "filament_settings_id": [
         ""
@@ -106,10 +106,10 @@
         "Cubicon"
     ],
     "filament_wipe": [
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
-        "nil"
+        "2"
     ],
     "bed_type": [
         "Cool Plate"
@@ -145,7 +145,7 @@
         "250"
     ],
     "nozzle_temperature_range_low": [
-        "230"
+        "220"
     ],
     "supertack_plate_temp": [
         "70"
@@ -157,6 +157,18 @@
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "pressure_advance": [
+        "0.08"
+    ],
+    "activate_air_filtration": [
+        "1"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "255"
     ],
     "setting_id": "2hYoCR5qUXCWIAxZ",
     "compatible_printers": [

@@ -22,7 +22,7 @@
         "105"
     ],
     "hot_plate_temp_initial_layer": [
-        "115"
+        "120"
     ],
     "textured_plate_temp_initial_layer": [
         "105"
@@ -55,7 +55,7 @@
         "20"
     ],
     "filament_density": [
-        "1.24"
+        "1.04"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "23"
+        "14"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -124,13 +124,13 @@
         "80"
     ],
     "fan_min_speed": [
-        "70"
+        "15"
     ],
     "slow_down_min_speed": [
-        "30"
+        "20"
     ],
     "slow_down_layer_time": [
-        "3"
+        "10"
     ],
     "filament_start_gcode": [
         "; Filament gcode\n"
@@ -139,10 +139,10 @@
         "245"
     ],
     "temperature_vitrification": [
-        "78"
+        "105"
     ],
     "activate_air_filtration": [
-        "0"
+        "1"
     ],
     "supertack_plate_temp": [
         "0"
@@ -160,6 +160,12 @@
     "default_filament_colour": "",
     "additional_cooling_fan_speed": [
         "0"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "0"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "255"
     ],
     "setting_id": "Kz41mb2M9xLbEJ97",
     "compatible_printers": [

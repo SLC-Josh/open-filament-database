@@ -40,16 +40,19 @@
         "0.94"
     ],
     "reduce_fan_stop_start_freq": [
-        "0"
+        "1"
     ],
     "fan_cooling_layer_time": [
-        "10"
+        "12"
     ],
     "filament_cost": [
         "20"
     ],
     "filament_density": [
         "1.04"
+    ],
+    "filament_change_length": [
+        "0"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -58,10 +61,10 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "32"
+        "24"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "40"
+        "50"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -118,10 +121,10 @@
         "20"
     ],
     "slow_down_min_speed": [
-        "10"
+        "20"
     ],
     "slow_down_layer_time": [
-        "2"
+        "4"
     ],
     "filament_start_gcode": [
         "; Filament gcode\n"

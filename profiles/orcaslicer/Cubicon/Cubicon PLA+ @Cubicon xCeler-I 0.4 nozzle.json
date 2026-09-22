@@ -58,13 +58,13 @@
         "1.24"
     ],
     "filament_deretraction_speed": [
-        "nil"
+        "25"
     ],
     "filament_diameter": [
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "23"
+        "8"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -73,16 +73,16 @@
         "nil"
     ],
     "filament_retract_before_wipe": [
-        "nil"
+        "70%"
     ],
     "filament_retract_when_changing_layer": [
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "2.0"
     ],
     "filament_z_hop": [
-        "nil"
+        "0"
     ],
     "filament_z_hop_types": [
         "nil"
@@ -91,7 +91,7 @@
         "nil"
     ],
     "filament_retraction_speed": [
-        "nil"
+        "40"
     ],
     "filament_settings_id": [
         ""
@@ -106,10 +106,10 @@
         "Cubicon"
     ],
     "filament_wipe": [
-        "nil"
+        "1"
     ],
     "filament_wipe_distance": [
-        "nil"
+        "2"
     ],
     "bed_type": [
         "Cool Plate"
@@ -153,6 +153,21 @@
     "filament_id": "OF7tt7DO",
     "default_filament_colour": [
         ""
+    ],
+    "activate_air_filtration": [
+        "1"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "255"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "255"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "pressure_advance": [
+        "0.025"
     ],
     "renamed_from": "Cubicon PLA+ @base",
     "setting_id": "fNR2Bw3e4TGcWhq0",
