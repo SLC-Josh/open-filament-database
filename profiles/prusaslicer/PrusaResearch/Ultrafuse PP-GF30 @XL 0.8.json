@@ -51,5 +51,7 @@
     "filament_multitool_ramming_volume": "40",
     "filament_multitool_ramming_flow": "8",
     "filament_travel_ramping_lift": "1",
-    "filament_travel_slope": "1"
+    "filament_travel_slope": "1",
+    "filament_shrinkage_compensation_xy": "0%",
+    "filament_shrinkage_compensation_z": "0%"
 }

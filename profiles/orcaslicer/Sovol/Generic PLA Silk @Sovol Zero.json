@@ -3,26 +3,32 @@
     "name": "Generic PLA Silk @Sovol Zero",
     "from": "system",
     "instantiation": "true",
-    "activate_air_filtration": "1",
+    "activate_air_filtration": [
+        "1"
+    ],
     "chamber_temperatures": [
         "0"
     ],
     "close_fan_the_first_x_layers": [
         "1"
     ],
-    "complete_print_exhaust_fan_speed": "80%",
+    "complete_print_exhaust_fan_speed": [
+        "80%"
+    ],
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
+        "55"
     ],
-    "during_print_exhaust_fan_speed": "80%",
+    "during_print_exhaust_fan_speed": [
+        "80%"
+    ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "55"
     ],
     "fan_cooling_layer_time": [
         "80"
@@ -172,21 +178,27 @@
         "60"
     ],
     "textured_plate_temp": [
-        "55"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
         "55"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\n"
+        "; filament start gcode\n"
     ],
     "filament_end_gcode": [
-        "; filament end gcode\n"
+        "; filament end gcode \n"
     ],
     "compatible_printers": [
-        "Sovol Zero 0.4 nozzle"
+        "Sovol Zero 0.2 nozzle",
+        "Sovol Zero 0.4 nozzle",
+        "Sovol Zero 0.6 nozzle",
+        "Sovol Zero 0.8 nozzle",
+        "Sovol Zero 1.0 nozzle"
     ],
-    "additional_cooling_fan_speed": "75%",
+    "additional_cooling_fan_speed": [
+        "75%"
+    ],
     "filament_multitool_ramming_flow": [
         "20"
     ],
@@ -196,11 +208,16 @@
     "nozzle_temperature_range_high": [
         "250"
     ],
-    "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
-    "renamed_from": "Sovol Zero PLA Silk",
-    "setting_id": "Se2yKerHRStYtWf5",
     "filament_id": "OFesA6rF",
-    "enable_pressure_advance": "1",
-    "pressure_advance": "0.029",
-    "dont_slow_down_outer_wall": "0"
+    "setting_id": "Se2yKerHRStYtWf5",
+    "renamed_from": "Sovol Zero PLA Silk",
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "pressure_advance": [
+        "0.029"
+    ],
+    "dont_slow_down_outer_wall": [
+        "0"
+    ]
 }

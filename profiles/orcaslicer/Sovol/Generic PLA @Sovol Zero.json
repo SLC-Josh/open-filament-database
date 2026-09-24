@@ -3,35 +3,41 @@
     "name": "Generic PLA @Sovol Zero",
     "from": "system",
     "instantiation": "true",
-    "activate_air_filtration": "1",
+    "activate_air_filtration": [
+        "0"
+    ],
     "chamber_temperatures": [
         "0"
     ],
     "close_fan_the_first_x_layers": [
         "1"
     ],
-    "complete_print_exhaust_fan_speed": "80%",
+    "complete_print_exhaust_fan_speed": [
+        "70"
+    ],
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
+        "55"
     ],
-    "during_print_exhaust_fan_speed": "80%",
+    "during_print_exhaust_fan_speed": [
+        "70"
+    ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "55"
     ],
     "fan_cooling_layer_time": [
-        "80"
+        "60"
     ],
     "fan_max_speed": [
         "100"
     ],
     "fan_min_speed": [
-        "70"
+        "100"
     ],
     "filament_cost": [
         "20"
@@ -55,7 +61,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "21"
+        "25"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -79,7 +85,7 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "0.4"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -106,13 +112,13 @@
         "nil"
     ],
     "filament_z_hop": [
-        "nil"
+        "0.4"
     ],
     "filament_z_hop_types": [
         "nil"
     ],
     "full_fan_speed_layer": [
-        "3"
+        "2"
     ],
     "filament_scarf_seam_type": [
         "none"
@@ -130,10 +136,10 @@
         "100%"
     ],
     "hot_plate_temp": [
-        "65"
+        "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "nozzle_temperature": [
         "210"
@@ -145,7 +151,7 @@
         "100"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "10%"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -169,37 +175,40 @@
         "10"
     ],
     "temperature_vitrification": [
-        "60"
+        "50"
     ],
     "textured_plate_temp": [
-        "55"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
         "55"
     ],
     "filament_start_gcode": [
-        "; Filament gcode\n"
+        "; filament start gcode\n"
     ],
     "filament_end_gcode": [
-        "; filament end gcode\n"
+        "; filament end gcode \n"
     ],
     "compatible_printers": [
-        "Sovol Zero 0.4 nozzle"
+        "Sovol Zero 0.2 nozzle",
+        "Sovol Zero 0.4 nozzle",
+        "Sovol Zero 0.6 nozzle",
+        "Sovol Zero 0.8 nozzle",
+        "Sovol Zero 1.0 nozzle"
     ],
-    "additional_cooling_fan_speed": "75%",
+    "additional_cooling_fan_speed": [
+        "70"
+    ],
     "filament_multitool_ramming_flow": [
         "20"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "180"
     ],
     "nozzle_temperature_range_high": [
-        "250"
+        "240"
     ],
-    "renamed_from": "Sovol Zero PLA Basic",
-    "setting_id": "NNDerIjh7qtuh1I3",
     "filament_id": "OFDSrzZ8",
-    "enable_pressure_advance": "1",
-    "pressure_advance": "0.032",
-    "dont_slow_down_outer_wall": "0"
+    "setting_id": "NNDerIjh7qtuh1I3",
+    "renamed_from": "Sovol Zero PLA Basic"
 }

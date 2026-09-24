@@ -3,21 +3,27 @@
     "name": "Generic PC @Sovol Zero",
     "from": "system",
     "instantiation": "true",
-    "activate_air_filtration": "1",
+    "activate_air_filtration": [
+        "1"
+    ],
     "chamber_temperatures": [
         "0"
     ],
     "close_fan_the_first_x_layers": [
         "3"
     ],
-    "complete_print_exhaust_fan_speed": "50",
+    "complete_print_exhaust_fan_speed": [
+        "50"
+    ],
     "cool_plate_temp": [
         "0"
     ],
     "cool_plate_temp_initial_layer": [
         "0"
     ],
-    "during_print_exhaust_fan_speed": "50",
+    "during_print_exhaust_fan_speed": [
+        "50"
+    ],
     "eng_plate_temp": [
         "110"
     ],
@@ -181,10 +187,19 @@
         "; Filament gcode\n"
     ],
     "filament_end_gcode": [
-        "; filament end gcode\n"
+        "; filament end gcode \n"
     ],
     "compatible_printers": [
-        "Sovol Zero 0.4 nozzle"
+        "Sovol Zero 0.2 nozzle",
+        "Sovol Zero 0.4 nozzle",
+        "Sovol Zero 0.6 nozzle",
+        "Sovol Zero 0.8 nozzle",
+        "Sovol Zero 1.0 nozzle",
+        "Sovol Zero 0.2 Hardened Steel nozzle",
+        "Sovol Zero 0.4 Hardened Steel nozzle",
+        "Sovol Zero 0.6 Hardened Steel nozzle",
+        "Sovol Zero 0.8 Hardened Steel nozzle",
+        "Sovol Zero 1.0 Hardened Steel nozzle"
     ],
     "nozzle_temperature_range_high": [
         "350"
@@ -195,9 +210,13 @@
     "filament_multitool_ramming_flow": [
         "16"
     ],
-    "renamed_from": "Sovol Zero PC",
-    "setting_id": "yRKCiPMN6fxibcyg",
     "filament_id": "OFLakOUI",
-    "dont_slow_down_outer_wall": "0",
-    "additional_cooling_fan_speed": "0"
+    "setting_id": "yRKCiPMN6fxibcyg",
+    "renamed_from": "Sovol Zero PC",
+    "dont_slow_down_outer_wall": [
+        "0"
+    ],
+    "additional_cooling_fan_speed": [
+        "0"
+    ]
 }

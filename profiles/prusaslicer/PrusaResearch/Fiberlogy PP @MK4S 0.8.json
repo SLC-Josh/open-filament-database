@@ -25,7 +25,7 @@
     "min_print_speed": "15",
     "slowdown_below_layer_time": "15",
     "start_filament_gcode": "\"M900 K0 ; Filament gcode\\n\\nM142 S36 ; set heatbreak target temp\"",
-    "bed_temperature": "0",
+    "bed_temperature": "100",
     "bridge_fan_speed": "70",
     "disable_fan_first_layers": "5",
     "fan_always_on": "0",
@@ -33,7 +33,7 @@
     "filament_colour": "#FFF2EC",
     "filament_max_volumetric_speed": "10",
     "filament_type": "PP",
-    "first_layer_bed_temperature": "0",
+    "first_layer_bed_temperature": "100",
     "first_layer_temperature": "250",
     "max_fan_speed": "15",
     "min_fan_speed": "10",
@@ -43,6 +43,9 @@
     "filament_retract_speed": "60",
     "filament_deretract_speed": "20",
     "filament_retract_before_travel": "2",
+    "filament_retract_layer_change": "0",
     "idle_temperature": "70",
-    "filament_travel_max_lift": "0.6"
+    "filament_travel_max_lift": "0.6",
+    "cooling_slowdown_logic": "consistent_surface",
+    "cooling_perimeter_transition_distance": "10"
 }
