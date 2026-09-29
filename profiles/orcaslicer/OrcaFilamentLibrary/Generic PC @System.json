@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "12",
+        "20",
+        "30",
+        "12",
+        "20",
+        "20"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -201,5 +206,13 @@
     ],
     "renamed_from": "My Generic PC",
     "setting_id": "LNjv9LwZnbu7ZASC",
-    "filament_id": "OFLakOUI"
+    "filament_id": "OFLakOUI",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

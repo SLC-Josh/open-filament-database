@@ -206,5 +206,8 @@
     ],
     "renamed_from": "Sovol SV08 PETG",
     "setting_id": "7vDZKIKJW5fy1EGG",
-    "filament_id": "OFYPdQJh"
+    "filament_id": "OFYPdQJh",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

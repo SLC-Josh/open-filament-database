@@ -203,5 +203,8 @@
     ],
     "renamed_from": "Sovol SV06 Plus ACE ABS",
     "setting_id": "sg9HXvKEoKD4pw7v",
-    "filament_id": "OFY9muEs"
+    "filament_id": "OFY9muEs",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

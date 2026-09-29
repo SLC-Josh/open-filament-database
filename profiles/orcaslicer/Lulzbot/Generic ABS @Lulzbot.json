@@ -205,5 +205,8 @@
     ],
     "renamed_from": "Lulzbot 2.85mm ABS",
     "setting_id": "Mtn4Fh3Lp6KlAxjo",
-    "filament_id": "OFY9muEs"
+    "filament_id": "OFY9muEs",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

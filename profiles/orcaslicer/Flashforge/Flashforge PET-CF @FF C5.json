@@ -154,6 +154,9 @@
         "290"
     ],
     "filament_id": "OFrjacXf",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "setting_id": "3bguiaEtUsS8ULHW",
     "filament_multitool_ramming_flow": [
         "13"

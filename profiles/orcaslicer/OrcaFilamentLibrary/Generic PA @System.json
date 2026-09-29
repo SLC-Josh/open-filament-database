@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "8",
+        "12",
+        "12",
+        "8",
+        "12",
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -201,5 +206,13 @@
     ],
     "renamed_from": "My Generic PA",
     "setting_id": "9DoeedUBMRPSCyu2",
-    "filament_id": "OFg8ndtj"
+    "filament_id": "OFg8ndtj",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

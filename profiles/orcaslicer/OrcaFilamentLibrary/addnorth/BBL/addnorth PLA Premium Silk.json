@@ -4,6 +4,7 @@
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
+        "0",
         "0"
     ],
     "additional_cooling_fan_speed": [
@@ -22,6 +23,7 @@
         "3"
     ],
     "complete_print_exhaust_fan_speed": [
+        "70",
         "70"
     ],
     "cool_plate_temp": [
@@ -49,6 +51,7 @@
         "50"
     ],
     "during_print_exhaust_fan_speed": [
+        "70",
         "70"
     ],
     "eng_plate_temp": [
@@ -138,7 +141,8 @@
         "1.75"
     ],
     "filament_extruder_variant": [
-        "Direct Drive Standard"
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
     ],
     "filament_flow_ratio": [
         "1",
@@ -204,6 +208,7 @@
         "nil"
     ],
     "filament_retract_restart_extra": [
+        "nil",
         "nil"
     ],
     "filament_retract_when_changing_layer": [

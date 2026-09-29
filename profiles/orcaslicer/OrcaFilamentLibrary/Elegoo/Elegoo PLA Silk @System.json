@@ -167,12 +167,12 @@
         "0"
     ],
     "filament_id": "OFXz7Mwx",
+    "renamed_from": "Elegoo PLA Silk",
     "setting_id": "VkXguNj79KADxuYn",
     "enable_pressure_advance": [
         "1"
     ],
     "pressure_advance": [
         "0.04"
-    ],
-    "renamed_from": "Elegoo PLA Silk"
+    ]
 }

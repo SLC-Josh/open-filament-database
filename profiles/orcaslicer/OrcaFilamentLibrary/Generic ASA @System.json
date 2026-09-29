@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "12",
+        "20",
+        "25",
+        "12",
+        "20",
+        "20"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -201,5 +206,13 @@
     ],
     "renamed_from": "My Generic ASA",
     "setting_id": "bcsNcj4DzLb4K5zN",
-    "filament_id": "OFLPAxz3"
+    "filament_id": "OFLPAxz3",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

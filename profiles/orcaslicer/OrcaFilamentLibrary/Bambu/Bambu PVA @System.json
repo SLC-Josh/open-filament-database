@@ -40,7 +40,7 @@
         "100"
     ],
     "filament_cost": [
-        "79.98"
+        "73.98"
     ],
     "filament_density": [
         "1.27"
@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "6"
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -142,9 +147,19 @@
         "55"
     ],
     "nozzle_temperature": [
+        "240",
+        "240",
+        "240",
+        "240",
+        "240",
         "240"
     ],
     "nozzle_temperature_initial_layer": [
+        "240",
+        "240",
+        "240",
+        "240",
+        "240",
         "240"
     ],
     "overhang_fan_speed": [
@@ -204,5 +219,13 @@
     ],
     "filament_id": "OFzyIxba",
     "description": "This is a water-soluble support filament, and usually it is only for the support structure and not for the model body. Printing this filament is of many requirements, and to get better printing quality, please refer to this wiki: PVA Printing Guide.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "Eb9Y2xbVDpjuptrv"
 }

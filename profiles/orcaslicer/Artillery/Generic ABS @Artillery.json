@@ -138,9 +138,9 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
-    "filament_id": "OFY9muEs",
-    "setting_id": "DNgTEZpEz8bJoobJ",
     "renamed_from": "Artillery Generic ABS",
+    "setting_id": "DNgTEZpEz8bJoobJ",
+    "filament_id": "OFY9muEs",
     "compatible_printers": [
         "Artillery Sidewinder X1 0.4 nozzle",
         "Artillery Genius 0.4 nozzle",

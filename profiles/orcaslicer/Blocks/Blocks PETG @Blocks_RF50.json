@@ -1,31 +1,31 @@
 {
     "type": "filament",
-    "name": "Generic ABS @Blocks",
+    "name": "Blocks PETG @Blocks_RF50",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "105"
+        "70"
     ],
     "eng_plate_temp": [
-        "105"
+        "70"
     ],
     "hot_plate_temp": [
-        "90"
+        "70"
     ],
     "textured_plate_temp": [
-        "105"
+        "70"
     ],
     "cool_plate_temp_initial_layer": [
-        "105"
+        "70"
     ],
     "eng_plate_temp_initial_layer": [
-        "105"
+        "70"
     ],
     "hot_plate_temp_initial_layer": [
-        "90"
+        "70"
     ],
     "textured_plate_temp_initial_layer": [
-        "105"
+        "70"
     ],
     "overhang_fan_threshold": [
         "25%"
@@ -37,13 +37,13 @@
         "1"
     ],
     "close_fan_the_first_x_layers": [
-        "4"
+        "1"
     ],
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.94"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -55,7 +55,7 @@
         "30"
     ],
     "filament_density": [
-        "1.04"
+        "1.24"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "18"
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -79,10 +79,10 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "1.0"
     ],
     "filament_z_hop": [
-        "nil"
+        "0.0"
     ],
     "filament_z_hop_types": [
         "nil"
@@ -100,10 +100,10 @@
         "0"
     ],
     "filament_type": [
-        "ABS"
+        "PETG"
     ],
     "filament_vendor": [
-        "Generic"
+        "Blocks"
     ],
     "filament_wipe": [
         "nil"
@@ -115,63 +115,59 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "250"
     ],
     "full_fan_speed_layer": [
         "0"
     ],
     "fan_max_speed": [
-        "100"
+        "80"
     ],
     "fan_min_speed": [
-        "10"
+        "40"
     ],
     "slow_down_min_speed": [
         "30"
     ],
     "slow_down_layer_time": [
-        "10"
+        "5"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n"
     ],
     "nozzle_temperature": [
-        "255"
+        "245"
     ],
     "temperature_vitrification": [
-        "110"
+        "70"
     ],
     "nozzle_temperature_range_low": [
-        "230"
+        "210"
     ],
     "nozzle_temperature_range_high": [
-        "280"
+        "270"
     ],
     "additional_cooling_fan_speed": [
-        "0"
+        "40"
     ],
-    "renamed_from": "Blocks Generic ABS",
-    "setting_id": "TL1Q1kA4t36GGObG",
-    "filament_id": "OFY9muEs",
+    "filament_id": "OF9t1Ga0",
     "filament_shrink": [
-        "99.5%"
+        "99.9%"
     ],
     "enable_overhang_bridge_fan": [
         "1"
     ],
+    "complete_print_exhaust_fan_speed": [
+        "80"
+    ],
     "activate_air_filtration": [
         "1"
-    ],
-    "complete_print_exhaust_fan_speed": [
-        "100"
     ],
     "during_print_exhaust_fan_speed": [
         "100"
     ],
+    "setting_id": "S7weR19wo9meJ6Yz",
     "compatible_printers": [
-        "BLOCKS RD50 V2 0.4 nozzle",
-        "BLOCKS RD50 V2 0.6 nozzle",
-        "BLOCKS RD50 V2 0.8 nozzle",
         "BLOCKS RF50 0.4 nozzle",
         "BLOCKS RF50 0.6 nozzle",
         "BLOCKS RF50 0.8 nozzle"

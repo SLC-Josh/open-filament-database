@@ -213,7 +213,7 @@
     "nozzle_temperature_range_low": [
         "190"
     ],
-    "filament_id": "OFgbpcy9",
+    "renamed_from": "Sovol Zero TPU",
     "setting_id": "MlY6WQ41FE8zDPSV",
-    "renamed_from": "Sovol Zero TPU"
+    "filament_id": "OFgbpcy9"
 }

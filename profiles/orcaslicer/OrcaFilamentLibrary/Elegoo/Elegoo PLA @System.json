@@ -167,12 +167,12 @@
         "0"
     ],
     "filament_id": "OFvgE0Zh",
+    "renamed_from": "Elegoo PLA",
     "setting_id": "jiwZ5eoW1vHoJv9K",
     "pressure_advance": [
         "0.04"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo PLA"
+    ]
 }

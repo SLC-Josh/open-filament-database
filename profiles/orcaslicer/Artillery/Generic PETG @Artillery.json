@@ -138,9 +138,9 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
-    "filament_id": "OFYPdQJh",
-    "setting_id": "6wZKfV2XvuJSUSwl",
     "renamed_from": "Artillery Generic PETG",
+    "setting_id": "6wZKfV2XvuJSUSwl",
+    "filament_id": "OFYPdQJh",
     "compatible_printers": [
         "Artillery Sidewinder X1 0.4 nozzle",
         "Artillery Genius 0.4 nozzle",

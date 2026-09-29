@@ -40,7 +40,7 @@
         "10"
     ],
     "filament_cost": [
-        "94.99"
+        "91.99"
     ],
     "filament_density": [
         "1.06"
@@ -52,6 +52,11 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.96",
+        "0.96",
+        "0.96",
+        "0.96",
+        "0.96",
         "0.96"
     ],
     "filament_is_support": [
@@ -201,5 +206,16 @@
     ],
     "filament_id": "OF2VFe4J",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "additional_fan_full_speed_layer": [
+        "2"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "x7uF6OpFuWDEyTXQ"
 }

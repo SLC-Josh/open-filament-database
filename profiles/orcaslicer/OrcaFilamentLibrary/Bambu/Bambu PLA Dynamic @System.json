@@ -52,6 +52,11 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
         "0.98"
     ],
     "filament_is_support": [
@@ -61,6 +66,11 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "12",
+        "21",
+        "21",
+        "12",
+        "21",
         "21"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -203,5 +213,13 @@
         "240"
     ],
     "filament_id": "OFDGigEI",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "NZkeYlElza4KiVEo"
 }

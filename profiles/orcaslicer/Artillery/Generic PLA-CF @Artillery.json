@@ -141,9 +141,9 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "filament_id": "OFWbdGsC",
-    "setting_id": "Gxafdb0zYnf9kPwa",
     "renamed_from": "Artillery Generic PLA-CF",
+    "setting_id": "Gxafdb0zYnf9kPwa",
+    "filament_id": "OFWbdGsC",
     "compatible_printers": [
         "Artillery Sidewinder X1 0.4 nozzle",
         "Artillery Genius 0.4 nozzle",

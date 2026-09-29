@@ -208,5 +208,8 @@
     ],
     "renamed_from": "Sovol SV08 PLA",
     "setting_id": "4fSYcvbFXNRHnlEw",
-    "filament_id": "OFDSrzZ8"
+    "filament_id": "OFDSrzZ8",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

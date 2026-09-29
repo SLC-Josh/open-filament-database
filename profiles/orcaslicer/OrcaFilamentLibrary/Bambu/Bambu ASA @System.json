@@ -40,7 +40,7 @@
         "25"
     ],
     "filament_cost": [
-        "31.99"
+        "26.99"
     ],
     "filament_density": [
         "1.05"
@@ -52,16 +52,31 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.95",
+        "0.95",
+        "0.95",
+        "0.95",
+        "0.95",
         "0.95"
     ],
     "filament_is_support": [
         "0"
     ],
     "filament_long_retractions_when_cut": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
         "1"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "12",
+        "20",
+        "25",
+        "12",
+        "20",
+        "20"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -82,6 +97,11 @@
         "nil"
     ],
     "filament_retraction_distances_when_cut": [
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
         "18"
     ],
     "filament_retraction_length": [
@@ -142,9 +162,19 @@
         "100"
     ],
     "nozzle_temperature": [
+        "270",
+        "270",
+        "270",
+        "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
+        "270",
+        "270",
+        "270",
         "270"
     ],
     "overhang_fan_speed": [
@@ -201,5 +231,13 @@
     ],
     "filament_id": "OFfBpSRI",
     "description": "When printing this filament, there's a risk of warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "NEYuPnFvaHGhAdpD"
 }

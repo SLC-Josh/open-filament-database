@@ -150,6 +150,9 @@
     "compatible_printers": [
         "Phrozen Arco 0.4 nozzle"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "activate_air_filtration": [
         "1"
     ],

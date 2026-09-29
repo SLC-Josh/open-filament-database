@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "6.5",
+        "6.5",
+        "6.5",
+        "6.5",
+        "6.5",
+        "6.5"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -200,6 +205,14 @@
         "280"
     ],
     "filament_id": "OF54B0S0",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
     "setting_id": "NEjBweIYKppi6T0Q"
 }

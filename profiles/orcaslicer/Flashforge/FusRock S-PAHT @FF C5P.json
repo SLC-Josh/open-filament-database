@@ -165,6 +165,9 @@
     "renamed_from": "My Generic PA-CF",
     "setting_id": "0i7VkquM4n0uFaXH",
     "filament_id": "OFCn83wF",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

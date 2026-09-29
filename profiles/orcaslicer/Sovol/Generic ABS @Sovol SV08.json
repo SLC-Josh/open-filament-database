@@ -206,5 +206,8 @@
     ],
     "renamed_from": "Sovol SV08 ABS",
     "setting_id": "aZx3ePr3Id1jPJG9",
-    "filament_id": "OFY9muEs"
+    "filament_id": "OFY9muEs",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

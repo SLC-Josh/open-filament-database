@@ -208,6 +208,9 @@
     "renamed_from": "My Generic PA-CF",
     "setting_id": "BMbLehqxegpSvMci",
     "filament_id": "OFdPevOo",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "default_filament_colour": [
         "#858078"
     ],

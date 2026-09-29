@@ -206,6 +206,9 @@
     "renamed_from": "My Generic ABS",
     "setting_id": "7julgReKEcp5tg0d",
     "filament_id": "OFY9muEs",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "additional_cooling_fan_speed": [
         "0"
     ]

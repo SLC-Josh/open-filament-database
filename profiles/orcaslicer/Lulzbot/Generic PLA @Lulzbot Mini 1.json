@@ -207,6 +207,9 @@
     "renamed_from": "My Generic PLA",
     "setting_id": "xjWvBH3Qyc46iwAi",
     "filament_id": "OFDSrzZ8",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "textured_cool_plate_temp": [
         "60"
     ],

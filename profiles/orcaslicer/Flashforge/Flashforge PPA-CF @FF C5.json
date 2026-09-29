@@ -64,6 +64,11 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
         "6"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -164,6 +169,9 @@
     ],
     "setting_id": "DhC7iFgNKCAq4Zkt",
     "filament_id": "OFLC1oRH",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "compatible_printers": [
         "Flashforge Creator 5 0.4 nozzle",
         "Flashforge Creator 5 0.6 nozzle",

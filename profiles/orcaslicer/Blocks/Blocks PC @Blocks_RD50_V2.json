@@ -1,61 +1,61 @@
 {
     "type": "filament",
-    "name": "Generic PLA-CF @Blocks",
+    "name": "Blocks PC @Blocks_RD50_V2",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "50"
+        "0"
     ],
     "eng_plate_temp": [
-        "50"
+        "100"
     ],
     "hot_plate_temp": [
-        "50"
+        "100"
     ],
     "textured_plate_temp": [
-        "50"
+        "100"
     ],
     "cool_plate_temp_initial_layer": [
-        "50"
+        "0"
     ],
     "eng_plate_temp_initial_layer": [
-        "50"
+        "100"
     ],
     "hot_plate_temp_initial_layer": [
-        "50"
+        "100"
     ],
     "textured_plate_temp_initial_layer": [
-        "50"
+        "100"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "25%"
     ],
     "overhang_fan_speed": [
-        "100"
+        "60"
     ],
     "slow_down_for_layer_cooling": [
         "1"
     ],
     "close_fan_the_first_x_layers": [
-        "1"
+        "3"
     ],
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.94"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
     ],
     "fan_cooling_layer_time": [
-        "100"
-    ],
-    "filament_cost": [
         "30"
     ],
+    "filament_cost": [
+        "20"
+    ],
     "filament_density": [
-        "1.24"
+        "1.04"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "10"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -100,10 +100,10 @@
         "0"
     ],
     "filament_type": [
-        "PLA-CF"
+        "PC"
     ],
     "filament_vendor": [
-        "Generic"
+        "Blocks"
     ],
     "filament_wipe": [
         "nil"
@@ -115,50 +115,44 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "270"
     ],
     "full_fan_speed_layer": [
         "0"
     ],
     "fan_max_speed": [
-        "100"
+        "50"
     ],
     "fan_min_speed": [
-        "100"
+        "10"
     ],
     "slow_down_min_speed": [
-        "5"
+        "10"
     ],
     "slow_down_layer_time": [
-        "7"
+        "2"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n"
+        "; Filament gcode\n"
     ],
     "nozzle_temperature": [
-        "220"
+        "270"
     ],
     "temperature_vitrification": [
-        "60"
+        "140"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "250"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "280"
     ],
-    "additional_cooling_fan_speed": [
-        "0"
-    ],
-    "renamed_from": "Blocks Generic PLA-CF",
-    "setting_id": "oKUqzwAWMrpiyGLf",
-    "filament_id": "OFWbdGsC",
+    "filament_id": "OFlGY0MN",
+    "renamed_from": "Blocks Generic PC;Generic PC @Blocks",
+    "setting_id": "HLc0shWnKwJzSFyW",
     "compatible_printers": [
         "BLOCKS RD50 V2 0.4 nozzle",
         "BLOCKS RD50 V2 0.6 nozzle",
-        "BLOCKS RD50 V2 0.8 nozzle",
-        "BLOCKS RF50 0.4 nozzle",
-        "BLOCKS RF50 0.6 nozzle",
-        "BLOCKS RF50 0.8 nozzle"
+        "BLOCKS RD50 V2 0.8 nozzle"
     ]
 }

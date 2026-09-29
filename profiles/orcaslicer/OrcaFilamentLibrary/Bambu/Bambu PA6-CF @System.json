@@ -40,7 +40,7 @@
         "10"
     ],
     "filament_cost": [
-        "79.99"
+        "76.99"
     ],
     "filament_density": [
         "1.10"
@@ -52,6 +52,11 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.96",
+        "0.96",
+        "0.96",
+        "0.96",
+        "0.96",
         "0.96"
     ],
     "filament_is_support": [
@@ -142,9 +147,19 @@
         "100"
     ],
     "nozzle_temperature": [
+        "275",
+        "275",
+        "275",
+        "275",
+        "275",
         "275"
     ],
     "nozzle_temperature_initial_layer": [
+        "275",
+        "275",
+        "275",
+        "275",
+        "275",
         "275"
     ],
     "overhang_fan_speed": [
@@ -201,5 +216,13 @@
     ],
     "filament_id": "OFniMuTN",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "gVuTMuWZIYCBze5M"
 }

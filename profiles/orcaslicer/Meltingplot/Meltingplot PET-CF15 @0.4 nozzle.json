@@ -206,6 +206,9 @@
         "260"
     ],
     "filament_id": "OFJdf5nt",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "setting_id": "2fkQa1BwTGZbSi2z",
     "filament_shrinkage_compensation_z": [
         "99.9%"

@@ -210,6 +210,14 @@
     "renamed_from": "My Generic PA-CF",
     "setting_id": "rchW8WI6gcXuAE0V",
     "filament_id": "OFQLcbps",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "activate_chamber_temp_control": [
         "0"
     ],

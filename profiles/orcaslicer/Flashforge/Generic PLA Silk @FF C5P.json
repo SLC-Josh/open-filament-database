@@ -154,6 +154,9 @@
     "renamed_from": "Generic Silk PLA @System",
     "setting_id": "RnoS9bqY1TvNPtg2",
     "filament_id": "OFesA6rF",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

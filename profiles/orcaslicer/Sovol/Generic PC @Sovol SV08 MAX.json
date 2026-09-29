@@ -200,6 +200,9 @@
     "renamed_from": "My Generic PC",
     "setting_id": "UPoqjanrvN173sVS",
     "filament_id": "OFLakOUI",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "dont_slow_down_outer_wall": "0",
     "additional_cooling_fan_speed": "0"
 }

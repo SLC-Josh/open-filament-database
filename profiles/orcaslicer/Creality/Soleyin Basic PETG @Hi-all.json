@@ -1,6 +1,7 @@
 {
     "type": "filament",
     "name": "Soleyin Basic PETG @Hi-all",
+    "from": "system",
     "instantiation": "true",
     "close_fan_the_first_x_layers": [
         "3"
@@ -137,7 +138,6 @@
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
-    "from": "system",
     "filament_adhesiveness_category": [
         "300"
     ],
@@ -145,6 +145,7 @@
         "Cool Plate"
     ],
     "setting_id": "sUalM5HH0sDpMOmD",
+    "filament_id": "OFBLktDy",
     "complete_print_exhaust_fan_speed": [
         "0"
     ],
@@ -172,6 +173,5 @@
         "Creality Hi 0.4 nozzle",
         "Creality Hi 0.6 nozzle",
         "Creality Hi 0.8 nozzle"
-    ],
-    "filament_id": "OFBLktDy"
+    ]
 }

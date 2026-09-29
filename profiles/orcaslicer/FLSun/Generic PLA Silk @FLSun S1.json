@@ -151,6 +151,9 @@
     "renamed_from": "FLSun S1 PLA Silk",
     "setting_id": "NTJw0fbcn3JoOr0R",
     "filament_id": "OFesA6rF",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "compatible_printers": [
         "FLSun S1 0.4 nozzle"
     ],

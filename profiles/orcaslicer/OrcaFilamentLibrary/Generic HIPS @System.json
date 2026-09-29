@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "8",
+        "13",
+        "13",
+        "8",
+        "13",
+        "13"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -203,5 +208,13 @@
         "0"
     ],
     "setting_id": "A7gedcxip65DXKuf",
-    "filament_id": "OFsFon5l"
+    "filament_id": "OFsFon5l",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

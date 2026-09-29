@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "11"
+        "11",
+        "19.5",
+        "40",
+        "11",
+        "19.5",
+        "25"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -85,6 +90,11 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
         "0.8"
     ],
     "filament_retraction_minimum_travel": [
@@ -203,5 +213,13 @@
         "240"
     ],
     "filament_id": "OFmY0l6t",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "RFs9eCKYOMUSmvZf"
 }

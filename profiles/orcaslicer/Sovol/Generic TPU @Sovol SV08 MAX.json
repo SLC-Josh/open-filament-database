@@ -202,5 +202,8 @@
     ],
     "renamed_from": "My Generic TPU",
     "setting_id": "hQByQ7FIhAiytli8",
-    "filament_id": "OFgbpcy9"
+    "filament_id": "OFgbpcy9",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

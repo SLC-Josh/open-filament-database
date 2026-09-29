@@ -167,12 +167,12 @@
         "0"
     ],
     "filament_id": "OFkhhUS0",
+    "renamed_from": "Elegoo Rapid PLA+;Elegoo RAPID PLA+",
     "setting_id": "HZ4nP67iAG7a243e",
     "pressure_advance": [
         "0.04"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo Rapid PLA+;Elegoo RAPID PLA+"
+    ]
 }

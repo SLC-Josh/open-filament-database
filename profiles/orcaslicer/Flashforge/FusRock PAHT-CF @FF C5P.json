@@ -165,6 +165,9 @@
     "renamed_from": "Flashforge PAHT-CF @FF C5P;Flashforge PAHT-CF FF C5P",
     "setting_id": "nJF1lCOavNNh4yHs",
     "filament_id": "OFKW5hEW",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

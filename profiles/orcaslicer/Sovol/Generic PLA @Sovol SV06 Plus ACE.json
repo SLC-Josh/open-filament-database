@@ -206,5 +206,8 @@
     ],
     "renamed_from": "Sovol SV06 Plus ACE PLA",
     "setting_id": "yzv5Kwe3OivHxNUI",
-    "filament_id": "OFDSrzZ8"
+    "filament_id": "OFDSrzZ8",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

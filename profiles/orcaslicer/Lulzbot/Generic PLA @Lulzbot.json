@@ -208,5 +208,8 @@
     ],
     "renamed_from": "Lulzbot 2.85mm PLA",
     "setting_id": "3evRjso1wNxd9nV3",
-    "filament_id": "OFDSrzZ8"
+    "filament_id": "OFDSrzZ8",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

@@ -208,6 +208,9 @@
     "renamed_from": "My Generic ABS",
     "setting_id": "NjuuWYHSc7IlwWAy",
     "filament_id": "OFVIMei2",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_shrinkage_compensation_z": [
         "99%"
     ],

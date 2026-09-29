@@ -154,6 +154,9 @@
         "240"
     ],
     "filament_id": "OFuFEtKX",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "setting_id": "RXRERfs2oQKewpPS",
     "filament_multitool_ramming_flow": [
         "13"

@@ -208,7 +208,7 @@
     "nozzle_temperature_range_high": [
         "240"
     ],
-    "filament_id": "OFDSrzZ8",
+    "renamed_from": "Sovol Zero PLA Basic",
     "setting_id": "NNDerIjh7qtuh1I3",
-    "renamed_from": "Sovol Zero PLA Basic"
+    "filament_id": "OFDSrzZ8"
 }

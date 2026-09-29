@@ -208,9 +208,9 @@
     "nozzle_temperature_range_high": [
         "250"
     ],
-    "filament_id": "OFesA6rF",
-    "setting_id": "LA8X1RsMdV2xNT1o",
     "renamed_from": "Sovol Zero PLA Silk HS Nozzle",
+    "setting_id": "LA8X1RsMdV2xNT1o",
+    "filament_id": "OFesA6rF",
     "enable_pressure_advance": [
         "1"
     ],

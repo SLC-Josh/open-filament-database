@@ -164,12 +164,12 @@
         "230"
     ],
     "filament_id": "OFOsHDnB",
+    "renamed_from": "Elegoo PETG PRO;Elegoo PETG Pro @System",
     "setting_id": "fdfCAYQEoYa9DN6I",
     "pressure_advance": [
         "0.1"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo PETG PRO;Elegoo PETG Pro @System"
+    ]
 }

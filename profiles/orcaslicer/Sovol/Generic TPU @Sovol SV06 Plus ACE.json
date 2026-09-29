@@ -206,5 +206,8 @@
     ],
     "renamed_from": "Sovol SV06 Plus ACE TPU",
     "setting_id": "MUXz0JSHdT66Mti1",
-    "filament_id": "OFgbpcy9"
+    "filament_id": "OFgbpcy9",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

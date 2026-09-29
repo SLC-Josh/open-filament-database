@@ -210,9 +210,9 @@
     "filament_multitool_ramming_flow": [
         "16"
     ],
-    "filament_id": "OFLakOUI",
-    "setting_id": "yRKCiPMN6fxibcyg",
     "renamed_from": "Sovol Zero PC",
+    "setting_id": "yRKCiPMN6fxibcyg",
+    "filament_id": "OFLakOUI",
     "dont_slow_down_outer_wall": [
         "0"
     ],

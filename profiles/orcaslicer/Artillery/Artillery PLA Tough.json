@@ -141,9 +141,9 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "filament_id": "OF0R5Wc7",
-    "setting_id": "hLFvQXsyyUrguGEp",
     "renamed_from": "Artillery Generic PLA",
+    "setting_id": "hLFvQXsyyUrguGEp",
+    "filament_id": "OF0R5Wc7",
     "compatible_printers": [
         "Artillery Sidewinder X3 Pro 0.4 nozzle",
         "Artillery Sidewinder X3 Plus 0.4 nozzle",

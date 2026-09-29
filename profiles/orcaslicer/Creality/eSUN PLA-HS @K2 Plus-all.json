@@ -151,6 +151,7 @@
         "80"
     ],
     "setting_id": "lJaXWbmrBmg87yhI",
+    "filament_id": "OFOHOf2F",
     "customized_plate_temp": "50",
     "customized_plate_temp_initial_layer": "50",
     "epoxy_resin_plate_temp": "40",
@@ -159,6 +160,5 @@
     "default_filament_colour": "\"\"",
     "compatible_printers": [
         "Creality K2 Plus 0.4 nozzle"
-    ],
-    "filament_id": "OFOHOf2F"
+    ]
 }

@@ -167,12 +167,12 @@
         "0"
     ],
     "filament_id": "OFsB2lxm",
+    "renamed_from": "Elegoo PLA Matte",
     "setting_id": "UykE255l5V0oS0Ca",
     "pressure_advance": [
         "0.04"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo PLA Matte"
+    ]
 }

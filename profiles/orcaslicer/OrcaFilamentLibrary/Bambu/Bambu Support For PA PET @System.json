@@ -142,9 +142,19 @@
         "100"
     ],
     "nozzle_temperature": [
+        "280",
+        "280",
+        "280",
+        "280",
+        "280",
         "280"
     ],
     "nozzle_temperature_initial_layer": [
+        "280",
+        "280",
+        "280",
+        "280",
+        "280",
         "280"
     ],
     "overhang_fan_speed": [
@@ -201,5 +211,13 @@
     ],
     "filament_id": "OFMTK0UC",
     "description": "This is a non-water-soluble support filament, and usually it is only for the support structure and not for the model body. To get better printing quality, please refer to this wiki: Printing Tips for Support Filament and Support Function.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "mCBL1pC0zpJgldvZ"
 }

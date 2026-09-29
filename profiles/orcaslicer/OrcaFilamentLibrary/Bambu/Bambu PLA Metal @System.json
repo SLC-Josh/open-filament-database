@@ -40,7 +40,7 @@
         "100"
     ],
     "filament_cost": [
-        "29.99"
+        "21.99"
     ],
     "filament_density": [
         "1.25"
@@ -52,6 +52,11 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
         "0.98"
     ],
     "filament_is_support": [
@@ -61,6 +66,11 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "12",
+        "21",
+        "21",
+        "12",
+        "21",
         "21"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -204,5 +214,13 @@
     ],
     "filament_id": "OFrKLeE3",
     "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "7w5T6uXXrwLzQb5D"
 }

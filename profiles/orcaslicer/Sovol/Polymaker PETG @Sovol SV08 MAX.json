@@ -202,6 +202,9 @@
     "renamed_from": "My Generic PETG",
     "setting_id": "JBFKMaFtd7kO8Ksq",
     "filament_id": "OF6H51Xx",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "enable_pressure_advance": "1",
     "pressure_advance": "0.08",
     "dont_slow_down_outer_wall": "1"

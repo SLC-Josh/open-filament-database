@@ -209,5 +209,8 @@
     ],
     "renamed_from": "Sovol SV08 TPU",
     "setting_id": "vFPYMoNvgjn1aSKA",
-    "filament_id": "OFgbpcy9"
+    "filament_id": "OFgbpcy9",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

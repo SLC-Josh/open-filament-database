@@ -164,12 +164,12 @@
         "230"
     ],
     "filament_id": "OFLXvuMr",
+    "renamed_from": "Elegoo Rapid PETG;Elegoo Rapid PETG+;Elegoo RAPID PETG;Elegoo RAPID PETG+",
     "setting_id": "uUQSVOvP8tAaDqvB",
     "pressure_advance": [
         "0.052"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo Rapid PETG;Elegoo Rapid PETG+;Elegoo RAPID PETG;Elegoo RAPID PETG+"
+    ]
 }

@@ -40,7 +40,7 @@
         "10"
     ],
     "filament_cost": [
-        "84.99"
+        "81.99"
     ],
     "filament_density": [
         "1.29"
@@ -61,6 +61,11 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
         "8"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -142,9 +147,19 @@
         "100"
     ],
     "nozzle_temperature": [
+        "270",
+        "270",
+        "270",
+        "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
+        "270",
+        "270",
+        "270",
         "270"
     ],
     "overhang_fan_speed": [
@@ -201,5 +216,13 @@
     ],
     "filament_id": "OFHa48An",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "n97P7KBaImDlK41v"
 }

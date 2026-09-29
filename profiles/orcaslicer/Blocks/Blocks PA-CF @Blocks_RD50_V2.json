@@ -1,61 +1,61 @@
 {
     "type": "filament",
-    "name": "Generic PVA @Blocks",
+    "name": "Blocks PA-CF @Blocks_RD50_V2",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "35"
+        "0"
     ],
     "eng_plate_temp": [
-        "0"
+        "100"
     ],
     "hot_plate_temp": [
-        "45"
+        "90"
     ],
     "textured_plate_temp": [
-        "45"
+        "100"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
-    ],
-    "eng_plate_temp_initial_layer": [
         "0"
     ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
     "hot_plate_temp_initial_layer": [
-        "45"
+        "90"
     ],
     "textured_plate_temp_initial_layer": [
-        "45"
+        "100"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "95%"
     ],
     "overhang_fan_speed": [
-        "100"
+        "80%"
     ],
     "slow_down_for_layer_cooling": [
         "1"
     ],
     "close_fan_the_first_x_layers": [
-        "1"
+        "3"
     ],
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "0.95"
     ],
     "reduce_fan_stop_start_freq": [
-        "1"
+        "0"
     ],
     "fan_cooling_layer_time": [
-        "100"
+        "4"
     ],
     "filament_cost": [
         "20"
     ],
     "filament_density": [
-        "1.24"
+        "1.25"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -64,7 +64,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "10"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -79,10 +79,10 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "1.2"
     ],
     "filament_z_hop": [
-        "nil"
+        "0.0"
     ],
     "filament_z_hop_types": [
         "nil"
@@ -97,13 +97,13 @@
         ""
     ],
     "filament_soluble": [
-        "1"
+        "0"
     ],
     "filament_type": [
-        "PVA"
+        "PA-CF"
     ],
     "filament_vendor": [
-        "Generic"
+        "Blocks"
     ],
     "filament_wipe": [
         "nil"
@@ -115,53 +115,59 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "255"
     ],
     "full_fan_speed_layer": [
         "0"
     ],
     "fan_max_speed": [
-        "100"
+        "60"
     ],
     "fan_min_speed": [
-        "100"
+        "0"
     ],
     "slow_down_min_speed": [
         "10"
     ],
     "slow_down_layer_time": [
-        "4"
+        "2"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n"
+        "; Filament gcode\n"
     ],
     "nozzle_temperature": [
-        "220"
-    ],
-    "temperature_vitrification": [
-        "50"
-    ],
-    "filament_is_support": [
-        "1"
-    ],
-    "nozzle_temperature_range_low": [
-        "190"
-    ],
-    "nozzle_temperature_range_high": [
         "250"
     ],
-    "additional_cooling_fan_speed": [
-        "70"
+    "temperature_vitrification": [
+        "108"
     ],
-    "renamed_from": "Blocks Generic PVA",
-    "setting_id": "tNw3oe7VovLkgUbB",
-    "filament_id": "OFDvXujf",
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "290"
+    ],
+    "filament_id": "OFdWrXpL",
+    "enable_overhang_bridge_fan": [
+        "1"
+    ],
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "activate_air_filtration": [
+        "1"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "100"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "80"
+    ],
+    "renamed_from": "Blocks Generic PA-CF;Generic PA-CF @Blocks",
+    "setting_id": "EtbeKx3rbhUo1TtM",
     "compatible_printers": [
         "BLOCKS RD50 V2 0.4 nozzle",
         "BLOCKS RD50 V2 0.6 nozzle",
-        "BLOCKS RD50 V2 0.8 nozzle",
-        "BLOCKS RF50 0.4 nozzle",
-        "BLOCKS RF50 0.6 nozzle",
-        "BLOCKS RF50 0.8 nozzle"
+        "BLOCKS RD50 V2 0.8 nozzle"
     ]
 }

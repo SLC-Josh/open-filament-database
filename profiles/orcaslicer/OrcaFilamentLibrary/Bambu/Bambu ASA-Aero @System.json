@@ -40,7 +40,7 @@
         "30"
     ],
     "filament_cost": [
-        "49.99"
+        "46.99"
     ],
     "filament_density": [
         "0.99"
@@ -52,6 +52,11 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.52",
+        "0.52",
+        "0.52",
+        "0.52",
+        "0.52",
         "0.52"
     ],
     "filament_is_support": [
@@ -61,6 +66,11 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
         "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -85,6 +95,11 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "1.5",
+        "1.5",
+        "1.5",
+        "1.5",
+        "1.5",
         "1.5"
     ],
     "filament_retraction_minimum_travel": [
@@ -109,12 +124,22 @@
         "nil"
     ],
     "filament_wipe_distance": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
         "5"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
+        "Normal Lift",
+        "Normal Lift",
+        "Normal Lift",
+        "Normal Lift",
+        "Normal Lift",
         "Normal Lift"
     ],
     "full_fan_speed_layer": [
@@ -142,9 +167,19 @@
         "105"
     ],
     "nozzle_temperature": [
+        "270",
+        "270",
+        "270",
+        "270",
+        "270",
         "270"
     ],
     "nozzle_temperature_initial_layer": [
+        "270",
+        "270",
+        "270",
+        "270",
+        "270",
         "270"
     ],
     "overhang_fan_speed": [
@@ -201,5 +236,13 @@
     ],
     "filament_id": "OFXzQ4yL",
     "description": "This filament is only used to print models with a low density usually, and some special parameters are required. To get better printing quality, please refer to this wiki: ASA Aero Printing Guide.",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "Z1SeI4Lll9gz2USx"
 }

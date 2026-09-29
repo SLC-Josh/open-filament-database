@@ -204,6 +204,9 @@
     "renamed_from": "My Generic PETG",
     "setting_id": "zcgAqKXFHMgCJr2q",
     "filament_id": "OFYPdQJh",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "textured_cool_plate_temp": [
         "80"
     ],

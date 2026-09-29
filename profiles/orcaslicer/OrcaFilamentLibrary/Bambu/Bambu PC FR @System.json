@@ -40,7 +40,7 @@
         "10"
     ],
     "filament_cost": [
-        "0"
+        "51.99"
     ],
     "filament_density": [
         "1.19"
@@ -52,6 +52,11 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.94",
+        "0.94",
+        "0.94",
+        "0.94",
+        "0.94",
         "0.94"
     ],
     "filament_is_support": [
@@ -200,5 +205,13 @@
         "16"
     ],
     "filament_id": "OFg57Nmc",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "m7TaVFWJZUqzf0rP"
 }

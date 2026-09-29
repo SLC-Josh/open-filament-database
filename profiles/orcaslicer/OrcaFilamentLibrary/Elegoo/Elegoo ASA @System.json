@@ -164,12 +164,12 @@
         "240"
     ],
     "filament_id": "OFobDOW5",
+    "renamed_from": "Elegoo ASA",
     "setting_id": "mpSVVs77BAdKmtP6",
     "pressure_advance": [
         "0.04"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo ASA"
+    ]
 }

@@ -175,6 +175,9 @@
         "Flashforge Creator 5 Pro 0.6 nozzle",
         "Flashforge Creator 5 Pro 0.8 nozzle"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "activate_air_filtration": [
         "1"
     ],

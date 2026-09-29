@@ -141,9 +141,9 @@
     "nozzle_temperature_range_high": [
         "250"
     ],
-    "filament_id": "OFgbpcy9",
-    "setting_id": "dWhysRiE5GrAGyME",
     "renamed_from": "Artillery Generic TPU",
+    "setting_id": "dWhysRiE5GrAGyME",
+    "filament_id": "OFgbpcy9",
     "compatible_printers": [
         "Artillery Sidewinder X1 0.4 nozzle",
         "Artillery Genius 0.4 nozzle",

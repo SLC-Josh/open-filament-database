@@ -208,6 +208,9 @@
     "renamed_from": "My Generic ASA",
     "setting_id": "JRSnSdwkvrQx8uH8",
     "filament_id": "OFRdywGp",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "default_filament_colour": [
         "#123123"
     ]

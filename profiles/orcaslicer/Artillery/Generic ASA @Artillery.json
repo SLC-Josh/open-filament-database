@@ -138,9 +138,9 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
-    "filament_id": "OFLPAxz3",
-    "setting_id": "xWHuScm0fPJCqjVx",
     "renamed_from": "Artillery Generic ASA",
+    "setting_id": "xWHuScm0fPJCqjVx",
+    "filament_id": "OFLPAxz3",
     "compatible_printers": [
         "Artillery Sidewinder X1 0.4 nozzle",
         "Artillery Genius 0.4 nozzle",

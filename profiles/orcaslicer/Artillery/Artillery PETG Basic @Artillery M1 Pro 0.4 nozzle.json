@@ -141,9 +141,9 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
-    "filament_id": "OF8wE5l7",
-    "setting_id": "RTQvSwJBWnut5aBo",
     "renamed_from": "Artillery Generic PLA",
+    "setting_id": "RTQvSwJBWnut5aBo",
+    "filament_id": "OF8wE5l7",
     "compatible_printers": [
         "Artillery M1 Pro 0.4 nozzle"
     ],

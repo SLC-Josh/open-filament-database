@@ -208,6 +208,9 @@
     "renamed_from": "My Generic PETG",
     "setting_id": "kR8Vbizk0CPciCbD",
     "filament_id": "OFvlreVF",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "default_filament_colour": [
         "#123123"
     ]

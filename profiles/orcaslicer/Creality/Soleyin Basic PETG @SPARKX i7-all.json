@@ -1,6 +1,7 @@
 {
     "type": "filament",
     "name": "Soleyin Basic PETG @SPARKX i7-all",
+    "from": "system",
     "instantiation": "true",
     "close_fan_the_first_x_layers": [
         "3"
@@ -137,7 +138,6 @@
     "filament_end_gcode": [
         "; filament end gcode \n"
     ],
-    "from": "system",
     "filament_adhesiveness_category": [
         "300"
     ],
@@ -145,6 +145,7 @@
         "Cool Plate"
     ],
     "setting_id": "yWR45TQhsN5eYgCu",
+    "filament_id": "OFBLktDy",
     "complete_print_exhaust_fan_speed": [
         "0"
     ],
@@ -170,6 +171,5 @@
     "default_filament_colour": "\"\"",
     "compatible_printers": [
         "Creality SPARKX i7 0.4 nozzle"
-    ],
-    "filament_id": "OFBLktDy"
+    ]
 }

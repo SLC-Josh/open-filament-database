@@ -206,5 +206,8 @@
     ],
     "renamed_from": "My Generic PLA",
     "setting_id": "25cn8lVM0gKyKMJJ",
-    "filament_id": "OFDSrzZ8"
+    "filament_id": "OFDSrzZ8",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

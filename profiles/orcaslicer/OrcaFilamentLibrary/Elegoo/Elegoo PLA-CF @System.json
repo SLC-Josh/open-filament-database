@@ -167,12 +167,12 @@
         "0"
     ],
     "filament_id": "OFln72PT",
+    "renamed_from": "Elegoo PLA-CF",
     "setting_id": "cYxM93L2KZBnAuWu",
     "pressure_advance": [
         "0.032"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "renamed_from": "Elegoo PLA-CF"
+    ]
 }

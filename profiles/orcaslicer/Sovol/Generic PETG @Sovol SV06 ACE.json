@@ -206,5 +206,8 @@
     ],
     "renamed_from": "Sovol SV06 ACE PETG",
     "setting_id": "p8fGWNVkT6n5Dv9P",
-    "filament_id": "OFYPdQJh"
+    "filament_id": "OFYPdQJh",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

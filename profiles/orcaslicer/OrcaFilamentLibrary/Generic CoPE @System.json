@@ -203,5 +203,13 @@
         "240"
     ],
     "setting_id": "KlHtaJU2GM0uaRGM",
-    "filament_id": "OFjt9en1"
+    "filament_id": "OFjt9en1",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

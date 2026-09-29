@@ -314,7 +314,6 @@
         "0"
     ],
     "filament_ramming_travel_time": [
-        "0",
         "0"
     ],
     "filament_ramming_travel_time_nc": [
@@ -342,11 +341,9 @@
         "10"
     ],
     "long_retractions_when_ec": [
-        "0",
         "0"
     ],
     "retraction_distances_when_ec": [
-        "0",
         "0"
     ],
     "supertack_plate_temp": [

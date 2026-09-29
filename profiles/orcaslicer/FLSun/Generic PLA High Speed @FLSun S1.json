@@ -37,6 +37,11 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
         "0.98"
     ],
     "reduce_fan_stop_start_freq": [
@@ -146,6 +151,9 @@
     ],
     "setting_id": "ONz6C8a3AMGWxqdK",
     "filament_id": "OFmpMwxS",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_multitool_ramming_flow": [
         "10"
     ],

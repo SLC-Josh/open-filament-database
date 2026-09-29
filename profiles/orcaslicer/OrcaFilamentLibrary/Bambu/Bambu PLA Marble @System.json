@@ -40,7 +40,7 @@
         "100"
     ],
     "filament_cost": [
-        "29.99"
+        "21.99"
     ],
     "filament_density": [
         "1.22"
@@ -52,12 +52,22 @@
         "1.75"
     ],
     "filament_flow_ratio": [
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
+        "0.98",
         "0.98"
     ],
     "filament_is_support": [
         "0"
     ],
     "filament_long_retractions_when_cut": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
         "1"
     ],
     "filament_max_volumetric_speed": [
@@ -82,6 +92,11 @@
         "nil"
     ],
     "filament_retraction_distances_when_cut": [
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
         "18"
     ],
     "filament_retraction_length": [
@@ -203,5 +218,13 @@
         "240"
     ],
     "filament_id": "OF9OlTWH",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "oNGmbbdba2aULYwQ"
 }

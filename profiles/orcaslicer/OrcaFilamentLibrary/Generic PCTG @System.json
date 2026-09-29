@@ -61,7 +61,12 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "12",
+        "18",
+        "18",
+        "12",
+        "15",
+        "15"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -200,5 +205,13 @@
         "220"
     ],
     "setting_id": "21dhMVBuVwR2lzIX",
-    "filament_id": "OFu1evlr"
+    "filament_id": "OFu1evlr",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

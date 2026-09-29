@@ -85,6 +85,11 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
+        "0.8",
         "0.8"
     ],
     "filament_retraction_minimum_travel": [
@@ -209,6 +214,9 @@
         "230"
     ],
     "filament_id": "OF1PznHI",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "setting_id": "OCnoqOQbcfgikNmA",
     "filament_adaptive_volumetric_speed": [
         "1"

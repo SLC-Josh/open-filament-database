@@ -61,6 +61,11 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
+        "7.5",
         "7.5"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -85,6 +90,11 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
         "0.5"
     ],
     "filament_retraction_minimum_travel": [
@@ -205,5 +215,13 @@
     "description": "To make the prints get higher gloss, please dry the filament before use, and set the outer wall speed to be 40 to 60 mm/s when slicing.",
     "renamed_from": "Generic Silk PLA @System",
     "setting_id": "oPkXDCBrTQB3SRm4",
-    "filament_id": "OFesA6rF"
+    "filament_id": "OFesA6rF",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ]
 }

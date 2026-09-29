@@ -205,5 +205,8 @@
     ],
     "renamed_from": "Lulzbot 2.85mm PETG",
     "setting_id": "dqj6O9NIPAaq8wWz",
-    "filament_id": "OFYPdQJh"
+    "filament_id": "OFYPdQJh",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }

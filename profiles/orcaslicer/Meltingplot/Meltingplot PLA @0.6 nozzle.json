@@ -211,6 +211,9 @@
     "renamed_from": "My Generic PLA",
     "setting_id": "hsgzwjPc26BJ4sQu",
     "filament_id": "OFwXRVbB",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "default_filament_colour": [
         "#F8F8F8"
     ]

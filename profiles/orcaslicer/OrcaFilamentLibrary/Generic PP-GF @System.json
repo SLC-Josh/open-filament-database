@@ -61,6 +61,11 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
+        "6",
+        "6",
+        "6",
+        "6",
+        "6",
         "6"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -203,6 +208,14 @@
         "220"
     ],
     "filament_id": "OFsijjtH",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow",
+        "Direct Drive Extra High Flow",
+        "Bowden Standard",
+        "Bowden High Flow",
+        "Bowden Extra High Flow"
+    ],
     "setting_id": "xfVrCZ7ySzkpdzX0",
     "description": "This is neither a commonly used filament, nor one of Bambu filaments, and it varies a lot from brand to brand. So, it's highly recommended to ask its vendor for suitable profile before printing and adjust some parameters according to its performances."
 }

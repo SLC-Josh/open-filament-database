@@ -64,7 +64,12 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "10",
+        "18",
+        "21",
+        "10",
+        "15",
+        "15"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -160,6 +165,9 @@
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",
         "Flashforge Creator 5 Pro 0.8 nozzle"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
     ],
     "activate_air_filtration": [
         "1"

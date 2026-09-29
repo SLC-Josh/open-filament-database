@@ -205,9 +205,9 @@
     "nozzle_temperature_range_low": [
         "230"
     ],
-    "filament_id": "OFYPdQJh",
-    "setting_id": "i4OW2eAtXOKdtVNj",
     "renamed_from": "Sovol Zero PETG",
+    "setting_id": "i4OW2eAtXOKdtVNj",
+    "filament_id": "OFYPdQJh",
     "enable_pressure_advance": [
         "1"
     ],

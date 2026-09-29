@@ -64,7 +64,12 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "12",
+        "18",
+        "18",
+        "12",
+        "18",
+        "18"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -150,6 +155,9 @@
     "renamed_from": "My Generic PLA-CF",
     "setting_id": "xReo12oteZ4ECNJN",
     "filament_id": "OF9cAwMK",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "compatible_printers": [
         "Flashforge Creator 5 Pro 0.4 nozzle",
         "Flashforge Creator 5 Pro 0.6 nozzle",

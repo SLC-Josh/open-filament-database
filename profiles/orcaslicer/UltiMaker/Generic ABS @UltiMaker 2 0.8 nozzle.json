@@ -203,5 +203,8 @@
     ],
     "renamed_from": "My Generic ABS",
     "setting_id": "1VE4ie9s2gYKUx7r",
-    "filament_id": "OFY9muEs"
+    "filament_id": "OFY9muEs",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ]
 }
