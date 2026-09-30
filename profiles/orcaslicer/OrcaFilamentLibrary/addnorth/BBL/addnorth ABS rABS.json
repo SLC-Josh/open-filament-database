@@ -482,6 +482,7 @@
         "1"
     ],
     "enable_pressure_advance": [
+        "0",
         "0"
     ],
     "filament_notes": "File Version:2.6 - V.Pack:18_05_2026",
@@ -492,6 +493,7 @@
         "2"
     ],
     "pressure_advance": [
+        "0.02",
         "0.02"
     ]
 }
