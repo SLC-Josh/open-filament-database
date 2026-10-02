@@ -7,6 +7,8 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
+        "75",
+        "75",
         "75"
     ],
     "chamber_temperatures": [
@@ -64,6 +66,8 @@
         "100"
     ],
     "fan_min_speed": [
+        "80",
+        "80",
         "80"
     ],
     "filament_adaptive_volumetric_speed": [

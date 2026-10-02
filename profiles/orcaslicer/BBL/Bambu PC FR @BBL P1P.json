@@ -61,6 +61,7 @@
         "30"
     ],
     "fan_max_speed": [
+        "20",
         "20"
     ],
     "fan_min_speed": [

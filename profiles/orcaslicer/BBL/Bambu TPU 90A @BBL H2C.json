@@ -7,6 +7,8 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
+        "100",
+        "100",
         "100"
     ],
     "chamber_temperatures": [
@@ -366,6 +368,8 @@
         "225"
     ],
     "nozzle_temperature_range_high": [
+        "250",
+        "250",
         "250"
     ],
     "nozzle_temperature_range_low": [

@@ -201,6 +201,11 @@
     ],
     "compatible_printers": [],
     "additional_cooling_fan_speed": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
         "0"
     ],
     "filament_multitool_ramming_flow": [

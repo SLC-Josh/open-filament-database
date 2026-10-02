@@ -61,9 +61,19 @@
         "30"
     ],
     "fan_max_speed": [
+        "55",
+        "55",
+        "55",
+        "55",
+        "55",
         "55"
     ],
     "fan_min_speed": [
+        "25",
+        "25",
+        "25",
+        "25",
+        "25",
         "25"
     ],
     "filament_adaptive_volumetric_speed": [

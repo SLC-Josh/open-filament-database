@@ -7,6 +7,7 @@
         "1"
     ],
     "additional_cooling_fan_speed": [
+        "70",
         "70"
     ],
     "chamber_temperatures": [
@@ -61,9 +62,11 @@
         "15"
     ],
     "fan_max_speed": [
+        "100",
         "100"
     ],
     "fan_min_speed": [
+        "60",
         "60"
     ],
     "filament_adaptive_volumetric_speed": [
@@ -174,6 +177,7 @@
         "High"
     ],
     "filament_minimal_purge_on_wipe_tower": [
+        "15",
         "15"
     ],
     "filament_pre_cooling_temperature": [

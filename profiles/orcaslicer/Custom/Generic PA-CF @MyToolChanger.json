@@ -236,6 +236,11 @@
         "MyToolChanger 0.8 nozzle"
     ],
     "filament_multitool_ramming_flow": [
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
         "8"
     ],
     "nozzle_temperature_range_high": [
