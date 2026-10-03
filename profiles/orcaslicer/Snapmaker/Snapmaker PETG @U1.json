@@ -145,9 +145,11 @@
         "0"
     ],
     "fan_max_speed": [
+        "20",
         "20"
     ],
     "fan_min_speed": [
+        "0",
         "0"
     ],
     "slow_down_min_speed": [
@@ -196,5 +198,9 @@
     "setting_id": "r7KJB0EPpsknK5iH",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
     ]
 }

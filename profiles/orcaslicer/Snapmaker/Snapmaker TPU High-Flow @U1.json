@@ -46,6 +46,7 @@
         "1"
     ],
     "filament_flow_ratio": [
+        "0.983",
         "0.983"
     ],
     "reduce_fan_stop_start_freq": [
@@ -61,12 +62,14 @@
         "1.24"
     ],
     "filament_deretraction_speed": [
+        "nil",
         "nil"
     ],
     "filament_diameter": [
         "1.75"
     ],
     "filament_max_volumetric_speed": [
+        "7.6",
         "7.6"
     ],
     "filament_minimal_purge_on_wipe_tower": [
@@ -82,6 +85,7 @@
         "0"
     ],
     "filament_retraction_length": [
+        "0.8",
         "0.8"
     ],
     "filament_z_hop": [
@@ -94,6 +98,7 @@
         "nil"
     ],
     "filament_retraction_speed": [
+        "nil",
         "nil"
     ],
     "filament_wipe": [
@@ -145,9 +150,11 @@
         "0"
     ],
     "fan_max_speed": [
+        "70",
         "70"
     ],
     "fan_min_speed": [
+        "70",
         "70"
     ],
     "slow_down_min_speed": [
@@ -187,6 +194,7 @@
         "TPU"
     ],
     "additional_cooling_fan_speed": [
+        "70",
         "70"
     ],
     "nozzle_temperature_range_low": [
@@ -204,5 +212,9 @@
         "Snapmaker U1 (0.4 nozzle)",
         "Snapmaker U1 (0.6 nozzle)",
         "Snapmaker U1 (0.8 nozzle)"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
     ]
 }

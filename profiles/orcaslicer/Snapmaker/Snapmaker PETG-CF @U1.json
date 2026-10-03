@@ -46,7 +46,8 @@
         "2"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.95",
+        "1.01"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -67,10 +68,12 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "6.4"
+        "6.4",
+        "18"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "0"
+        "0",
+        "30"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -82,7 +85,8 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "nil",
+        "0.6"
     ],
     "filament_z_hop": [
         "nil"
@@ -127,16 +131,20 @@
         "60"
     ],
     "filament_multitool_ramming": [
-        "0"
+        "0",
+        "1"
     ],
     "filament_multitool_ramming_volume": [
-        "0"
+        "0",
+        "0.5"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "250",
+        "260"
     ],
     "nozzle_temperature": [
-        "245"
+        "245",
+        "260"
     ],
     "temperature_vitrification": [
         "178"
@@ -145,10 +153,12 @@
         "0"
     ],
     "fan_max_speed": [
-        "20"
+        "20",
+        "40"
     ],
     "fan_min_speed": [
-        "0"
+        "0",
+        "5"
     ],
     "slow_down_min_speed": [
         "10"
@@ -157,10 +167,12 @@
         "6"
     ],
     "enable_pressure_advance": [
-        "0"
+        "0",
+        "1"
     ],
     "pressure_advance": [
-        "0.03"
+        "0.03",
+        "0.028"
     ],
     "cool_plate_temp": [
         "0"
@@ -187,14 +199,32 @@
         "PETG-CF"
     ],
     "nozzle_temperature_range_low": [
-        "220"
+        "220",
+        "240"
     ],
     "nozzle_temperature_range_high": [
-        "255"
+        "255",
+        "270"
     ],
     "filament_id": "OFOwQuZM",
     "setting_id": "i982wlNMSJujh6Vs",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "additional_cooling_fan_speed": [
+        "0",
+        "20"
+    ],
+    "filament_multitool_ramming_flow": [
+        "10",
+        "13"
+    ],
+    "filament_retract_length_toolchange": [
+        "nil",
+        "nil"
     ]
 }

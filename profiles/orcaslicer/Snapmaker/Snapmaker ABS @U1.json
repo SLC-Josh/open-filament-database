@@ -67,10 +67,12 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "8",
+        "22"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "0"
+        "0",
+        "15"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -82,13 +84,15 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.6"
+        "0.6",
+        "0.2"
     ],
     "filament_z_hop": [
         "0.7"
     ],
     "filament_z_hop_types": [
-        "nil"
+        "nil",
+        "Slope Lift"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -127,16 +131,20 @@
         "60"
     ],
     "filament_multitool_ramming": [
-        "0"
+        "0",
+        "1"
     ],
     "filament_multitool_ramming_volume": [
-        "0"
+        "0",
+        "5"
     ],
     "nozzle_temperature_initial_layer": [
-        "260"
+        "260",
+        "280"
     ],
     "nozzle_temperature": [
-        "260"
+        "260",
+        "280"
     ],
     "temperature_vitrification": [
         "189"
@@ -145,10 +153,12 @@
         "0"
     ],
     "fan_max_speed": [
-        "15"
+        "15",
+        "60"
     ],
     "fan_min_speed": [
-        "15"
+        "15",
+        "10"
     ],
     "slow_down_min_speed": [
         "20"
@@ -201,6 +211,19 @@
         "Snapmaker U1 (0.4 nozzle)"
     ],
     "filament_retract_length_toolchange": [
+        "5",
         "5"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "additional_cooling_fan_speed": [
+        "0",
+        "0"
+    ],
+    "filament_multitool_ramming_flow": [
+        "10",
+        "30"
     ]
 }

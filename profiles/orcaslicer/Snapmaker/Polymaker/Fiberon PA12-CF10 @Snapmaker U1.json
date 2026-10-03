@@ -70,6 +70,7 @@
         "8"
     ],
     "filament_minimal_purge_on_wipe_tower": [
+        "15",
         "15"
     ],
     "filament_retraction_minimum_travel": [
@@ -82,9 +83,11 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "1.0",
         "1.0"
     ],
     "filament_z_hop": [
+        "0.0",
         "0.0"
     ],
     "filament_z_hop_types": [
@@ -145,9 +148,11 @@
         "0"
     ],
     "fan_max_speed": [
+        "50",
         "50"
     ],
     "fan_min_speed": [
+        "20",
         "20"
     ],
     "slow_down_min_speed": [
@@ -157,9 +162,11 @@
         "8"
     ],
     "enable_pressure_advance": [
+        "1",
         "1"
     ],
     "pressure_advance": [
+        "0.05",
         "0.05"
     ],
     "cool_plate_temp": [
@@ -199,5 +206,9 @@
     "setting_id": "x3irDyMqwMgklHKg",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
     ]
 }

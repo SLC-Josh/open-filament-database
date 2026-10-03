@@ -46,7 +46,8 @@
         "1"
     ],
     "filament_flow_ratio": [
-        "1"
+        "1",
+        "0.97"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -61,15 +62,18 @@
         "1.37"
     ],
     "filament_deretraction_speed": [
+        "nil",
         "nil"
     ],
     "filament_diameter": [
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "5"
+        "5",
+        "6"
     ],
     "filament_minimal_purge_on_wipe_tower": [
+        "20",
         "20"
     ],
     "filament_retraction_minimum_travel": [
@@ -82,18 +86,21 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.4"
+        "0.4",
+        "0.6"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
+        "Slope Lift",
         "Slope Lift"
     ],
     "filament_retract_restart_extra": [
         "nil"
     ],
     "filament_retraction_speed": [
+        "nil",
         "nil"
     ],
     "filament_wipe": [
@@ -127,15 +134,19 @@
         "3.4"
     ],
     "filament_multitool_ramming": [
+        "1",
         "1"
     ],
     "filament_multitool_ramming_volume": [
+        "0.1",
         "0.1"
     ],
     "nozzle_temperature_initial_layer": [
+        "240",
         "240"
     ],
     "nozzle_temperature": [
+        "240",
         "240"
     ],
     "temperature_vitrification": [
@@ -145,9 +156,11 @@
         "0"
     ],
     "fan_max_speed": [
+        "100",
         "100"
     ],
     "fan_min_speed": [
+        "100",
         "100"
     ],
     "slow_down_min_speed": [
@@ -157,9 +170,11 @@
         "10"
     ],
     "enable_pressure_advance": [
+        "1",
         "1"
     ],
     "pressure_advance": [
+        "0.03",
         "0.03"
     ],
     "cool_plate_temp": [
@@ -190,9 +205,11 @@
         "190"
     ],
     "nozzle_temperature_range_high": [
+        "240",
         "240"
     ],
     "additional_cooling_fan_speed": [
+        "70",
         "70"
     ],
     "filament_id": "OFyhjiNs",
@@ -201,12 +218,23 @@
         "Snapmaker U1 (0.4 nozzle)"
     ],
     "complete_print_exhaust_fan_speed": [
+        "70",
         "70"
     ],
     "during_print_exhaust_fan_speed": [
+        "70",
         "70"
     ],
     "filament_retract_length_toolchange": [
+        "4",
         "4"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_multitool_ramming_flow": [
+        "10",
+        "10"
     ]
 }

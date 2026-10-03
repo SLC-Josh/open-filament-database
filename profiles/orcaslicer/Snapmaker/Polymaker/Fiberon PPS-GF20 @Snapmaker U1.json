@@ -70,6 +70,7 @@
         "8"
     ],
     "filament_minimal_purge_on_wipe_tower": [
+        "15",
         "15"
     ],
     "filament_retraction_minimum_travel": [
@@ -145,9 +146,11 @@
         "0"
     ],
     "fan_max_speed": [
+        "10",
         "10"
     ],
     "fan_min_speed": [
+        "0",
         "0"
     ],
     "slow_down_min_speed": [
@@ -197,11 +200,16 @@
     ],
     "filament_id": "OFeVzkSU",
     "additional_cooling_fan_speed": [
+        "0",
         "0"
     ],
     "setting_id": "7IpyPFHEAOmFlINJ",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
     ],
-    "description": " "
+    "description": " ",
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ]
 }

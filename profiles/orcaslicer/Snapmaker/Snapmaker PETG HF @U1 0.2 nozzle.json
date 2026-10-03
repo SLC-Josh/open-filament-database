@@ -46,7 +46,8 @@
         "3"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.95",
+        "0.955"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -67,7 +68,8 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "1"
+        "1",
+        "2"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -82,12 +84,14 @@
         "nil"
     ],
     "filament_retraction_length": [
+        "1.5",
         "1.5"
     ],
     "filament_z_hop": [
         "nil"
     ],
     "filament_z_hop_types": [
+        "Slope Lift",
         "Slope Lift"
     ],
     "filament_retract_restart_extra": [
@@ -127,15 +131,19 @@
         "3.4"
     ],
     "filament_multitool_ramming": [
+        "1",
         "1"
     ],
     "filament_multitool_ramming_volume": [
+        "5",
         "5"
     ],
     "nozzle_temperature_initial_layer": [
-        "245"
+        "245",
+        "230"
     ],
     "nozzle_temperature": [
+        "245",
         "245"
     ],
     "temperature_vitrification": [
@@ -145,9 +153,11 @@
         "0"
     ],
     "fan_max_speed": [
+        "60",
         "60"
     ],
     "fan_min_speed": [
+        "30",
         "30"
     ],
     "slow_down_min_speed": [
@@ -160,7 +170,8 @@
         "1"
     ],
     "pressure_advance": [
-        "0.03"
+        "0.03",
+        "0.0525"
     ],
     "cool_plate_temp": [
         "0"
@@ -187,6 +198,7 @@
         "PETG"
     ],
     "nozzle_temperature_range_low": [
+        "230",
         "230"
     ],
     "nozzle_temperature_range_high": [
@@ -197,6 +209,7 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
+        "70",
         "70"
     ],
     "chamber_temperatures": [
@@ -290,7 +303,8 @@
         "60"
     ],
     "filament_extruder_variant": [
-        "Direct Drive Standard"
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
     ],
     "filament_scarf_seam_type": [
         "none"
@@ -314,6 +328,7 @@
         "0"
     ],
     "filament_ramming_travel_time": [
+        "0",
         "0"
     ],
     "filament_ramming_travel_time_nc": [
@@ -341,9 +356,11 @@
         "10"
     ],
     "long_retractions_when_ec": [
+        "0",
         "0"
     ],
     "retraction_distances_when_ec": [
+        "0",
         "0"
     ],
     "supertack_plate_temp": [
@@ -375,9 +392,11 @@
     ],
     "setting_id": "Ujul2YTBwfldFiFd",
     "filament_multitool_ramming_flow": [
+        "3",
         "3"
     ],
     "filament_retract_length_toolchange": [
+        "5",
         "5"
     ]
 }
