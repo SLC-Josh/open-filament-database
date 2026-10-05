@@ -133,7 +133,7 @@
         "60"
     ],
     "idle_temperature": [
-        "150"
+        "170"
     ],
     "nozzle_temperature_range_low": [
         "190"
@@ -144,9 +144,9 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "renamed_from": "Prusa Generic PLA @CORE One;Prusa Generic PLA CORE One",
-    "setting_id": "r2i4c7DsYXYIMVCX",
     "filament_id": "OFDSrzZ8",
+    "renamed_from": "Prusa Generic PLA @CORE One;Prusa Generic PLA CORE One;Generic PLA @Prusa CORE One MMU3;Generic PLA @MMU3",
+    "setting_id": "r2i4c7DsYXYIMVCX",
     "chamber_temperature": [
         "20"
     ],
@@ -155,10 +155,11 @@
         "Prusa CORE One 0.3 nozzle",
         "Prusa CORE One 0.4 nozzle",
         "Prusa CORE One 0.5 nozzle",
-        "Prusa CORE One L 0.4 nozzle"
-    ],
-    "filament_notes": [
-        ""
+        "Prusa CORE One L 0.4 nozzle",
+        "Prusa CORE One MMU3 0.4 nozzle",
+        "Prusa CORE One MMU3 0.25 nozzle",
+        "Prusa CORE One MMU3 0.3 nozzle",
+        "Prusa CORE One MMU3 0.6 nozzle"
     ],
     "filament_z_hop_types": [
         "Slope Lift"

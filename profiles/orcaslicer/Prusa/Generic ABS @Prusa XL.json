@@ -102,7 +102,7 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "260"
+        "255"
     ],
     "full_fan_speed_layer": [
         "0"
@@ -132,9 +132,8 @@
         "270"
     ],
     "filament_id": "OFY9muEs",
-    "renamed_from": "Prusa Generic ABS @XL;Prusa Generic ABS XL",
+    "renamed_from": "Prusa Generic ABS @XL;Prusa Generic ABS XL;Generic ABS @Prusa XL 5T;Prusa Generic ABS @XL 5T;Prusa Generic ABS XL 5T",
     "setting_id": "HYHkGEjr6Kid2Xg2",
-    "nozzle_temperature_intial_layer": "255",
     "filament_loading_speed_start": "19",
     "filament_loading_speed": "14",
     "filament_unloading_speed_start": "100",
@@ -149,6 +148,27 @@
         "Prusa XL 0.4 nozzle",
         "Prusa XL 0.5 nozzle",
         "Prusa XL 0.6 nozzle",
-        "Prusa XL 0.8 nozzle"
+        "Prusa XL 0.8 nozzle",
+        "Prusa XL 5T 0.25 nozzle",
+        "Prusa XL 5T 0.3 nozzle",
+        "Prusa XL 5T 0.4 nozzle",
+        "Prusa XL 5T 0.5 nozzle",
+        "Prusa XL 5T 0.6 nozzle",
+        "Prusa XL 5T 0.8 nozzle"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_flow": [
+        "40"
+    ],
+    "filament_multitool_ramming_volume": [
+        "5"
+    ],
+    "filament_stamping_distance": [
+        "45"
+    ],
+    "filament_stamping_loading_speed": [
+        "29"
     ]
 }

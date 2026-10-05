@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Prusament PA-CF @CORE One 0.8",
+    "name": "Prusament PA11 Carbon Fiber @CORE One 0.6",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
@@ -43,7 +43,7 @@
         "0"
     ],
     "fan_cooling_layer_time": [
-        "20"
+        "18"
     ],
     "filament_cost": [
         "124.99"
@@ -58,7 +58,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "10"
+        "8"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "35"
@@ -141,14 +141,15 @@
     "nozzle_temperature_range_high": [
         "300"
     ],
-    "setting_id": "gwFsNIMKGU1f2vPS",
-    "filament_id": "OF54SvEe",
+    "renamed_from": "Prusament PA-CF CORE One 0.6;Prusament PA-CF @CORE One 0.6",
+    "setting_id": "NnKKBWPNEdRvH949",
+    "filament_id": "OF4MZtnE",
     "chamber_temperature": [
         "40"
     ],
     "compatible_printers": [
-        "Prusa CORE One 0.8 nozzle",
-        "Prusa CORE One HF 0.8 nozzle"
+        "Prusa CORE One 0.6 nozzle",
+        "Prusa CORE One HF 0.6 nozzle"
     ],
     "filament_notes": [
         ""

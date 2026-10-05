@@ -121,14 +121,16 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
-    "renamed_from": "Prusa Generic ABS @MK4S;Prusa Generic ABS MK4S",
+    "renamed_from": "Prusa Generic ABS @MK4S;Prusa Generic ABS MK4S;Generic ABS @Prusa MK4S 0.6;Prusa Generic ABS @MK4S 0.6;Prusa Generic ABS MK4S 0.6;Generic ABS @Prusa MK4S 0.8;Prusa Generic ABS @MK4S 0.8;Prusa Generic ABS MK4S 0.8",
     "setting_id": "6xkFvOyWtTQNXYAm",
     "filament_id": "OFY9muEs",
     "compatible_printers": [
         "Prusa MK4S 0.25 nozzle",
         "Prusa MK4S 0.3 nozzle",
         "Prusa MK4S 0.4 nozzle",
-        "Prusa MK4S 0.5 nozzle"
+        "Prusa MK4S 0.5 nozzle",
+        "Prusa MK4S 0.6 nozzle",
+        "Prusa MK4S 0.8 nozzle"
     ],
     "default_filament_colour": "#FFF2EC",
     "filament_notes": [

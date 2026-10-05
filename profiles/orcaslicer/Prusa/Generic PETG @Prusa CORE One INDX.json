@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PETG @Prusa XL 5T",
+    "name": "Generic PETG @Prusa CORE One INDX",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
@@ -9,19 +9,23 @@
     "eng_plate_temp": [
         "0"
     ],
-    "hot_plate_temp": "80",
+    "hot_plate_temp": [
+        "85"
+    ],
     "cool_plate_temp_initial_layer": [
         "60"
     ],
     "eng_plate_temp_initial_layer": [
         "0"
     ],
-    "hot_plate_temp_initial_layer": "80",
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
     "overhang_fan_threshold": [
         "95%"
     ],
     "overhang_fan_speed": [
-        "50"
+        "60"
     ],
     "slow_down_for_layer_cooling": [
         "1"
@@ -39,10 +43,10 @@
         "1"
     ],
     "fan_cooling_layer_time": [
-        "20"
+        "25"
     ],
     "filament_cost": [
-        "30"
+        "27.82"
     ],
     "filament_density": [
         "1.27"
@@ -54,7 +58,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "9"
+        "17"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -62,15 +66,17 @@
     "filament_retraction_minimum_travel": [
         "nil"
     ],
-    "filament_retract_before_wipe": "20%",
+    "filament_retract_before_wipe": [
+        "20"
+    ],
     "filament_retract_when_changing_layer": [
         "nil"
     ],
     "filament_retraction_length": [
-        "nil"
+        "1.6"
     ],
     "filament_z_hop": [
-        "nil"
+        "1"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -90,7 +96,9 @@
     "filament_vendor": [
         "Generic"
     ],
-    "filament_wipe": "1",
+    "filament_wipe": [
+        "1"
+    ],
     "filament_wipe_distance": [
         "nil"
     ],
@@ -98,23 +106,29 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "245"
     ],
-    "full_fan_speed_layer": "5",
+    "full_fan_speed_layer": [
+        "5"
+    ],
     "fan_max_speed": [
-        "50"
+        "65"
     ],
     "fan_min_speed": [
         "30"
     ],
-    "slow_down_min_speed": "15",
+    "slow_down_min_speed": [
+        "20"
+    ],
     "slow_down_layer_time": [
         "9"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nM900 K{if nozzle_diameter[0]==0.4}0.07{elsif nozzle_diameter[0]==0.25}0.12{elsif nozzle_diameter[0]==0.3}0.09{elsif nozzle_diameter[0]==0.35}0.08{elsif nozzle_diameter[0]==0.6}0.04{elsif nozzle_diameter[0]==0.5}0.05{elsif nozzle_diameter[0]==0.8}0.02{else}0{endif} ; Filament gcode\n\n{if printer_notes=~/.*PRINTER_MODEL_XLIS.*/}\nM572 S{if nozzle_diameter[0]==0.4}0.053{elsif nozzle_diameter[0]==0.5}0.042{elsif nozzle_diameter[0]==0.6}0.032{elsif nozzle_diameter[0]==0.8}0.018{elsif nozzle_diameter[0]==0.25}0.18{elsif nozzle_diameter[0]==0.3}0.1{else}0{endif} ; Filament gcode\n{endif}\n\nM142 S36 ; set heatbreak target temp"
+        "; filament start gcode\n"
     ],
-    "nozzle_temperature": "240",
+    "nozzle_temperature": [
+        "240"
+    ],
     "temperature_vitrification": [
         "80"
     ],
@@ -126,38 +140,37 @@
         "260"
     ],
     "filament_id": "OFYPdQJh",
-    "renamed_from": "Prusa Generic PETG @XL 5T;Prusa Generic PETG XL 5T",
-    "setting_id": "DNJECSjW6zKYALxE",
-    "nozzle_temperature_intial_layer": "230",
-    "filament_loading_speed_start": "50",
-    "filament_loading_speed": "10",
-    "filament_unloading_speed_start": "100",
-    "filament_unloading_speed": "100",
-    "filament_cooling_moves": "3",
-    "filament_cooling_initial_speed": "5",
-    "filament_cooling_final_speed": "2.5",
-    "filament_retract_lift_below": "1.5",
-    "filament_multitool_ramming": [
-        "1"
+    "setting_id": "HbevqxqvYHuvRc3v",
+    "filament_notes": [
+        "\nPrusa INDX 2.5.10 tuning."
     ],
-    "filament_multitool_ramming_volume": [
-        "5"
+    "default_filament_colour": [
+        "#FF8000"
     ],
-    "filament_multitool_ramming_flow": [
-        "40"
+    "chamber_temperature": [
+        "35"
     ],
-    "filament_stamping_distance": [
-        "45"
-    ],
-    "filament_stamping_loading_speed": [
-        "29"
+    "filament_retract_length_toolchange": [
+        "1.6"
     ],
     "compatible_printers": [
-        "Prusa XL 5T 0.25 nozzle",
-        "Prusa XL 5T 0.3 nozzle",
-        "Prusa XL 5T 0.4 nozzle",
-        "Prusa XL 5T 0.5 nozzle",
-        "Prusa XL 5T 0.6 nozzle",
-        "Prusa XL 5T 0.8 nozzle"
+        "Prusa CORE One INDX 4T HF 0.4 nozzle",
+        "Prusa CORE One INDX 8T HF 0.4 nozzle"
+    ],
+    "compatible_printers_condition": "",
+    "textured_plate_temp": [
+        "85"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "85"
+    ],
+    "activate_chamber_temp_control": [
+        "1"
+    ],
+    "pressure_advance": [
+        "0.052"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive High Flow"
     ]
 }

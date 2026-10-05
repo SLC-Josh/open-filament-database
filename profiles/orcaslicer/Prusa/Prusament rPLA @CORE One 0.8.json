@@ -133,7 +133,7 @@
         "60"
     ],
     "idle_temperature": [
-        "150"
+        "170"
     ],
     "nozzle_temperature_range_low": [
         "190"
@@ -144,6 +144,7 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "renamed_from": "Prusament rPLA CORE One;Prusament rPLA @CORE One MMU3;Prusament rPLA CORE One MMU3",
     "setting_id": "dNK9a3tZOFeUZm60",
     "filament_id": "OFWRITFw",
     "chamber_temperature": [

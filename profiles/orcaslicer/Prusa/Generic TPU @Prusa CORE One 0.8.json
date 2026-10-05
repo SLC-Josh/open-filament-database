@@ -138,17 +138,20 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "nozzle_temperature_range_low": [
+        "190"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "filament_id": "OFgbpcy9",
     "renamed_from": "Prusa Generic TPU @CORE One 0.8;Prusa Generic TPU CORE One 0.8",
     "setting_id": "LUUEXi6UUk0Zs5Pf",
-    "filament_id": "OFgbpcy9",
     "chamber_temperature": [
         "30"
     ],
     "compatible_printers": [
         "Prusa CORE One 0.8 nozzle",
         "Prusa CORE One HF 0.8 nozzle"
-    ],
-    "filament_notes": [
-        ""
     ]
 }

@@ -141,17 +141,14 @@
     "nozzle_temperature_range_high": [
         "260"
     ],
+    "filament_id": "OFYPdQJh",
     "renamed_from": "Prusa Generic PETG @CORE One HF 0.5;Prusa Generic PETG CORE One HF 0.5",
     "setting_id": "6HiIOGURZWwman1l",
-    "filament_id": "OFYPdQJh",
     "chamber_temperature": [
         "35"
     ],
     "compatible_printers": [
         "Prusa CORE One HF 0.5 nozzle"
-    ],
-    "filament_notes": [
-        ""
     ],
     "filament_z_hop_types": [
         "Slope Lift"

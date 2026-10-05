@@ -98,7 +98,7 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "230"
     ],
     "full_fan_speed_layer": "5",
     "fan_max_speed": [
@@ -126,9 +126,8 @@
         "260"
     ],
     "filament_id": "OFYPdQJh",
-    "renamed_from": "Prusa Generic PETG @XL;Prusa Generic PETG XL",
+    "renamed_from": "Prusa Generic PETG @XL;Prusa Generic PETG XL;Generic PETG @Prusa XL 5T;Prusa Generic PETG @XL 5T;Prusa Generic PETG XL 5T",
     "setting_id": "8vcNv4b4H7aYA01G",
-    "nozzle_temperature_intial_layer": "230",
     "filament_loading_speed_start": "50",
     "filament_loading_speed": "10",
     "filament_unloading_speed_start": "100",
@@ -143,6 +142,27 @@
         "Prusa XL 0.4 nozzle",
         "Prusa XL 0.5 nozzle",
         "Prusa XL 0.6 nozzle",
-        "Prusa XL 0.8 nozzle"
+        "Prusa XL 0.8 nozzle",
+        "Prusa XL 5T 0.25 nozzle",
+        "Prusa XL 5T 0.3 nozzle",
+        "Prusa XL 5T 0.4 nozzle",
+        "Prusa XL 5T 0.5 nozzle",
+        "Prusa XL 5T 0.6 nozzle",
+        "Prusa XL 5T 0.8 nozzle"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_flow": [
+        "40"
+    ],
+    "filament_multitool_ramming_volume": [
+        "5"
+    ],
+    "filament_stamping_distance": [
+        "45"
+    ],
+    "filament_stamping_loading_speed": [
+        "29"
     ]
 }

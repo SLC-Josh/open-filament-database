@@ -1,25 +1,25 @@
 {
     "type": "filament",
-    "name": "Prusament PVB @CORE One MMU3",
+    "name": "Pragostroj PETG @Pragostroj 0.5 nozzle",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "35"
+        "60"
     ],
     "eng_plate_temp": [
-        "0"
+        "60"
     ],
     "hot_plate_temp": [
-        "75"
+        "80"
     ],
     "cool_plate_temp_initial_layer": [
-        "35"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "75"
+        "80"
     ],
     "overhang_fan_threshold": [
         "50%"
@@ -34,22 +34,22 @@
         "1"
     ],
     "filament_end_gcode": [
-        "; Filament-specific end gcode"
+        "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.95"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
     ],
     "fan_cooling_layer_time": [
-        "40"
+        "20"
     ],
     "filament_cost": [
-        "49.98"
+        "20"
     ],
     "filament_density": [
-        "1.09"
+        "1.27"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -58,7 +58,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "22"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -76,7 +76,7 @@
         "nil"
     ],
     "filament_z_hop": [
-        "0.6"
+        "nil"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -85,16 +85,16 @@
         "nil"
     ],
     "filament_settings_id": [
-        ""
+        "Pragostroj PETG @Pragostroj 0.5 nozzle"
     ],
     "filament_soluble": [
-        "1"
+        "0"
     ],
     "filament_type": [
-        "PVB"
+        "PETG"
     ],
     "filament_vendor": [
-        "Prusa Polymers"
+        "Pragostroj"
     ],
     "filament_wipe": [
         "nil"
@@ -106,95 +106,54 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "240"
     ],
     "full_fan_speed_layer": [
-        "3"
+        "0"
     ],
     "fan_max_speed": [
         "100"
     ],
     "fan_min_speed": [
-        "85"
+        "30"
     ],
     "slow_down_min_speed": [
-        "20"
+        "5"
     ],
     "slow_down_layer_time": [
         "8"
     ],
     "filament_start_gcode": [
-        "M572 S{if nozzle_diameter[filament_extruder_id]==0.4}0.036{elsif nozzle_diameter[filament_extruder_id]==0.5}0.025{elsif nozzle_diameter[filament_extruder_id]==0.6}0.022{elsif nozzle_diameter[filament_extruder_id]==0.8}0.014{elsif nozzle_diameter[filament_extruder_id]==0.25}0.12{elsif nozzle_diameter[filament_extruder_id]==0.3}0.08{else}0{endif} ; Filament gcode\n\nM142 S36 ; set heatbreak target temp"
+        "; filament start gcode\n"
     ],
     "nozzle_temperature": [
-        "215"
+        "240"
     ],
     "temperature_vitrification": [
-        "50"
-    ],
-    "filament_is_support": [
-        "1"
-    ],
-    "idle_temperature": [
-        "170"
-    ],
-    "nozzle_temperature_range_low": [
-        "190"
-    ],
-    "nozzle_temperature_range_high": [
-        "250"
-    ],
-    "additional_cooling_fan_speed": [
         "70"
     ],
-    "setting_id": "IXUO4uCgUY1p5jIo",
-    "filament_id": "OFh7mvPO",
-    "chamber_temperature": [
-        "20"
+    "nozzle_temperature_range_low": [
+        "220"
     ],
-    "compatible_printers": [
-        "Prusa CORE One MMU3 0.4 nozzle",
-        "Prusa CORE One MMU3 0.25 nozzle",
-        "Prusa CORE One MMU3 0.3 nozzle",
-        "Prusa CORE One MMU3 0.6 nozzle"
+    "nozzle_temperature_range_high": [
+        "260"
     ],
-    "filament_notes": [
-        ""
+    "idle_temperature": [
+        "0"
     ],
-    "filament_z_hop_types": [
-        "Slope Lift"
+    "setting_id": "LXUXFNc2wMJfsv1D",
+    "filament_id": "OFXNhQHm",
+    "enable_pressure_advance": [
+        "1"
     ],
-    "filament_cooling_final_speed": [
-        "3.5"
-    ],
-    "filament_cooling_initial_speed": [
-        "10"
-    ],
-    "filament_cooling_moves": [
-        "2"
-    ],
-    "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_loading_speed": [
-        "10"
-    ],
-    "filament_loading_speed_start": [
-        "50"
+    "pressure_advance": [
+        "0.12"
     ],
     "filament_ramming_parameters": [
-        "250 100 40.1613 40.3548 40.4516 40.3548 40.2581| 0.05 40.1483 0.45 40.3419 0.95 40.3419 1.45 40.3419 1.95 40.3419 2.45 40.3419 2.95 40.3419 3.45 40.3419 3.95 40.3419 4.45 40.3419 4.95 40.3419"
+        "120 100 6.6 6.8 7.2 7.6 7.9 8.2 8.7 9.4 9.9 10.0| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
     ],
-    "filament_stamping_distance": [
-        "45"
-    ],
-    "filament_stamping_loading_speed": [
-        "29"
-    ],
-    "filament_unloading_speed": [
-        "40"
-    ],
-    "filament_unloading_speed_start": [
-        "30"
+    "compatible_printers": [
+        "KINARB 1HB 0.5 nozzle",
+        "KINARB 2HB 0.5 nozzle"
     ]
 }

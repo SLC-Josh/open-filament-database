@@ -1,27 +1,31 @@
 {
     "type": "filament",
-    "name": "Prusament PC-CF @XL",
+    "name": "Prusament PA11 Carbon Fiber @CORE One 0.8",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
         "0"
     ],
     "eng_plate_temp": [
-        "110"
+        "100"
     ],
-    "hot_plate_temp": "105",
+    "hot_plate_temp": [
+        "115"
+    ],
     "cool_plate_temp_initial_layer": [
         "0"
     ],
     "eng_plate_temp_initial_layer": [
-        "110"
+        "100"
     ],
-    "hot_plate_temp_initial_layer": "100",
+    "hot_plate_temp_initial_layer": [
+        "90"
+    ],
     "overhang_fan_threshold": [
-        "25%"
+        "95%"
     ],
     "overhang_fan_speed": [
-        "30"
+        "20"
     ],
     "slow_down_for_layer_cooling": [
         "1"
@@ -30,22 +34,22 @@
         "4"
     ],
     "filament_end_gcode": [
-        "; filament end gcode \n"
+        "; Filament-specific end gcode"
     ],
     "filament_flow_ratio": [
-        "1.04"
+        "1.05"
     ],
     "reduce_fan_stop_start_freq": [
-        "1"
+        "0"
     ],
     "fan_cooling_layer_time": [
-        "30"
-    ],
-    "filament_cost": [
         "20"
     ],
+    "filament_cost": [
+        "124.99"
+    ],
     "filament_density": [
-        "1.04"
+        "1.11"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -54,10 +58,10 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "8"
+        "10"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "15"
+        "35"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -72,7 +76,7 @@
         "nil"
     ],
     "filament_z_hop": [
-        "nil"
+        "0.2"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -87,7 +91,7 @@
         "0"
     ],
     "filament_type": [
-        "PC-CF"
+        "PA11-CF"
     ],
     "filament_vendor": [
         "Prusa Polymers"
@@ -102,16 +106,16 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "270"
+        "275"
     ],
     "full_fan_speed_layer": [
         "0"
     ],
     "fan_max_speed": [
-        "10"
+        "20"
     ],
     "fan_min_speed": [
-        "10"
+        "15"
     ],
     "slow_down_min_speed": [
         "15"
@@ -120,36 +124,34 @@
         "20"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nM900 K{if nozzle_diameter[0]==0.4}0.07{elsif nozzle_diameter[0]==0.3}0.09{elsif nozzle_diameter[0]==0.35}0.08{elsif nozzle_diameter[0]==0.6}0.04{elsif nozzle_diameter[0]==0.5}0.05{elsif nozzle_diameter[0]==0.8}0.02{else}0{endif} ; Filament gcode\n\n{if printer_notes=~/.*PRINTER_MODEL_XLIS.*/}\nM572 S{if nozzle_diameter[0]==0.4}0.05{elsif nozzle_diameter[0]==0.5}0.035{elsif nozzle_diameter[0]==0.6}0.025{elsif nozzle_diameter[0]==0.8}0.016{elsif nozzle_diameter[0]==0.25}0.14{elsif nozzle_diameter[0]==0.3}0.09{else}0{endif} ; Filament gcode\n{endif}\n\nM142 S45 ; set heatbreak target temp"
+        "M900 K{if nozzle_diameter[filament_extruder_id]==0.4}0.07{elsif nozzle_diameter[filament_extruder_id]==0.3}0.09{elsif nozzle_diameter[filament_extruder_id]==0.35}0.08{elsif nozzle_diameter[filament_extruder_id]==0.6}0.04{elsif nozzle_diameter[filament_extruder_id]==0.5}0.05{elsif nozzle_diameter[filament_extruder_id]==0.8}0.02{else}0{endif} ; Filament gcode\n\n{if printer_notes=~/.*(MK4IS|XLIS|MK4S|MK3.9S|CORE One).*/}\nM572 S{if nozzle_diameter[filament_extruder_id]==0.4}0.05{elsif nozzle_diameter[filament_extruder_id]==0.5}0.035{elsif nozzle_diameter[filament_extruder_id]==0.6}0.025{elsif nozzle_diameter[filament_extruder_id]==0.8}0.016{elsif nozzle_diameter[filament_extruder_id]==0.25}0.14{elsif nozzle_diameter[filament_extruder_id]==0.3}0.09{else}0{endif} ; Filament gcode\n{endif}\n\nM142 S45 ; set heatbreak target temp"
     ],
-    "nozzle_temperature": "285",
+    "nozzle_temperature": [
+        "285"
+    ],
     "temperature_vitrification": [
-        "140"
+        "108"
     ],
-    "idle_temperature": "0",
+    "idle_temperature": [
+        "130"
+    ],
     "nozzle_temperature_range_low": [
-        "260"
+        "270"
     ],
     "nozzle_temperature_range_high": [
-        "280"
+        "300"
     ],
-    "setting_id": "Eq5x2CcEUUAZ5aof",
-    "filament_id": "OFjz0a3m",
-    "nozzle_temperature_intial_layer": "285",
-    "filament_loading_speed_start": "19",
-    "filament_loading_speed": "14",
-    "filament_unloading_speed_start": "100",
-    "filament_unloading_speed": "20",
-    "filament_cooling_moves": "5",
-    "filament_cooling_initial_speed": "10",
-    "filament_cooling_final_speed": "50",
-    "filament_retract_lift_below": "1.5",
+    "renamed_from": "Prusament PA-CF CORE One 0.8;Prusament PA-CF @CORE One 0.8",
+    "setting_id": "pf0wt2nXYdq9bDfT",
+    "filament_id": "OF4MZtnE",
+    "chamber_temperature": [
+        "40"
+    ],
     "compatible_printers": [
-        "Prusa XL 0.25 nozzle",
-        "Prusa XL 0.3 nozzle",
-        "Prusa XL 0.4 nozzle",
-        "Prusa XL 0.5 nozzle",
-        "Prusa XL 0.6 nozzle",
-        "Prusa XL 0.8 nozzle"
+        "Prusa CORE One 0.8 nozzle",
+        "Prusa CORE One HF 0.8 nozzle"
+    ],
+    "filament_notes": [
+        ""
     ]
 }

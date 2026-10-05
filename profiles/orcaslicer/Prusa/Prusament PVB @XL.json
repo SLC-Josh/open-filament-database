@@ -102,7 +102,7 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "215"
     ],
     "full_fan_speed_layer": [
         "3"
@@ -137,9 +137,9 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "renamed_from": "Prusament PVB XL;Prusament PVB @XL 5T;Prusament PVB XL 5T",
     "setting_id": "RF55nfxQwqUqe00Q",
     "filament_id": "OFh7mvPO",
-    "nozzle_temperature_intial_layer": "215",
     "filament_loading_speed_start": "50",
     "filament_loading_speed": "10",
     "filament_unloading_speed_start": "100",
@@ -154,6 +154,27 @@
         "Prusa XL 0.4 nozzle",
         "Prusa XL 0.5 nozzle",
         "Prusa XL 0.6 nozzle",
-        "Prusa XL 0.8 nozzle"
+        "Prusa XL 0.8 nozzle",
+        "Prusa XL 5T 0.25 nozzle",
+        "Prusa XL 5T 0.3 nozzle",
+        "Prusa XL 5T 0.4 nozzle",
+        "Prusa XL 5T 0.5 nozzle",
+        "Prusa XL 5T 0.6 nozzle",
+        "Prusa XL 5T 0.8 nozzle"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_flow": [
+        "40"
+    ],
+    "filament_multitool_ramming_volume": [
+        "5"
+    ],
+    "filament_stamping_distance": [
+        "45"
+    ],
+    "filament_stamping_loading_speed": [
+        "29"
     ]
 }

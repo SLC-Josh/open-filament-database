@@ -141,16 +141,13 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
+    "filament_id": "OFY9muEs",
     "renamed_from": "Prusa Generic ABS @CORE One HF 0.6;Prusa Generic ABS CORE One HF 0.6",
     "setting_id": "gJhX2KBpk4wfXIj0",
-    "filament_id": "OFY9muEs",
     "chamber_temperature": [
         "40"
     ],
     "compatible_printers": [
         "Prusa CORE One HF 0.6 nozzle"
-    ],
-    "filament_notes": [
-        ""
     ]
 }

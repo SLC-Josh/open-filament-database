@@ -141,9 +141,9 @@
     "nozzle_temperature_range_high": [
         "270"
     ],
-    "renamed_from": "Prusa Generic ABS @CORE One;Prusa Generic ABS CORE One",
-    "setting_id": "0k31oXq1pLQsHvrj",
     "filament_id": "OFY9muEs",
+    "renamed_from": "Prusa Generic ABS @CORE One;Prusa Generic ABS CORE One;Generic ABS @Prusa CORE One MMU3;Generic ABS @MMU3;Generic ABS @Prusa CORE One 0.6;Prusa Generic ABS @CORE One 0.6;Prusa Generic ABS CORE One 0.6",
+    "setting_id": "0k31oXq1pLQsHvrj",
     "chamber_temperature": [
         "40"
     ],
@@ -151,9 +151,11 @@
         "Prusa CORE One 0.25 nozzle",
         "Prusa CORE One 0.3 nozzle",
         "Prusa CORE One 0.4 nozzle",
-        "Prusa CORE One 0.5 nozzle"
-    ],
-    "filament_notes": [
-        ""
+        "Prusa CORE One 0.5 nozzle",
+        "Prusa CORE One MMU3 0.4 nozzle",
+        "Prusa CORE One MMU3 0.25 nozzle",
+        "Prusa CORE One MMU3 0.3 nozzle",
+        "Prusa CORE One MMU3 0.6 nozzle",
+        "Prusa CORE One 0.6 nozzle"
     ]
 }

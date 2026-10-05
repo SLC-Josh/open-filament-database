@@ -1,40 +1,40 @@
 {
     "type": "filament",
-    "name": "Generic PETG @Prusa CORE One MMU3",
+    "name": "Prusament PLA @Prusa CORE One INDX",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
-        "60"
+        "35"
     ],
     "eng_plate_temp": [
         "0"
     ],
     "hot_plate_temp": [
-        "85"
+        "60"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "35"
     ],
     "eng_plate_temp_initial_layer": [
         "0"
     ],
     "hot_plate_temp_initial_layer": [
-        "85"
+        "60"
     ],
     "overhang_fan_threshold": [
-        "95%"
+        "50%"
     ],
     "overhang_fan_speed": [
-        "60"
+        "100"
     ],
     "slow_down_for_layer_cooling": [
         "1"
     ],
     "close_fan_the_first_x_layers": [
-        "3"
+        "1"
     ],
     "filament_end_gcode": [
-        "; Filament-specific end gcode"
+        "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
         "1"
@@ -43,13 +43,13 @@
         "1"
     ],
     "fan_cooling_layer_time": [
-        "25"
+        "40"
     ],
     "filament_cost": [
-        "27.82"
+        "27.99"
     ],
     "filament_density": [
-        "1.27"
+        "1.24"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -58,16 +58,16 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "28"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "35"
+        "15"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retract_before_wipe": [
-        "20"
+        "70%"
     ],
     "filament_retract_when_changing_layer": [
         "nil"
@@ -76,7 +76,7 @@
         "0.8"
     ],
     "filament_z_hop": [
-        "1.5"
+        "0.8"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -91,10 +91,10 @@
         "0"
     ],
     "filament_type": [
-        "PETG"
+        "PLA"
     ],
     "filament_vendor": [
-        "Generic"
+        "Prusa Polymers"
     ],
     "filament_wipe": [
         "1"
@@ -106,90 +106,82 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "240"
+        "230"
     ],
     "full_fan_speed_layer": [
-        "5"
+        "3"
     ],
     "fan_max_speed": [
-        "60"
+        "100"
     ],
     "fan_min_speed": [
-        "30"
+        "100"
     ],
     "slow_down_min_speed": [
-        "15"
+        "20"
     ],
     "slow_down_layer_time": [
         "9"
     ],
     "filament_start_gcode": [
-        "M572 S{if nozzle_diameter[filament_extruder_id]==0.4}0.053{elsif nozzle_diameter[filament_extruder_id]==0.5}0.042{elsif nozzle_diameter[filament_extruder_id]==0.6}0.032{elsif nozzle_diameter[filament_extruder_id]==0.8}0.018{elsif nozzle_diameter[filament_extruder_id]==0.25}0.18{elsif nozzle_diameter[filament_extruder_id]==0.3}0.1{else}0{endif} ; Filament gcode\n\nM142 S36 ; set heatbreak target temp"
+        "; filament start gcode\n"
     ],
     "nozzle_temperature": [
-        "240"
+        "225"
     ],
     "temperature_vitrification": [
-        "80"
+        "60"
     ],
     "idle_temperature": [
-        "130"
+        "0"
     ],
     "nozzle_temperature_range_low": [
-        "220"
+        "190"
     ],
     "nozzle_temperature_range_high": [
-        "260"
+        "230"
     ],
-    "renamed_from": "Prusa Generic PETG @CORE One;Prusa Generic PETG CORE One",
-    "setting_id": "JutuB6ct5A1l2Biz",
-    "filament_id": "OFYPdQJh",
+    "additional_cooling_fan_speed": [
+        "70"
+    ],
+    "setting_id": "B2UB9QUbbjpn12Ka",
+    "filament_id": "OFnO4wnf",
+    "filament_notes": [
+        "\nPrusa INDX 2.5.10 tuning."
+    ],
+    "default_filament_colour": [
+        "#FF8000"
+    ],
     "chamber_temperature": [
-        "35"
+        "20"
+    ],
+    "chamber_minimal_temperature": [
+        "0"
+    ],
+    "filament_retract_length_toolchange": [
+        "0.8"
     ],
     "compatible_printers": [
-        "Prusa CORE One MMU3 0.4 nozzle",
-        "Prusa CORE One MMU3 0.25 nozzle",
-        "Prusa CORE One MMU3 0.3 nozzle",
-        "Prusa CORE One MMU3 0.6 nozzle"
+        "Prusa CORE One INDX 4T HF 0.4 nozzle",
+        "Prusa CORE One INDX 8T HF 0.4 nozzle"
     ],
-    "filament_notes": [
-        ""
+    "compatible_printers_condition": "",
+    "enable_overhang_bridge_fan": [
+        "1"
     ],
-    "filament_z_hop_types": [
-        "Slope Lift"
+    "textured_plate_temp": [
+        "60"
     ],
-    "filament_cooling_final_speed": [
-        "2.5"
+    "textured_plate_temp_initial_layer": [
+        "60"
     ],
-    "filament_cooling_initial_speed": [
-        "5"
+    "activate_chamber_temp_control": [
+        "1"
     ],
-    "filament_cooling_moves": [
-        "3"
+    "pressure_advance": [
+        "0.038"
     ],
     "filament_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "filament_loading_speed": [
-        "10"
-    ],
-    "filament_loading_speed_start": [
-        "50"
-    ],
-    "filament_ramming_parameters": [
-        "250 100 42.4194 42.4194 42.4194 42.4194 42.4194| 0.05 42.4387 0.45 42.4387 0.95 42.4387 1.45 42.4387 1.95 42.4387 2.45 42.4387 2.95 42.4387 3.45 42.4387 3.95 42.4387 4.45 42.4387 4.95 42.4387"
-    ],
-    "filament_stamping_distance": [
-        "45"
-    ],
-    "filament_stamping_loading_speed": [
-        "26.5"
-    ],
-    "filament_unloading_speed": [
-        "60"
-    ],
-    "filament_unloading_speed_start": [
-        "60"
+        "Direct Drive High Flow"
     ]
 }

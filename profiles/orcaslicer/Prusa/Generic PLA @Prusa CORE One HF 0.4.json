@@ -133,7 +133,7 @@
         "60"
     ],
     "idle_temperature": [
-        "150"
+        "170"
     ],
     "nozzle_temperature_range_low": [
         "190"
@@ -144,18 +144,15 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "filament_id": "OFDSrzZ8",
     "renamed_from": "Prusa Generic PLA @CORE One HF 0.4;Prusa Generic PLA CORE One HF 0.4",
     "setting_id": "vniEPaoyABoAfLFa",
-    "filament_id": "OFDSrzZ8",
     "chamber_temperature": [
         "20"
     ],
     "compatible_printers": [
         "Prusa CORE One HF 0.4 nozzle",
         "Prusa CORE One L HF 0.4 nozzle"
-    ],
-    "filament_notes": [
-        ""
     ],
     "filament_z_hop_types": [
         "Slope Lift"

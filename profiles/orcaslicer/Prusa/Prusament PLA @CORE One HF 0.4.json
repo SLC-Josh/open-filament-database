@@ -133,7 +133,7 @@
         "60"
     ],
     "idle_temperature": [
-        "150"
+        "170"
     ],
     "nozzle_temperature_range_low": [
         "190"
@@ -144,6 +144,7 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "renamed_from": "Prusament PLA CORE One;Prusament PLA @CORE One MMU3;Prusament PLA CORE One MMU3",
     "setting_id": "mf4Muog4IcsgkYoA",
     "filament_id": "OFnO4wnf",
     "chamber_temperature": [

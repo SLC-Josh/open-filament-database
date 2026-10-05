@@ -138,9 +138,15 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "renamed_from": "Prusa Generic TPU @CORE One;Prusa Generic TPU CORE One",
-    "setting_id": "jsXqf9CeaXCvsrWM",
+    "nozzle_temperature_range_low": [
+        "190"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
     "filament_id": "OFgbpcy9",
+    "renamed_from": "Prusa Generic TPU @CORE One;Prusa Generic TPU CORE One;Generic TPU @Prusa CORE One MMU3;Generic TPU @MMU3",
+    "setting_id": "jsXqf9CeaXCvsrWM",
     "chamber_temperature": [
         "30"
     ],
@@ -150,9 +156,10 @@
         "Prusa CORE One 0.4 nozzle",
         "Prusa CORE One 0.5 nozzle",
         "Prusa CORE One HF 0.4 nozzle",
-        "Prusa CORE One HF 0.5 nozzle"
-    ],
-    "filament_notes": [
-        ""
+        "Prusa CORE One HF 0.5 nozzle",
+        "Prusa CORE One MMU3 0.4 nozzle",
+        "Prusa CORE One MMU3 0.25 nozzle",
+        "Prusa CORE One MMU3 0.3 nozzle",
+        "Prusa CORE One MMU3 0.6 nozzle"
     ]
 }
