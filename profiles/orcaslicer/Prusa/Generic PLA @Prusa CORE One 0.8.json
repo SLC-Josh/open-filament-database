@@ -147,6 +147,9 @@
     "filament_id": "OFDSrzZ8",
     "renamed_from": "Prusa Generic PLA @CORE One 0.8;Prusa Generic PLA CORE One 0.8",
     "setting_id": "aBengWdqRXg9i2sx",
+    "include": [
+        "fdm_filament_template_nextruder_pla"
+    ],
     "chamber_temperature": [
         "20"
     ],

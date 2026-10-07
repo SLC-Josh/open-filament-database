@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Prusament PLA @CORE One 0.6",
+    "name": "Generic PLA @Prusa MK4 MMU3",
     "from": "system",
     "instantiation": "true",
     "cool_plate_temp": [
@@ -34,19 +34,19 @@
         "1"
     ],
     "filament_end_gcode": [
-        "; Filament-specific end gcode"
+        "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.98"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
     ],
     "fan_cooling_layer_time": [
-        "40"
+        "100"
     ],
     "filament_cost": [
-        "27.99"
+        "20"
     ],
     "filament_density": [
         "1.24"
@@ -58,7 +58,7 @@
         "1.75"
     ],
     "filament_max_volumetric_speed": [
-        "15.5"
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -76,7 +76,7 @@
         "nil"
     ],
     "filament_z_hop": [
-        "0.6"
+        "nil"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -94,7 +94,7 @@
         "PLA"
     ],
     "filament_vendor": [
-        "Prusa Polymers"
+        "Generic"
     ],
     "filament_wipe": [
         "nil"
@@ -106,25 +106,25 @@
         "Cool Plate"
     ],
     "nozzle_temperature_initial_layer": [
-        "230"
+        "220"
     ],
     "full_fan_speed_layer": [
-        "3"
+        "0"
     ],
     "fan_max_speed": [
         "100"
     ],
     "fan_min_speed": [
-        "85"
+        "100"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "slow_down_layer_time": [
-        "15"
+        "8"
     ],
     "filament_start_gcode": [
-        "M900 K{if nozzle_diameter[filament_extruder_id]==0.4}0.05{elsif nozzle_diameter[filament_extruder_id]==0.25}0.14{elsif nozzle_diameter[filament_extruder_id]==0.3}0.07{elsif nozzle_diameter[filament_extruder_id]==0.35}0.06{elsif nozzle_diameter[filament_extruder_id]==0.6}0.03{elsif nozzle_diameter[filament_extruder_id]==0.5}0.035{elsif nozzle_diameter[filament_extruder_id]==0.8}0.015{else}0{endif} ; Filament gcode\n\n{if printer_notes=~/.*(MK4IS|XLIS|MK4S|MK3.9S|CORE One|CORE One L).*/}\nM572 S{if nozzle_diameter[filament_extruder_id]==0.4}0.036{elsif nozzle_diameter[filament_extruder_id]==0.5}0.025{elsif nozzle_diameter[filament_extruder_id]==0.6}0.022{elsif nozzle_diameter[filament_extruder_id]==0.8}0.014{elsif nozzle_diameter[filament_extruder_id]==0.25}0.12{elsif nozzle_diameter[filament_extruder_id]==0.3}0.08{else}0{endif} ; Filament gcode\n{endif}\n\nM142 S36 ; set heatbreak target temp"
+        "; filament start gcode\nM900 K{if nozzle_diameter[0]==0.4}0.026{elsif nozzle_diameter[0]==0.25}0.14{elsif nozzle_diameter[0]==0.3}0.07{elsif nozzle_diameter[0]==0.35}0.06{elsif nozzle_diameter[0]==0.6}0.03{elsif nozzle_diameter[0]==0.5}0.035{elsif nozzle_diameter[0]==0.8}0.015{else}0{endif} ; Filament gcode\n\n{if printer_notes=~/.*PRINTER_MODEL_MK4IS.*/}\nM572 S{if nozzle_diameter[0]==0.4}0.026{elsif nozzle_diameter[0]==0.5}0.025{elsif nozzle_diameter[0]==0.6}0.02{elsif nozzle_diameter[0]==0.8}0.014{elsif nozzle_diameter[0]==0.25}0.12{elsif nozzle_diameter[0]==0.3}0.08{else}0{endif} ; Filament gcode\n{endif}\n\nM142 S36 ; set heatbreak target temp"
     ],
     "nozzle_temperature": [
         "220"
@@ -132,9 +132,7 @@
     "temperature_vitrification": [
         "60"
     ],
-    "idle_temperature": [
-        "170"
-    ],
+    "idle_temperature": "0",
     "nozzle_temperature_range_low": [
         "190"
     ],
@@ -144,28 +142,18 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
-    "renamed_from": "Prusament PLA CORE One;Prusament PLA @CORE One MMU3;Prusament PLA CORE One MMU3",
-    "setting_id": "jGHl1i9Y1oJsLQY8",
-    "filament_id": "OFnO4wnf",
-    "include": [
-        "fdm_filament_template_nextruder_pla"
-    ],
-    "chamber_temperature": [
-        "20"
+    "filament_id": "OFDSrzZ8",
+    "renamed_from": "Prusa Generic PLA @MK4;Prusa Generic PLA MK4",
+    "setting_id": "kZvIh84niJ487FsY",
+    "filament_ramming_parameters": [
+        "250 100 40 40 40 40 40 | 0.05 40 0.45 40 0.95 40 1.45 40 1.95 40 2.45 40 2.95 40 3.45 40 3.95 40 4.45 40 4.95 40"
     ],
     "compatible_printers": [
-        "Prusa CORE One 0.6 nozzle"
+        "Prusa MK4 MMU3 0.4 nozzle",
+        "Prusa MK4 MMU3 0.6 nozzle",
+        "Prusa MK4 MMU3 HF0.4 nozzle"
     ],
-    "filament_notes": [
-        ""
-    ],
-    "filament_z_hop_types": [
-        "Slope Lift"
-    ],
-    "filament_unloading_speed": [
-        "100"
-    ],
-    "filament_unloading_speed_start": [
-        "100"
+    "include": [
+        "fdm_filament_template_nextruder_pla"
     ]
 }

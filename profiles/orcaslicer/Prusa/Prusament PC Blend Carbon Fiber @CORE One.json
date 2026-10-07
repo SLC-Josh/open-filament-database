@@ -144,6 +144,9 @@
     "renamed_from": "Prusament PC-CF CORE One;Prusament PC-CF @CORE One MMU3;Prusament PC-CF CORE One MMU3;Prusament PC-CF @CORE One",
     "setting_id": "B8Cm9l8i9osp5J2q",
     "filament_id": "OFdO6vpt",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "chamber_temperature": [
         "40"
     ],

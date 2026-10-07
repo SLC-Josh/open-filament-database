@@ -144,6 +144,9 @@
     "filament_id": "OFY9muEs",
     "renamed_from": "Prusa Generic ABS @CORE One HF 0.8;Prusa Generic ABS CORE One HF 0.8",
     "setting_id": "JbGYSVdZTeFJXaVk",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "chamber_temperature": [
         "40"
     ],

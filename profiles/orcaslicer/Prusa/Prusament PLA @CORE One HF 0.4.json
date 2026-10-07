@@ -147,6 +147,9 @@
     "renamed_from": "Prusament PLA CORE One;Prusament PLA @CORE One MMU3;Prusament PLA CORE One MMU3",
     "setting_id": "mf4Muog4IcsgkYoA",
     "filament_id": "OFnO4wnf",
+    "include": [
+        "fdm_filament_template_nextruder_pla_hf"
+    ],
     "chamber_temperature": [
         "20"
     ],
@@ -159,5 +162,11 @@
     ],
     "filament_z_hop_types": [
         "Slope Lift"
+    ],
+    "filament_unloading_speed": [
+        "100"
+    ],
+    "filament_unloading_speed_start": [
+        "100"
     ]
 }

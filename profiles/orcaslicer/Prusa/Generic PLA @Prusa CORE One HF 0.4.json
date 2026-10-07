@@ -147,6 +147,9 @@
     "filament_id": "OFDSrzZ8",
     "renamed_from": "Prusa Generic PLA @CORE One HF 0.4;Prusa Generic PLA CORE One HF 0.4",
     "setting_id": "vniEPaoyABoAfLFa",
+    "include": [
+        "fdm_filament_template_nextruder_pla_hf"
+    ],
     "chamber_temperature": [
         "20"
     ],

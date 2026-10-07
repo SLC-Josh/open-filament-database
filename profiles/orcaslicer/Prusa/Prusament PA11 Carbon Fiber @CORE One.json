@@ -144,6 +144,9 @@
     "renamed_from": "Prusament PA-CF CORE One;Prusament PA-CF @CORE One MMU3;Prusament PA-CF CORE One MMU3;Prusament PA-CF @CORE One",
     "setting_id": "sNGgucQjiFXwuFkq",
     "filament_id": "OF4MZtnE",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "chamber_temperature": [
         "40"
     ],

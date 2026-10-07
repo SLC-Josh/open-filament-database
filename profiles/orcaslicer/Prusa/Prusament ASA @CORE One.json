@@ -144,6 +144,9 @@
     "renamed_from": "Prusament ASA CORE One;Prusament ASA @CORE One MMU3;Prusament ASA CORE One MMU3",
     "setting_id": "UUTjJ4Y8St3c87jD",
     "filament_id": "OFmFwUWM",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "chamber_temperature": [
         "40"
     ],

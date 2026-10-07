@@ -150,6 +150,9 @@
     "renamed_from": "Prusament PVB CORE One;Prusament PVB @CORE One MMU3;Prusament PVB CORE One MMU3",
     "setting_id": "Nn7eVPawILDH4BRW",
     "filament_id": "OFh7mvPO",
+    "include": [
+        "fdm_filament_template_nextruder_pla"
+    ],
     "chamber_temperature": [
         "20"
     ],
@@ -162,5 +165,11 @@
     ],
     "filament_z_hop_types": [
         "Slope Lift"
+    ],
+    "filament_unloading_speed": [
+        "60"
+    ],
+    "filament_unloading_speed_start": [
+        "60"
     ]
 }

@@ -144,6 +144,9 @@
     "renamed_from": "Prusament PC Blend CORE One;Prusament PC Blend @CORE One MMU3;Prusament PC Blend CORE One MMU3",
     "setting_id": "LDvckXo1zpccnT4g",
     "filament_id": "OFvDbkFq",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "chamber_temperature": [
         "40"
     ],

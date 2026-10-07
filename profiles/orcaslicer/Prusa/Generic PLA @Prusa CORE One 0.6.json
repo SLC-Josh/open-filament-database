@@ -147,13 +147,20 @@
     "filament_id": "OFDSrzZ8",
     "renamed_from": "Prusa Generic PLA @CORE One 0.6;Prusa Generic PLA CORE One 0.6",
     "setting_id": "IkmLxDwrdRkacHWw",
+    "include": [
+        "fdm_filament_template_nextruder_pla"
+    ],
     "chamber_temperature": [
         "20"
     ],
     "compatible_printers": [
-        "Prusa CORE One 0.6 nozzle"
+        "Prusa CORE One 0.6 nozzle",
+        "Prusa CORE One MMU3 0.6 nozzle"
     ],
     "filament_z_hop_types": [
         "Slope Lift"
+    ],
+    "filament_cooling_final_speed": [
+        "1.5"
     ]
 }

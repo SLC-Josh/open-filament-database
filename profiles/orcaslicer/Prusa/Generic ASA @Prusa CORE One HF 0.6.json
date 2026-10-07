@@ -195,6 +195,9 @@
         "Bowden High Flow",
         "Bowden Extra High Flow"
     ],
+    "include": [
+        "fdm_filament_template_nextruder_pet_hf"
+    ],
     "chamber_temperature": [
         "40"
     ],

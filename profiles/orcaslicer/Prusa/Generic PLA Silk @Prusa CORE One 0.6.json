@@ -203,6 +203,9 @@
         "Prusa CORE One 0.6 nozzle",
         "Prusa CORE One HF 0.6 nozzle"
     ],
+    "include": [
+        "fdm_filament_template_nextruder_pla"
+    ],
     "chamber_temperature": [
         "20"
     ],
@@ -276,5 +279,8 @@
         "80",
         "80",
         "80"
+    ],
+    "filament_cooling_final_speed": [
+        "1.5"
     ]
 }

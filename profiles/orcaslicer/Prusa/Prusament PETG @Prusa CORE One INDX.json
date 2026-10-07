@@ -143,6 +143,9 @@
     ],
     "setting_id": "2viuOmBvXuQm2FwV",
     "filament_id": "OFkR8E2c",
+    "include": [
+        "fdm_filament_template_indx"
+    ],
     "filament_notes": [
         "\nPrusa INDX 2.5.10 tuning."
     ],

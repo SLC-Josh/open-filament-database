@@ -144,6 +144,9 @@
     "filament_id": "OFYPdQJh",
     "renamed_from": "Prusa Generic PETG @CORE One HF 0.4;Prusa Generic PETG CORE One HF 0.4",
     "setting_id": "7oUyjvRHLH4bJyX0",
+    "include": [
+        "fdm_filament_template_nextruder_pet_hf"
+    ],
     "chamber_temperature": [
         "35"
     ],

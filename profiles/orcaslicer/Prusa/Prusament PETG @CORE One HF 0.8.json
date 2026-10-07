@@ -144,6 +144,9 @@
     "renamed_from": "Prusament PETG CORE One;Prusament PETG @CORE One MMU3;Prusament PETG CORE One MMU3",
     "setting_id": "EmrFLgk6ZkTHAvN8",
     "filament_id": "OFkR8E2c",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "chamber_temperature": [
         "35"
     ],

@@ -201,6 +201,9 @@
         "Prusa CORE One INDX 4T HF 0.4 nozzle",
         "Prusa CORE One INDX 8T HF 0.4 nozzle"
     ],
+    "include": [
+        "fdm_filament_template_indx"
+    ],
     "filament_notes": [
         "\nPrusa INDX 2.5.10 tuning."
     ],

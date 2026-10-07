@@ -147,6 +147,9 @@
     "renamed_from": "Prusament rPLA CORE One;Prusament rPLA @CORE One MMU3;Prusament rPLA CORE One MMU3",
     "setting_id": "dNK9a3tZOFeUZm60",
     "filament_id": "OFWRITFw",
+    "include": [
+        "fdm_filament_template_nextruder_pla"
+    ],
     "chamber_temperature": [
         "20"
     ],
