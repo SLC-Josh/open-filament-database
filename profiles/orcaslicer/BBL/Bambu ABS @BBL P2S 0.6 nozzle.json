@@ -4,7 +4,9 @@
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
-        "1"
+        "0",
+        "0",
+        "0"
     ],
     "additional_cooling_fan_speed": [
         "0"
