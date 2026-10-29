@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Printalot ABS @System",
+    "name": "PrintaLot ABS @System",
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
@@ -103,7 +103,7 @@
         "ABS"
     ],
     "filament_vendor": [
-        "Printalot"
+        "PrintaLot"
     ],
     "filament_wipe": [
         "nil"
@@ -199,7 +199,8 @@
     "nozzle_temperature_range_low": [
         "240"
     ],
-    "filament_id": "OFgq39c2",
-    "filament_notes": "Printalot ABS. Product page: https://printalot.com.ar/productos/filamentos/abs/abs-1-kg/ Community-contributed profile; not affiliated with or endorsed by Printalot.",
-    "setting_id": "yIAtpMcQarjl45T7"
+    "filament_id": "OFzFJPri",
+    "filament_notes": "PrintaLot ABS. Product page: https://printalot.com.ar/productos/filamentos/abs/abs-1-kg/",
+    "renamed_from": "Printalot ABS @System",
+    "setting_id": "WBIfEA6GObDEd1nB"
 }
