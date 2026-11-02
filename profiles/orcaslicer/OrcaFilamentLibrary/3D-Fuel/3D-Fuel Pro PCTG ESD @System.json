@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Pro PCTG ESD @System",
+    "name": "3D-Fuel Pro PCTG ESD @System",
     "from": "system",
     "instantiation": "true",
     "activate_air_filtration": [
@@ -199,6 +199,6 @@
     "nozzle_temperature_range_low": [
         "250"
     ],
-    "filament_id": "OFrALVKg",
-    "setting_id": "5MZXA2JUHeP9yh4C"
+    "filament_id": "OFPUx4CF",
+    "setting_id": "b0cnpbaDKqbqtPxC"
 }
