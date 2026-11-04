@@ -103,22 +103,35 @@
         "nil"
     ],
     "filament_dev_ams_drying_ams_limitations": [
-        "1"
+        "1",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "100",
+        "100",
+        "100",
         "100"
     ],
     "filament_dev_ams_drying_temperature": [
         "65",
         "80",
         "65",
-        "80"
+        "80",
+        "80",
+        "80",
+        "65",
+        "65"
     ],
     "filament_dev_ams_drying_time": [
         "12",
         "8.0",
         "12",
-        "8.0"
+        "8.0",
+        "8.0",
+        "8.0",
+        "12",
+        "12"
     ],
     "filament_dev_chamber_drying_bed_temperature": [
         "90.0"
@@ -130,6 +143,9 @@
         "95"
     ],
     "filament_dev_drying_softening_temperature": [
+        "85",
+        "85",
+        "95",
         "85"
     ],
     "filament_diameter": [
@@ -175,6 +191,9 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "0"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "45"
@@ -388,7 +407,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "108"
+        "95"
     ],
     "textured_plate_temp": [
         "100"
@@ -419,11 +438,14 @@
         "200"
     ],
     "filament_id": "GFB51",
-    "setting_id": "GFSB51_01",
-    "include": [
-        "fdm_filament_template_direct_dual"
+    "fins_extrude_safe_temp": [
+        "110"
     ],
     "pre_start_fan_time": [
         "3"
+    ],
+    "setting_id": "GFSB51_01",
+    "include": [
+        "fdm_filament_template_direct_dual"
     ]
 }

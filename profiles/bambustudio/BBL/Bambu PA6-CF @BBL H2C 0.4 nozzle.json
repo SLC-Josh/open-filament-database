@@ -107,18 +107,31 @@
         "nil"
     ],
     "filament_dev_ams_drying_ams_limitations": [
-        "1"
+        "1",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "165",
+        "165",
+        "165",
         "165"
     ],
     "filament_dev_ams_drying_temperature": [
         "65",
         "85",
         "65",
-        "85"
+        "85",
+        "85",
+        "85",
+        "65",
+        "65"
     ],
     "filament_dev_ams_drying_time": [
+        "12",
+        "12",
+        "12",
+        "12",
         "12",
         "12",
         "12",
@@ -134,6 +147,9 @@
         "150"
     ],
     "filament_dev_drying_softening_temperature": [
+        "150",
+        "150",
+        "150",
         "150"
     ],
     "filament_diameter": [
@@ -183,6 +199,9 @@
         "235",
         "235",
         "235"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "30"
@@ -424,6 +443,9 @@
     ],
     "filament_id": "GFN05",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "fins_extrude_safe_temp": [
+        "186"
+    ],
     "setting_id": "GFSN05_08",
     "filament_change_length_nc": [
         "4"

@@ -47,7 +47,6 @@
     "filament_wipe": "1",
     "filament_retract_layer_change": "0",
     "filament_deretract_speed": "30",
-    "filament_abrasive": "1",
     "idle_temperature": "70",
     "filament_retract_before_wipe": "20",
     "filament_travel_ramping_lift": "1",
@@ -55,8 +54,6 @@
     "filament_travel_slope": "1",
     "filament_infill_max_speed": "0",
     "filament_infill_max_crossing_speed": "140",
-    "cooling_slowdown_logic": "consistent_surface",
-    "cooling_perimeter_transition_distance": "10",
     "filament_stamping_distance": "45",
     "filament_stamping_loading_speed": "26.5"
 }

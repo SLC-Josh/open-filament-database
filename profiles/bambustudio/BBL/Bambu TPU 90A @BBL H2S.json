@@ -107,22 +107,35 @@
         "10"
     ],
     "filament_dev_ams_drying_ams_limitations": [
-        "1"
+        "1",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "45",
+        "45",
+        "70",
         "45"
     ],
     "filament_dev_ams_drying_temperature": [
         "65",
         "75",
         "45",
+        "45",
+        "75",
+        "65",
+        "65",
         "45"
     ],
     "filament_dev_ams_drying_time": [
         "12",
         "18",
         "12",
-        "18"
+        "18",
+        "18",
+        "18",
+        "12",
+        "12"
     ],
     "filament_dev_chamber_drying_bed_temperature": [
         "90.0"
@@ -134,6 +147,9 @@
         "40"
     ],
     "filament_dev_drying_softening_temperature": [
+        "50",
+        "50",
+        "70",
         "50"
     ],
     "filament_diameter": [
@@ -181,6 +197,9 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "0"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "45"
@@ -407,7 +426,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "30"
+        "40"
     ],
     "textured_plate_temp": [
         "35"
@@ -434,6 +453,9 @@
     ],
     "filament_id": "GFU03",
     "description": "This filament is too soft and not compatible with the AMS. Printing it is of many requirements, and to get better printing quality, please refer to this wiki: TPU printing guide.",
+    "fins_extrude_safe_temp": [
+        "60"
+    ],
     "setting_id": "GFSU03_11",
     "include": [
         "fdm_filament_template_direct_dual_e3d"

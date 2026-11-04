@@ -105,18 +105,31 @@
         "nil"
     ],
     "filament_dev_ams_drying_ams_limitations": [
-        "1"
+        "1",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "165",
+        "165",
+        "165",
         "165"
     ],
     "filament_dev_ams_drying_temperature": [
         "65",
         "80",
         "65",
-        "80"
+        "80",
+        "80",
+        "80",
+        "65",
+        "65"
     ],
     "filament_dev_ams_drying_time": [
+        "12",
+        "12",
+        "12",
+        "12",
         "12",
         "12",
         "12",
@@ -132,6 +145,9 @@
         "150"
     ],
     "filament_dev_drying_softening_temperature": [
+        "150",
+        "150",
+        "150",
         "150"
     ],
     "filament_diameter": [
@@ -179,6 +195,9 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "0"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "30"
@@ -403,7 +422,7 @@
         "80"
     ],
     "temperature_vitrification": [
-        "185"
+        "150"
     ],
     "textured_plate_temp": [
         "100"
@@ -430,6 +449,9 @@
     ],
     "filament_id": "GFT01",
     "description": "When printing this filament, there's a risk of nozzle clogging, oozing, warping and low layer adhesion strength. To get better results, please refer to this wiki: Printing Tips for High Temp / Engineering materials.",
+    "fins_extrude_safe_temp": [
+        "205"
+    ],
     "pre_start_fan_time": [
         "2"
     ],

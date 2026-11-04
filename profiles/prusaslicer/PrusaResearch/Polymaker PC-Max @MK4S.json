@@ -33,7 +33,7 @@
     "filament_colour": "#FFF2EC",
     "filament_max_volumetric_speed": "8",
     "filament_type": "PC",
-    "first_layer_bed_temperature": "110",
+    "first_layer_bed_temperature": "100",
     "first_layer_temperature": "270",
     "max_fan_speed": "12",
     "min_fan_speed": "12",
@@ -42,8 +42,6 @@
     "idle_temperature": "100",
     "filament_infill_max_speed": "0",
     "filament_infill_max_crossing_speed": "100",
-    "cooling_slowdown_logic": "consistent_surface",
-    "cooling_perimeter_transition_distance": "10",
     "filament_stamping_distance": "45",
     "filament_stamping_loading_speed": "26.5"
 }

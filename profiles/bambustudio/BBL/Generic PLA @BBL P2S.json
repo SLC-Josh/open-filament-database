@@ -106,18 +106,31 @@
     ],
     "filament_dev_ams_drying_ams_limitations": [
         "1",
-        "0"
+        "0",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "45",
+        "45",
+        "60",
         "45"
     ],
     "filament_dev_ams_drying_temperature": [
         "45",
         "45",
         "45",
+        "45",
+        "55",
+        "55",
+        "45",
         "45"
     ],
     "filament_dev_ams_drying_time": [
+        "12",
+        "12",
+        "12",
+        "12",
         "12",
         "12",
         "12",
@@ -133,6 +146,9 @@
         "45"
     ],
     "filament_dev_drying_softening_temperature": [
+        "50",
+        "50",
+        "65",
         "50"
     ],
     "filament_diameter": [
@@ -180,6 +196,9 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "0"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "45"
@@ -425,6 +444,9 @@
     ],
     "filament_id": "GFL99",
     "description": "The generic presets are conservatively tuned for compatibility with a wider range of filaments. For higher printing quality and speeds, please use Bambu filaments with Bambu presets.",
+    "fins_extrude_safe_temp": [
+        "57"
+    ],
     "setting_id": "GFSL99_13",
     "first_x_layer_fan_speed": [
         "40"

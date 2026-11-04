@@ -107,18 +107,31 @@
     ],
     "filament_dev_ams_drying_ams_limitations": [
         "1",
-        "0"
+        "0",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "50",
+        "50",
+        "60",
         "50"
     ],
     "filament_dev_ams_drying_temperature": [
         "60",
         "60",
         "50",
+        "50",
+        "60",
+        "60",
+        "60",
         "50"
     ],
     "filament_dev_ams_drying_time": [
+        "12",
+        "12",
+        "12",
+        "12",
         "12",
         "12",
         "12",
@@ -134,6 +147,9 @@
         "45"
     ],
     "filament_dev_drying_softening_temperature": [
+        "55",
+        "55",
+        "65",
         "55"
     ],
     "filament_diameter": [
@@ -186,6 +202,9 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "0"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "45"
@@ -410,7 +429,7 @@
         "0"
     ],
     "temperature_vitrification": [
-        "45"
+        "40"
     ],
     "textured_plate_temp": [
         "60"
@@ -435,6 +454,9 @@
     ],
     "filament_id": "GFS05",
     "description": "This is a non-water-soluble support filament, and usually it is only for the support structure and not for the model body. To get better printing quality, please refer to this wiki: Printing Tips for Support Filament and Support Function.",
+    "fins_extrude_safe_temp": [
+        "57"
+    ],
     "setting_id": "GFSS05_16",
     "first_x_layer_fan_speed": [
         "40"

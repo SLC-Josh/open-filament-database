@@ -106,9 +106,14 @@
     ],
     "filament_dev_ams_drying_ams_limitations": [
         "1",
-        "0"
+        "0",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "45",
+        "45",
+        "60",
         "45"
     ],
     "filament_dev_ams_drying_temperature": [
@@ -133,6 +138,9 @@
         "45"
     ],
     "filament_dev_drying_softening_temperature": [
+        "50",
+        "50",
+        "65",
         "50"
     ],
     "filament_diameter": [
@@ -179,6 +187,9 @@
     "filament_pre_cooling_temperature_nc": [
         "180",
         "180"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "30"
@@ -419,6 +430,9 @@
         "100"
     ],
     "filament_id": "GFA19",
+    "fins_extrude_safe_temp": [
+        "57"
+    ],
     "pre_start_fan_time": [
         "2"
     ],

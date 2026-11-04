@@ -105,22 +105,35 @@
         "nil"
     ],
     "filament_dev_ams_drying_ams_limitations": [
-        "1"
+        "1",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "75",
+        "75",
+        "75",
         "75"
     ],
     "filament_dev_ams_drying_temperature": [
         "65",
         "85",
         "65",
-        "70"
+        "70",
+        "85",
+        "70",
+        "65",
+        "65"
     ],
     "filament_dev_ams_drying_time": [
         "12",
         "18",
         "12",
-        "18"
+        "18",
+        "18",
+        "18",
+        "12",
+        "12"
     ],
     "filament_dev_chamber_drying_bed_temperature": [
         "90.0"
@@ -132,6 +145,9 @@
         "40"
     ],
     "filament_dev_drying_softening_temperature": [
+        "75",
+        "75",
+        "75",
         "75"
     ],
     "filament_diameter": [
@@ -178,6 +194,9 @@
         "0"
     ],
     "filament_pre_cooling_temperature_nc": [
+        "0"
+    ],
+    "filament_pre_heating_enabled": [
         "0"
     ],
     "filament_prime_volume": [
@@ -395,7 +414,7 @@
         "35"
     ],
     "temperature_vitrification": [
-        "45"
+        "40"
     ],
     "textured_plate_temp": [
         "55"
@@ -420,6 +439,9 @@
     ],
     "filament_id": "GFS04",
     "description": "This is a water-soluble support filament, and usually it is only for the support structure and not for the model body. Printing this filament is of many requirements, and to get better printing quality, please refer to this wiki: PVA Printing Guide.",
+    "fins_extrude_safe_temp": [
+        "55"
+    ],
     "setting_id": "GFSS04_10",
     "include": [
         "fdm_filament_template_direct_dual_e3d"

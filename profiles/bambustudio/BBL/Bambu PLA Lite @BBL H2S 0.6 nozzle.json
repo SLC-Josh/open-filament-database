@@ -106,9 +106,14 @@
     ],
     "filament_dev_ams_drying_ams_limitations": [
         "1",
-        "0"
+        "0",
+        "2",
+        "3"
     ],
     "filament_dev_ams_drying_heat_distortion_temperature": [
+        "45",
+        "45",
+        "60",
         "45"
     ],
     "filament_dev_ams_drying_temperature": [
@@ -133,6 +138,9 @@
         "45"
     ],
     "filament_dev_drying_softening_temperature": [
+        "50",
+        "50",
+        "65",
         "50"
     ],
     "filament_diameter": [
@@ -167,7 +175,7 @@
     "filament_max_volumetric_speed": [
         "20",
         "30",
-        "20"
+        "45"
     ],
     "filament_metal_stickiness": [
         "None"
@@ -180,6 +188,9 @@
     ],
     "filament_pre_cooling_temperature_nc": [
         "0"
+    ],
+    "filament_pre_heating_enabled": [
+        "1"
     ],
     "filament_prime_volume": [
         "30"
@@ -217,7 +228,7 @@
     "filament_retraction_length": [
         "0.4",
         "0.4",
-        "0.4"
+        "0.8"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -430,6 +441,9 @@
         "100"
     ],
     "filament_id": "GFA18",
+    "fins_extrude_safe_temp": [
+        "57"
+    ],
     "setting_id": "GFSA18_46",
     "include": [
         "fdm_filament_template_direct_dual_e3d"
