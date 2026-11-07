@@ -190,9 +190,11 @@
         "; filament end gcode\n"
     ],
     "compatible_printers": [
+        "Sovol SV08 MAX 0.2 nozzle",
         "Sovol SV08 MAX 0.4 nozzle",
         "Sovol SV08 MAX 0.6 nozzle",
-        "Sovol SV08 MAX 0.8 nozzle"
+        "Sovol SV08 MAX 0.8 nozzle",
+        "Sovol SV08 MAX 1.0 nozzle"
     ],
     "filament_multitool_ramming_flow": [
         "15"
