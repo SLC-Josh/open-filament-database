@@ -34,7 +34,7 @@
     "fan_below_layer_time": "100",
     "filament_colour": "#FFFFD7",
     "filament_max_volumetric_speed": "4",
-    "filament_type": "BVOH",
+    "filament_type": "PVA",
     "first_layer_bed_temperature": "60",
     "first_layer_temperature": "200",
     "max_fan_speed": "100",
