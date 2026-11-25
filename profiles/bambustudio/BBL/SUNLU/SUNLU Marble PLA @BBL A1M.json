@@ -9,16 +9,19 @@
     "additional_cooling_fan_speed": [
         "70"
     ],
+    "additional_fan_full_speed_layer": [
+        "0"
+    ],
     "chamber_temperatures": [
         "0"
     ],
     "circle_compensation_speed": [
         "200"
     ],
-    "close_fan_the_first_x_layers": [
+    "close_additional_fan_first_x_layers": [
         "1"
     ],
-    "close_additional_fan_first_x_layers": [
+    "close_fan_the_first_x_layers": [
         "1"
     ],
     "complete_print_exhaust_fan_speed": [
@@ -29,6 +32,12 @@
     ],
     "cool_plate_temp_initial_layer": [
         "35"
+    ],
+    "cooling_perimeter_transition_distance": [
+        "10"
+    ],
+    "cooling_slowdown_logic": [
+        "uniform_cooling"
     ],
     "counter_coef_1": [
         "0"
@@ -52,10 +61,10 @@
         "70"
     ],
     "eng_plate_temp": [
-        "0"
+        "55"
     ],
     "eng_plate_temp_initial_layer": [
-        "0"
+        "55"
     ],
     "fan_cooling_layer_time": [
         "80"
@@ -69,29 +78,18 @@
     "filament_adaptive_volumetric_speed": [
         "0"
     ],
-    "filament_extruder_compatibility": [
-        "0"
+    "filament_bridge_speed": [
+        "25"
     ],
-    "filament_cooling_before_tower": [
-        "0"
-    ],
-    "filament_preheat_temperature_delta": [
-        "0"
-    ],
-    "filament_tower_interface_pre_extrusion_dist": [
+    "filament_change_length": [
         "10"
     ],
-    "filament_tower_interface_pre_extrusion_length": [
+    "filament_change_length_nc": [
+        "10"
+    ],
+    "filament_contact_safe": "1",
+    "filament_cooling_before_tower": [
         "0"
-    ],
-    "filament_tower_ironing_area": [
-        "4"
-    ],
-    "filament_tower_interface_purge_volume": [
-        "20"
-    ],
-    "filament_tower_interface_print_temp": [
-        "-1"
     ],
     "filament_cost": [
         "31.99"
@@ -112,7 +110,7 @@
         "45",
         "45",
         "60",
-        "45"
+        "60"
     ],
     "filament_dev_ams_drying_temperature": [
         "45",
@@ -121,8 +119,8 @@
         "45",
         "55",
         "55",
-        "45",
-        "45"
+        "55",
+        "55"
     ],
     "filament_dev_ams_drying_time": [
         "12",
@@ -147,10 +145,17 @@
         "50",
         "50",
         "65",
-        "50"
+        "65"
     ],
     "filament_diameter": [
         "1.75"
+    ],
+    "filament_emission_safe": "1",
+    "filament_enable_overhang_speed": [
+        "1"
+    ],
+    "filament_extruder_compatibility": [
+        "0"
     ],
     "filament_extruder_variant": [
         "Direct Drive Standard"
@@ -167,6 +172,8 @@
     "filament_flush_volumetric_speed": [
         "0"
     ],
+    "filament_idle_travel_cooling_enabled": "1",
+    "filament_ingredients_safe": "1",
     "filament_is_support": [
         "0"
     ],
@@ -185,6 +192,21 @@
     "filament_minimal_purge_on_wipe_tower": [
         "15"
     ],
+    "filament_overhang_1_4_speed": [
+        "0"
+    ],
+    "filament_overhang_2_4_speed": [
+        "50"
+    ],
+    "filament_overhang_3_4_speed": [
+        "30"
+    ],
+    "filament_overhang_4_4_speed": [
+        "10"
+    ],
+    "filament_overhang_totally_speed": [
+        "10"
+    ],
     "filament_pre_cooling_temperature": [
         "0"
     ],
@@ -194,6 +216,12 @@
     "filament_pre_heating_enabled": [
         "1"
     ],
+    "filament_preheat_temperature_delta": [
+        "0"
+    ],
+    "filament_prime_tower_speed_factor_curve": [
+        ""
+    ],
     "filament_prime_volume": [
         "45"
     ],
@@ -202,6 +230,9 @@
     ],
     "filament_printable": [
         "3"
+    ],
+    "filament_ramming_travel_time": [
+        "0"
     ],
     "filament_ramming_travel_time_nc": [
         "0"
@@ -214,6 +245,9 @@
     ],
     "filament_retract_before_wipe": [
         "nil"
+    ],
+    "filament_retract_length_nc": [
+        "14"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -236,6 +270,15 @@
     "filament_retraction_speed": [
         "nil"
     ],
+    "filament_scarf_gap": [
+        "15%"
+    ],
+    "filament_scarf_height": [
+        "10%"
+    ],
+    "filament_scarf_length": [
+        "10"
+    ],
     "filament_scarf_seam_type": [
         "none"
     ],
@@ -248,8 +291,26 @@
     "filament_soluble": [
         "0"
     ],
+    "filament_tower_interface_pre_extrusion_dist": [
+        "10"
+    ],
+    "filament_tower_interface_pre_extrusion_length": [
+        "0"
+    ],
+    "filament_tower_interface_print_temp": [
+        "-1"
+    ],
+    "filament_tower_interface_purge_volume": [
+        "20"
+    ],
+    "filament_tower_ironing_area": [
+        "4"
+    ],
     "filament_type": [
         "PLA"
+    ],
+    "filament_velocity_adaptation_factor": [
+        "1"
     ],
     "filament_vendor": [
         "SUNLU"
@@ -266,63 +327,12 @@
     "filament_z_hop_types": [
         "nil"
     ],
+    "first_x_layer_fan_speed": [
+        "0"
+    ],
     "full_fan_speed_layer": [
         "0"
     ],
-    "additional_fan_full_speed_layer": [
-        "0"
-    ],
-    "filament_scarf_height": [
-        "10%"
-    ],
-    "filament_scarf_gap": [
-        "15%"
-    ],
-    "filament_scarf_length": [
-        "10"
-    ],
-    "filament_ramming_travel_time": [
-        "0"
-    ],
-    "filament_retract_length_nc": [
-        "14"
-    ],
-    "filament_enable_overhang_speed": [
-        "1"
-    ],
-    "filament_overhang_1_4_speed": [
-        "0"
-    ],
-    "filament_overhang_2_4_speed": [
-        "50"
-    ],
-    "filament_overhang_3_4_speed": [
-        "30"
-    ],
-    "filament_overhang_4_4_speed": [
-        "10"
-    ],
-    "filament_overhang_totally_speed": [
-        "10"
-    ],
-    "filament_bridge_speed": [
-        "25"
-    ],
-    "filament_change_length": [
-        "10"
-    ],
-    "filament_velocity_adaptation_factor": [
-        "1"
-    ],
-    "hot_plate_temp": [
-        "60"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "60"
-    ],
-    "filament_ingredients_safe": "1",
-    "filament_emission_safe": "1",
-    "filament_contact_safe": "1",
     "hole_coef_1": [
         "0"
     ],
@@ -337,6 +347,18 @@
     ],
     "hole_limit_min": [
         "0.088"
+    ],
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "effect_plate_temp": [
+        "55"
+    ],
+    "effect_plate_temp_initial_layer": [
+        "55"
     ],
     "impact_strength_z": [
         "10.0"
@@ -379,12 +401,6 @@
     ],
     "slow_down_for_layer_cooling": [
         "1"
-    ],
-    "cooling_slowdown_logic": [
-        "uniform_cooling"
-    ],
-    "cooling_perimeter_transition_distance": [
-        "10"
     ],
     "slow_down_layer_time": [
         "6"
