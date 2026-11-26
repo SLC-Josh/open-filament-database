@@ -131,14 +131,14 @@
     "renamed_from": "Prusa Generic PLA @MK4S HF0.5;Prusa Generic PLA MK4S HF0.5",
     "setting_id": "IDv2UUR8EH7AVUIA",
     "filament_id": "OFDSrzZ8",
+    "include": [
+        "fdm_filament_template_nextruder_pla_hf"
+    ],
     "compatible_printers": [
         "Prusa MK4S HF0.5 nozzle"
     ],
     "default_filament_colour": "#FF8000",
     "filament_notes": [
         ""
-    ],
-    "filament_ramming_parameters": [
-        "250 100 40 40| 0.05 40 0.45 40 0.95 40 1.45 40 1.95 40 2.45 40 2.95 40 3.45 40 3.95 40 4.45 40 4.95 40"
     ]
 }

@@ -124,6 +124,9 @@
     "renamed_from": "Prusa Generic ASA @MK4S 0.8;Prusa Generic ASA MK4S 0.8",
     "setting_id": "a0IXdYic1FVnKaJg",
     "filament_id": "OFLPAxz3",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "compatible_printers": [
         "Prusa MK4S 0.8 nozzle"
     ],

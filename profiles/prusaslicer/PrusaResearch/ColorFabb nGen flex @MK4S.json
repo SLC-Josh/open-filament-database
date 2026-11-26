@@ -44,6 +44,7 @@
     "filament_wipe": "0",
     "filament_vendor": "ColorFabb",
     "filament_spool_weight": "236",
+    "compatible_prints_condition": "notes!~/.*HT_HOTEND_HT.*/",
     "filament_retract_speed": "60",
     "filament_retract_before_travel": "2",
     "filament_retract_layer_change": "0",

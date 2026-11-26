@@ -112,14 +112,15 @@
     "renamed_from": "Prusa Generic PETG @MK4S 0.6;Prusa Generic PETG MK4S 0.6",
     "setting_id": "z5Ys1AU5ujQF9D5U",
     "filament_id": "OFYPdQJh",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "compatible_printers": [
-        "Prusa MK4S 0.6 nozzle"
+        "Prusa MK4S 0.6 nozzle",
+        "Prusa MK4S MMU3 0.6 nozzle"
     ],
     "default_filament_colour": "#FF8000",
     "filament_notes": [
         ""
-    ],
-    "filament_ramming_parameters": [
-        "250 100 42.4 42.4 42.4 42.4 42.4 | 0.05 42.4 0.45 42.4 0.95 42.4 1.45 42.4 1.95 42.4 2.45 42.4 2.95 42.4 3.45 42.4 3.95 42.4 4.45 42.4 4.95 42.4"
     ]
 }

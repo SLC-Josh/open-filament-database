@@ -124,10 +124,14 @@
     "renamed_from": "Prusa Generic ASA @MK4S;Prusa Generic ASA MK4S",
     "setting_id": "THc7WYsGi7nwc5wv",
     "filament_id": "OFLPAxz3",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "compatible_printers": [
         "Prusa MK4S 0.25 nozzle",
         "Prusa MK4S 0.3 nozzle",
         "Prusa MK4S 0.4 nozzle",
+        "Prusa MK4S MMU3 0.4 nozzle",
         "Prusa MK4S 0.5 nozzle"
     ],
     "default_filament_colour": "#FFF2EC",

@@ -120,6 +120,9 @@
     "renamed_from": "Prusa Generic ASA @MK4S HF0.6;Prusa Generic ASA MK4S HF0.6",
     "setting_id": "yDj1rzyRIOYJM4Pp",
     "filament_id": "OFLPAxz3",
+    "include": [
+        "fdm_filament_template_nextruder_pet_hf"
+    ],
     "compatible_printers": [
         "Prusa MK4S HF0.6 nozzle"
     ],

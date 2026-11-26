@@ -125,6 +125,9 @@
     ],
     "setting_id": "7gGAWA0q7ZbcUg9l",
     "filament_id": "OFvDbkFq",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "compatible_printers": [
         "Prusa MK4S HF0.8 nozzle"
     ],

@@ -111,15 +111,15 @@
     ],
     "setting_id": "wQHkNi9PUdQBELEy",
     "filament_id": "OFkR8E2c",
+    "include": [
+        "fdm_filament_template_nextruder_pet"
+    ],
     "compatible_printers": [
         "Prusa MK4S HF0.8 nozzle"
     ],
     "default_filament_colour": "#FF8000",
     "filament_notes": [
         ""
-    ],
-    "filament_ramming_parameters": [
-        "250 100 42.4 42.4 42.4 42.4 42.4 | 0.05 42.4 0.45 42.4 0.95 42.4 1.45 42.4 1.95 42.4 2.45 42.4 2.95 42.4 3.45 42.4 3.95 42.4 4.45 42.4 4.95 42.4"
     ],
     "filament_spool_weight": [
         "278"
